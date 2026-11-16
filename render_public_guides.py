@@ -6,6 +6,7 @@ from pathlib import Path
 from xml.etree import ElementTree
 
 from render_contractor_directory import render_directory
+from render_individual_contractors import ROUTE, render_individual_contractors
 
 OUTPUT = Path("dist")
 SITEMAP_NAMESPACE = "http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -87,10 +88,13 @@ def render():
     namespace = f"{{{SITEMAP_NAMESPACE}}}"
     origin = sitemap.getroot().findtext(f"{namespace}url/{namespace}loc").rstrip("/")
     render_directory(OUTPUT)
+    render_individual_contractors(OUTPUT)
     route = "/contractors/"
     links = [f'<li><a href="{route}">Find a contractor or One Stop Shop</a></li>']
     url = ElementTree.SubElement(sitemap.getroot(), f"{namespace}url")
     ElementTree.SubElement(url, f"{namespace}loc").text = origin + route
+    url = ElementTree.SubElement(sitemap.getroot(), f"{namespace}url")
+    ElementTree.SubElement(url, f"{namespace}loc").text = origin + ROUTE
     for record in evidence:
         source_id = record["sourcePageId"]
         title = record.get("title") or sources[source_id]["title"]

@@ -45,6 +45,7 @@ th, td {{ padding: .55rem; text-align: left; vertical-align: top; border-bottom:
 <h1>Find an SEAI contractor or One Stop Shop</h1>
 <section>
 <h2>Contractors for individual grants</h2>
+<p><a href="/contractors/individual/">Browse the contractor directory</a> by service area and registered measure.</p>
 <p><a href="https://hes.seai.ie/GrantProcess/ContractorSearch.aspx">Search SEAI’s live contractor register</a> by service area, upgrade type, company name or contractor ID.</p>
 </section>
 <p>One Stop Shop listings checked <time datetime="{snapshot["checked"]}">16 November 2026</time>.
