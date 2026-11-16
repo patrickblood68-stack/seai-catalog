@@ -28,5 +28,206 @@
         "details": []
       }
     ]
+  },
+  {
+    "sourcePageId": "individual-grants-attic-insulation",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/attic-insulation",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Who can apply",
+        "summary": "The property needs an MPRN and must have been built and occupied before 2011. SEAI lists owner-occupiers, first-time buyers and several other ownership categories.",
+        "details": []
+      },
+      {
+        "heading": "Grants values for attic insulation",
+        "summary": "Standard amounts depend on dwelling type.",
+        "details": [
+          "Apartment €1,100, mid-terrace €1,400, semi-detached or end-terrace €1,500, detached €2,000.",
+          "Enhanced amounts for eligible applicants are €1,400, €1,800, €1,900 and €2,500 respectively. Check the specific first-time buyer, qualifying welfare payment or active HAP/RAS conditions."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "summary": "Choose a contractor registered for the measure and get SEAI approval before starting. Apply online or by post.",
+        "details": [
+          "Accept the offer within 30 days. Allow for completion, the post-works BER and paperwork within eight months of the offer."
+        ]
+      }
+    ]
+  },
+  {
+    "sourcePageId": "individual-grants-wall-insulation",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/wall-insulation",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Who can apply",
+        "summary": "SEAI requires an MPRN and specifies that the home must have been built and occupied before 31 December 2010. The grant requires insulating the full external wall surface.",
+        "details": [
+          "A previous cavity grant can be followed by internal or external insulation. A previous internal grant can be followed by external insulation. A prior external grant rules out a second wall measure."
+        ]
+      },
+      {
+        "heading": "Grants values for wall insulation",
+        "summary": "The amount depends on the dwelling and insulation method. Values below are in cavity, internal and external order.",
+        "details": [
+          "Apartment €700 / €1,500 / €3,000; mid-terrace €850 / €2,000 / €3,500; semi-detached or end-terrace €1,300 / €3,500 / €6,000; detached €1,800 / €4,500 / €8,000.",
+          "Enhanced cavity support ranges from €900 to €2,300 by dwelling type for eligible welfare or active HAP/RAS cases."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "summary": "For a self-managed project, use a contractor registered for the measure and secure SEAI approval before work starts.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "individual-grants-windows-and-doors",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/windows-and-doors",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Eligibility criteria",
+        "summary": "The home must have been built and occupied before 2011 and have sufficient attic and wall insulation. Check the existing BER advisory report or consult a BER assessor.",
+        "details": [
+          "Eligible work replaces existing single or double glazing with high-performing windows or replaces inefficient external doors."
+        ]
+      },
+      {
+        "heading": "Grant values",
+        "summary": "Window grant by dwelling: apartment €1,500, mid-terrace €1,800, semi-detached or end-terrace €3,000, detached €4,000.",
+        "details": [
+          "External doors qualify for €800 each, up to two. Windows and doors may be applied for individually or together."
+        ]
+      },
+      {
+        "heading": "Grant payment criteria",
+        "summary": "Payment requires a post-works BER, replacement units meeting a U-value of 1.4 W/(m²·K) or lower, and either a heat loss indicator of 2.3 W/(m²·K) or lower or qualifying attic and wall ratings in the advisory report.",
+        "details": [
+          "The work must meet SEAI's ventilation and safety requirements. Multiple doors claimed together must use the same appointed registered contractor."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "summary": "Get quotes from registered contractors, apply to SEAI and wait for the grant offer before starting under the standard process.",
+        "details": [
+          "SEAI's FAQ describes a transitional exception for certain recently ordered or commenced work. Check the FAQ before ruling out such a case."
+        ]
+      }
+    ]
+  },
+  {
+    "sourcePageId": "individual-grants-heat-pump-systems",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/heat-pump-systems",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Who can apply",
+        "summary": "The home needs an MPRN and must have been built and occupied before 2021.",
+        "details": []
+      },
+      {
+        "heading": "Grant values for heat pump systems",
+        "summary": "The maximum bundle can reach €14,500 depending on dwelling type and eligibility. It combines up to €10,500 for the unit, up to €2,000 for required distribution upgrades and up to €2,000 for qualifying heating replacement or installation.",
+        "details": [
+          "A separate replacement route applies to existing heat pumps that never received an SEAI domestic grant. Maximum €6,500, or €4,500 for apartments."
+        ]
+      },
+      {
+        "heading": "Technical assessment for heat loss",
+        "summary": "For pre-2007 homes a technical assessment is required unless a valid BER shows a heat loss indicator of 2.3 W/(m²·K) or below. Homes built from 2007 can use the self-declaration route.",
+        "details": [
+          "Upload the applicable assessment or declaration with the application."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "summary": "Use an SEAI-registered contractor for the measure and get grant approval before starting work.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "individual-grants-solar-electricity-grant",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/solar-electricity-grant",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Who can apply",
+        "summary": "Homeowners, including private landlords, owner management companies and approved housing bodies can apply. The home needs an MPRN, must have been built and occupied before 2025, and must have no previous solar PV funding at that MPRN.",
+        "details": []
+      },
+      {
+        "heading": "Grant value for solar electricity",
+        "summary": "The standard solar PV grant pays €700 per kWp for the first 2 kWp and €200 per additional kWp up to 4 kWp. The PV maximum is €1,800.",
+        "details": [
+          "A qualifying 5 kWh battery may add €600. SEAI lists separate enhanced supports for certain welfare recipients and the Dublin RAS pilot."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "summary": "Choose an SEAI-registered solar PV company and get an offer before work begins. Complete the works and submit documents within eight months of approval.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "home-energy-upgrade-loan",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/home-energy-upgrade-loan",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "About the new low-cost loan",
+        "summary": "SEAI lists loans from €5,000 to €75,000 for up to 10 years. Participating lenders set their own rates and make the lending decision.",
+        "details": []
+      },
+      {
+        "heading": "Eligibility criteria",
+        "summary": "The owner must be upgrading a property in the Republic of Ireland through a qualifying SEAI grant with a registered One Stop Shop or Community Project Coordinator.",
+        "details": [
+          "Eligible energy work after deducting the grant must account for at least 75% of the loan. The projected energy performance improvement must be at least 20%. Completed projects are excluded."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "summary": "Ask the registered provider for a Home Energy Summary Report, then apply to a participating lender listed by SBCI. Check current lender terms before relying on the figures.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "one-stop-shop-multiple-energy-upgrades",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/multiple-energy-upgrades",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Check your eligibility",
+        "summary": "The home must have been built and occupied before 2011. After work, it must reach at least a B BER and either have a heat pump installed or achieve a primary energy improvement of 100 kWh/m² per year.",
+        "details": [
+          "SEAI lists homeowners, first-time buyers, private landlords and approved housing bodies. The provider checks your project's technical eligibility."
+        ]
+      },
+      {
+        "heading": "Exclusions",
+        "summary": "Previous SEAI funding for the same measures or energy credits through EEOS can affect eligibility. Ask your provider to check the specific measures.",
+        "details": []
+      },
+      {
+        "heading": "What to expect from a One Stop Shop",
+        "summary": "The provider arranges the assessment, manages the grant applications and work, and arranges the post-works BER. It deducts the grants upfront from the cost charged to you.",
+        "details": [
+          "An SEAI grant of €350 is available for a home energy assessment carried out by a One Stop Shop."
+        ]
+      }
+    ]
   }
 ]

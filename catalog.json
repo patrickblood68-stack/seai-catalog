@@ -14,7 +14,11 @@
   "evidence": {
     "records": "data/page-evidence-v1.json",
     "schema": "schemas/page-evidence-v1.json",
-    "recordCount": 1,
+    "recordCount": 8,
     "joinField": "sourcePageId"
+  },
+  "inventory": {
+    "path": "inventory/seai-sitemap-2026-11-16.json",
+    "scope": "URL discovery only"
   }
 }
