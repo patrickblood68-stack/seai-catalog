@@ -56,6 +56,34 @@
           }
         }
       }
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "officialLinks": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "label",
+          "url"
+        ],
+        "properties": {
+          "label": {
+            "type": "string",
+            "minLength": 1
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://(?:www|hes)\\.seai\\.ie/"
+          }
+        }
+      }
     }
   }
 }

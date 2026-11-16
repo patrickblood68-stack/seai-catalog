@@ -229,5 +229,43 @@
         ]
       }
     ]
+  },
+  {
+    "sourcePageId": "individual-grants-support-for-individual-grants",
+    "title": "Find an SEAI-registered contractor",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/support-for-individual-grants",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-12-16",
+    "sections": [
+      {
+        "heading": "3.1 Find a contractor",
+        "summary": "For an individual home energy grant, choose a contractor registered with SEAI for the exact work you plan to do. Search by county, service area and measure using the official register.",
+        "details": [
+          "Solar PV has a separate registered company list. For a managed home retrofit, use the registered One Stop Shop list.",
+          "SEAI registration sets requirements for participating contractors. SEAI does not guarantee their work."
+        ]
+      },
+      {
+        "heading": "3.2 Getting the best results with your chosen contractor",
+        "summary": "Compare quotes, ask for references and get a written contract before proceeding.",
+        "details": [
+          "Check that the contract specifies the work, price, timing, payment terms and warranties."
+        ]
+      }
+    ],
+    "officialLinks": [
+      {
+        "label": "Search registered home energy contractors",
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx"
+      },
+      {
+        "label": "Find a registered solar PV company",
+        "url": "https://www.seai.ie/find-grants-and-contractors/find-contractors/solar-pv-companies"
+      },
+      {
+        "label": "Find a registered One Stop Shop",
+        "url": "https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops"
+      }
+    ]
   }
 ]

@@ -23,6 +23,17 @@ def section_html(section):
     )
 
 
+def official_links_html(links):
+    if not links:
+        return ""
+    items = []
+    for link in links:
+        url = escape(link["url"], quote=True)
+        label = escape(link["label"])
+        items.append(f'<li><a href="{url}">{label}</a></li>')
+    return '<section><h2>Official registers</h2><ul>' + "".join(items) + "</ul></section>"
+
+
 def guide_html(title, record):
     title = escape(title)
     source = escape(record["sourceUrl"], quote=True)
@@ -50,6 +61,7 @@ def guide_html(title, record):
     <article>
       <h1>{title}</h1>
       {sections}
+      {official_links_html(record.get("officialLinks", []))}
       <section aria-labelledby="source">
         <h2 id="source">Official source</h2>
         <p><a href="{source}">Read the full guidance on SEAI</a>.</p>
@@ -75,7 +87,7 @@ def render():
     links = []
     for record in evidence:
         source_id = record["sourcePageId"]
-        title = sources[source_id]["title"]
+        title = record.get("title") or sources[source_id]["title"]
         route = f"/guides/{source_id}/"
         directory = OUTPUT / route.strip("/")
         directory.mkdir(parents=True, exist_ok=True)
