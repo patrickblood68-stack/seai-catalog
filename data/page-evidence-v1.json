@@ -267,5 +267,184 @@
         "url": "https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops"
       }
     ]
+  },
+  {
+    "sourcePageId": "individual-grants-battery",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/battery",
+    "title": "Home battery storage grant",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Grant value",
+        "summary": "SEAI offers a flat €600 grant for a home battery with a capacity of at least 5 kWh.",
+        "details": []
+      },
+      {
+        "heading": "Who can apply",
+        "summary": "Homeowners, including private landlords, owner management companies and approved housing bodies can apply. The home needs an MPRN and must have been built and occupied before 2025.",
+        "details": [
+          "A property that has already received battery grant funding is ineligible."
+        ]
+      },
+      {
+        "heading": "Battery and Solar PV",
+        "summary": "If you are installing both measures, you can apply for both grants in one application. If a solar PV application is already open, submit a new application for the battery.",
+        "details": []
+      },
+      {
+        "heading": "Criteria",
+        "summary": "Use an SEAI-registered solar PV contractor and wait for your grant offer before installing the battery.",
+        "details": [
+          "A post-works BER is required if the home has solar PV."
+        ]
+      }
+    ]
+  },
+  {
+    "sourcePageId": "individual-grants-solar-water-heating-grant",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/individual-grants/solar-water-heating-grant",
+    "title": "Solar water heating grant",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Grant value for solar water heating",
+        "summary": "SEAI offers €1,200 for solar thermal hot water, regardless of the property type.",
+        "details": []
+      },
+      {
+        "heading": "Who can apply",
+        "summary": "The property needs an MPRN and must have been built and occupied before 2025. Eligible owners include owner-occupiers, holiday-home owners and certain landlords and organisations.",
+        "details": []
+      },
+      {
+        "heading": "2. Apply to SEAI for grant offer",
+        "summary": "Choose a contractor registered with SEAI for solar thermal, then apply online or by post and wait for approval before work begins.",
+        "details": [
+          "Have the contractor’s name and ID, the property's MPRN, its dwelling type and its year of construction and first occupation. Accept the offer within 30 days."
+        ]
+      }
+    ]
+  },
+  {
+    "sourcePageId": "one-stop-shop-home-energy-assessments",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/home-energy-assessments",
+    "title": "Home Energy Assessment or BER?",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Difference between a Home Energy Assessment and a BER",
+        "summary": "A BER rates your home’s energy performance and is a starting point if you are planning one or two upgrades. A Home Energy Assessment includes a BER and a technical report for planning a larger retrofit.",
+        "details": []
+      },
+      {
+        "heading": "About your assessment",
+        "summary": "A One Stop Shop assessment can set out the upgrades needed to reach a B rating or better, estimated costs and what would make the home suitable for a heat pump.",
+        "details": []
+      },
+      {
+        "heading": "Grant for a home energy assessment",
+        "summary": "SEAI contributes €350 once per property. The One Stop Shop claims the grant and deducts it from the assessment price.",
+        "details": [
+          "Assessment prices vary. Compare quotes from registered One Stop Shops."
+        ]
+      }
+    ]
+  },
+  {
+    "sourcePageId": "one-stop-shop-traditional-homes",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/one-stop-shop/traditional-homes",
+    "title": "Retrofitting a traditional or heritage home",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Eligibility for the traditional homes pilot",
+        "summary": "The pilot supports whole-home upgrades for owners of traditionally built properties, typically built before 1940. Engage a Traditional Building Professional and a registered One Stop Shop that provides traditional-home services.",
+        "details": [
+          "The same measures must not have received previous SEAI grant support."
+        ]
+      },
+      {
+        "heading": "Exclusions",
+        "summary": "Projects already under way and proposals for a single upgrade are ineligible. You cannot claim both SEAI support and the Vacant Property Refurbishment Grant for the same works.",
+        "details": []
+      },
+      {
+        "heading": "Apply for the pilot programme",
+        "summary": "The One Stop Shop manages the retrofit and grant application. Agree a retrofit suitable for the building’s construction and heritage with your professional and One Stop Shop, and confirm the scheme’s technical criteria with them before proceeding.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "supports-for-landlords",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/supports-for-landlords",
+    "title": "Home energy grants for landlords",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Grant for complete home upgrade to minimum BER B",
+        "summary": "Private landlords can use a registered One Stop Shop for a managed upgrade involving multiple measures. SEAI says the home must reach at least a B rating and the provider deducts the grant from the price.",
+        "details": []
+      },
+      {
+        "heading": "Individual energy grants for step-by-step upgrades",
+        "summary": "Private and commercial landlords can apply for eligible measures and use a contractor registered with SEAI. Check the individual measure for property and applicant rules.",
+        "details": [
+          "SEAI directs commercial landlords to obtain the relevant authorisation forms before applying for a Better Energy Homes grant."
+        ]
+      },
+      {
+        "heading": "Enhanced grants for HAP and RAS-supported properties",
+        "summary": "Landlords with an active Housing Assistance Payment tenancy or Rental Accommodation Scheme arrangement may qualify for enhanced support on eligible measures. Check the criteria for the grant you plan to claim.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "vacant-derelict-homes",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/vacant-derelict-homes",
+    "title": "Energy grants for vacant and derelict homes",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "About the scheme",
+        "summary": "A vacant-home renovation can combine the local authority’s Vacant Property Refurbishment Grant with SEAI support for separate work. You can claim only one grant for any given item of work.",
+        "details": []
+      },
+      {
+        "heading": "Applying to the grant scheme",
+        "summary": "Tell the local authority Grant Officer if you are applying for both schemes. Choose the SEAI grant route that fits the energy upgrades you are planning and apply through that route.",
+        "details": []
+      }
+    ]
+  },
+  {
+    "sourcePageId": "homeowners-in-receipt-of-certain-department-of-social-protection-payments",
+    "sourceUrl": "https://www.seai.ie/grants/home-energy-grants/homeowners-in-receipt-of-certain-Department-of-Social-Protection-payments",
+    "title": "Higher energy grants for homeowners on qualifying welfare payments",
+    "lastCheckedAt": "2026-11-16",
+    "reviewBy": "2026-11-23",
+    "sections": [
+      {
+        "heading": "Are you in receipt of any of the following DSP welfare payments?",
+        "summary": "Check SEAI’s list of qualifying payments. These include Fuel Allowance under the National Fuel Scheme, Working Family Payment, One-Parent Family Payment and Domiciliary Care Allowance.",
+        "details": [
+          "Carer’s Allowance qualifies if you live with the person you care for. Jobseeker’s Allowance or Disability Allowance qualifies after more than six months if you have a child under seven."
+        ]
+      },
+      {
+        "heading": "Choose the grant route that is right for you",
+        "summary": "Enhanced individual grants let you choose eligible upgrades and a registered contractor. With Warmer Homes, SEAI assesses the home, selects suitable measures and manages and funds the approved work.",
+        "details": [
+          "The managed route has its own eligibility rules, including a home built and occupied before 2006."
+        ]
+      }
+    ]
   }
 ]

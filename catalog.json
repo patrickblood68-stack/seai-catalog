@@ -14,7 +14,7 @@
   "evidence": {
     "records": "data/page-evidence-v1.json",
     "schema": "schemas/page-evidence-v1.json",
-    "recordCount": 9,
+    "recordCount": 16,
     "joinField": "sourcePageId"
   },
   "inventory": {
