@@ -1,0 +1,275 @@
+{
+  "checked": "2026-11-16",
+  "registered": [
+    {
+      "name": "Activ8 Energies",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow, Cavan, Monaghan",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Ashgrove Renewables",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Aspen Eco Power",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Bayview Contracts Ltd",
+      "coverage": "Dublin, Kildare, Laois, Louth, Meath, Westmeath, Wicklow, Wexford, Monaghan",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Bord Gais Energy",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Breffni Insulation",
+      "coverage": "Leitrim, Mayo, Roscommon, Sligo, Dublin, Kildare, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wicklow, Cavan, Donegal, Monaghan",
+      "individualUpgrades": true
+    },
+    {
+      "name": "CBM Munster Construction T/A Home Energy Retrofits",
+      "coverage": "Carlow, Cork, Kildare, Kilkenny, Laois, Limerick, Offaly, Tipperary, Waterford, Wexford",
+      "individualUpgrades": false
+    },
+    {
+      "name": "Churchfield Home Services Ltd",
+      "coverage": "Galway, Mayo, Roscommon, Sligo, Dublin, Kildare, Louth, Meath, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Cooper Insulation Ltd",
+      "coverage": "Meath, Louth, Monaghan, Cavan, Westmeath, Offaly, Kildare, Dublin, Longford",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Electric Ireland Superhomes",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Energlaze Home Energy Upgrades",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow, Cork, Limerick, Tipperary, Waterford",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Energyfix",
+      "coverage": "Galway, Mayo, Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow, Clare, Limerick, Tipperary, Cavan, Monaghan",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Energywise Ireland",
+      "coverage": "Clare, Cork, Kerry, Limerick, Tipperary, Waterford",
+      "individualUpgrades": false
+    },
+    {
+      "name": "Greenwatt",
+      "coverage": "Dublin, Meath, Cavan, Longford, Roscommon, Westmeath",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Home Comfort Retrofits Ltd",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Louth, Meath, Offaly, Westmeath, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "House 2 Home Retrofit Ltd",
+      "coverage": "Galway, Leitrim, Mayo, Roscommon, Sligo, Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow, Clare, Cork, Kerry, Limerick, Tipperary, Waterford, Cavan, Monaghan",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Insulex",
+      "coverage": "Clare, Cork, Kerry, Limerick, Tipperary, Waterford",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Integrate Home Energy Upgrades",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Kingdom Installation Ltd",
+      "coverage": "Galway, Leitrim, Mayo, Roscommon, Sligo, Dublin, Longford, Clare, Cork, Kerry, Limerick, Tipperary, Donegal",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Kingspan Insulation Ltd",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Kore Retrofit Ltd",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Larkrock",
+      "coverage": "Dublin, Kildare, Louth, Meath, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Leetherm Project Management Ltd",
+      "coverage": "Carlow, Kildare, Kilkenny, Laois, Offaly, Wexford, Wicklow, Clare, Cork, Limerick, Tipperary, Waterford",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Lough Projects",
+      "coverage": "Dublin, Kildare, Louth, Meath, Westmeath, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Moston Construction",
+      "coverage": "Dublin, Meath, Kildare, Louth, Wicklow, Laois, Offaly",
+      "individualUpgrades": true
+    },
+    {
+      "name": "NetZero Group One Stop Shop",
+      "coverage": "Galway, Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow, Clare, Cork, Kerry, Limerick, Tipperary, Waterford, Cavan",
+      "individualUpgrades": false
+    },
+    {
+      "name": "Ohk Energy",
+      "coverage": "Carlow, Cavan, Clare, Cork, Dublin, Galway, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Retrofit Design Ltd",
+      "coverage": "Cork, Kerry, Limerick, Clare",
+      "individualUpgrades": true
+    },
+    {
+      "name": "Retrofit Energy Ireland",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "SE Systems",
+      "coverage": "Cork, Dublin",
+      "individualUpgrades": true
+    },
+    {
+      "name": "SSE Airtricity Energy Services Ltd",
+      "coverage": "Carlow, Cavan, Clare, Cork, Donegal, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow",
+      "individualUpgrades": true
+    },
+    {
+      "name": "WiEnergy",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Offaly, Tipperary, Waterford, Wexford, Wicklow",
+      "individualUpgrades": true
+    }
+  ],
+  "participating": [
+    {
+      "name": "Ashgrove Renewables",
+      "coverage": "All"
+    },
+    {
+      "name": "Aspen Eco Power",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow"
+    },
+    {
+      "name": "Activ8 Energies",
+      "coverage": "Carlow, Cavan, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Monaghan, Offaly, Westmeath, Wexford, Wicklow"
+    },
+    {
+      "name": "Bayview Contracts Ltd",
+      "coverage": "Dublin, Kildare, Laois, Louth, Meath, Monaghan, Westmeath, Wexford, Wicklow"
+    },
+    {
+      "name": "Bord Gáis Energy",
+      "coverage": "All"
+    },
+    {
+      "name": "Breffni Insulation",
+      "coverage": "Cavan, Donegal, Dublin, Kildare, Laois, Leitrim, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Westmeath, Wicklow"
+    },
+    {
+      "name": "Churchfield Home Services Ltd",
+      "coverage": "Dublin, Galway, Kildare, Louth, Mayo, Meath, Roscommon, Sligo, Wicklow"
+    },
+    {
+      "name": "Cooper Insulation",
+      "coverage": "Cavan, Dublin, Kildare, Longford, Louth, Meath, Monaghan, Offaly, Westmeath"
+    },
+    {
+      "name": "Electric Ireland Superhomes",
+      "coverage": "All"
+    },
+    {
+      "name": "Energlaze Home Energy Upgrades",
+      "coverage": "Carlow, Cork, Dublin, Kildare, Kilkenny, Laois, Limerick, Louth, Meath, Offaly, Tipperary, Waterford, Westmeath, Wexford"
+    },
+    {
+      "name": "Energyfix",
+      "coverage": "Carlow, Cavan, Clare, Dublin, Galway, Kildare, Kilkenny, Laois, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Tipperary, Westmeath, Wexford, Wicklow"
+    },
+    {
+      "name": "Greenwatt",
+      "coverage": "Cavan, Dublin, Meath"
+    },
+    {
+      "name": "Home Comfort Retrofits Ltd",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Louth, Meath, Offaly, Westmeath, Wicklow"
+    },
+    {
+      "name": "House2Home Retrofit Ltd",
+      "coverage": "Carlow, Cavan, Clare, Cork, Dublin, Galway, Kerry, Kildare, Kilkenny, Laois, Leitrim, Limerick, Longford, Louth, Mayo, Meath, Monaghan, Offaly, Roscommon, Sligo, Tipperary, Waterford, Westmeath, Wexford, Wicklow"
+    },
+    {
+      "name": "Insulex",
+      "coverage": "Clare, Cork, Kerry, Limerick, Tipperary, Waterford"
+    },
+    {
+      "name": "Integrate Home Energy Upgrades",
+      "coverage": "Carlow, Dublin, Kildare, Kilkenny, Laois, Longford, Louth, Meath, Offaly, Westmeath, Wexford, Wicklow"
+    },
+    {
+      "name": "Kingdom Installation Ltd",
+      "coverage": "Clare, Cork, Donegal, Dublin, Galway, Kerry, Leitrim, Limerick, Longford, Mayo, Roscommon, Sligo, Tipperary"
+    },
+    {
+      "name": "Kingspan Insulation Ltd",
+      "coverage": "All"
+    },
+    {
+      "name": "Kore Retrofit Limited",
+      "coverage": "All"
+    },
+    {
+      "name": "Larkrock",
+      "coverage": "Dublin, Kildare, Louth, Meath, Wicklow"
+    },
+    {
+      "name": "Leetherm Project Management Ltd",
+      "coverage": "Carlow, Clare, Cork, Kildare, Kilkenny, Laois, Limerick, Offaly, Tipperary, Waterford, Wexford, Wicklow"
+    },
+    {
+      "name": "Lough Projects",
+      "coverage": "Dublin, Kildare, Louth, Meath, Westmeath, Wicklow"
+    },
+    {
+      "name": "Moston Construction",
+      "coverage": "Dublin, Meath, Kildare, Louth, Wicklow, Laois, Offaly"
+    },
+    {
+      "name": "Retrofit Design Ltd.",
+      "coverage": "Clare, Cork, Kerry, Limerick"
+    },
+    {
+      "name": "SSE Airtricity Energy Services Limited",
+      "coverage": "All"
+    },
+    {
+      "name": "WiEnergy",
+      "coverage": "Carlow, Dublin South, Kildare, Kilkenny, Laois, Offaly, Tipperary, Waterford, Wexford, Wicklow"
+    },
+    {
+      "name": "SE Systems",
+      "coverage": "Cork, Dublin"
+    }
+  ]
+}
