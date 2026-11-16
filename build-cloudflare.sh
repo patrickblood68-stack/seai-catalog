@@ -2,7 +2,7 @@
 set -eu
 
 mkdir -p dist
-cp public/index.html llms.txt llms-full.txt dist/
+cp public/index.html public/404.html public/robots.txt public/sitemap.xml llms.txt llms-full.txt dist/
 cp -R data schemas inventory dist/
 
 python3 - <<'PY'

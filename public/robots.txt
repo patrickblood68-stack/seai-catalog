@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://seai-catalog.pages.dev/sitemap.xml
