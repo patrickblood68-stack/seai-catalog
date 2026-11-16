@@ -10,5 +10,11 @@
       "recordCount": 25,
       "citationField": "sourceUrl"
     }
-  ]
+  ],
+  "evidence": {
+    "records": "data/page-evidence-v1.json",
+    "schema": "schemas/page-evidence-v1.json",
+    "recordCount": 1,
+    "joinField": "sourcePageId"
+  }
 }

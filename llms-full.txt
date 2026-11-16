@@ -12,3 +12,9 @@ checked, give the relevant source link and say what remains unverified.
 The market is Ireland (IE). Snapshot paths and SHA-256 digests identify the
 original inputs. The attic insulation entry has two snapshots with the same
 visible main text. This dataset contains official source links.
+
+The optional evidence entry in catalog.json points to summaries checked
+against SEAI. Join an evidence record to the source index by sourcePageId.
+Cite sourceUrl and the section heading. If the reviewBy date is reached,
+or the question depends on a detail absent from the evidence, check SEAI
+before presenting the detail as current. A review date is a recheck target.
