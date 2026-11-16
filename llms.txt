@@ -1,0 +1,10 @@
+# SEAI home energy grants source index
+
+> A machine-readable index of Irish home energy grant and retrofit guidance.
+
+## Catalog
+
+- [Catalog](catalog.json): Dataset paths and citation field.
+- [Source records](data/source-pages-v1.json): Page metadata, headings and related records.
+- [JSON Schema](schemas/source-page-v1.json): Record validation.
+- [Agent guide](llms-full.txt): How to find and cite a source.

@@ -1,0 +1,14 @@
+# SEAI home energy grants agent guide
+
+Start at catalog.json. Resolve the dataset paths against the catalog URL.
+Search title, description and headings to find pages relevant to the user's
+question. Follow relatedIds for links to other records in this dataset.
+
+Use sourceUrl as the citation and user-facing link. Records index supplied
+HTML snapshots. Check the live SEAI page before presenting current eligibility,
+grant amounts, application steps or deadlines. If the live source cannot be
+checked, give the relevant source link and say what remains unverified.
+
+The market is Ireland (IE). Snapshot paths and SHA-256 digests identify the
+original inputs. The attic insulation entry has two snapshots with the same
+visible main text. This dataset contains official source links.

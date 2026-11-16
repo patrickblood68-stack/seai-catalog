@@ -1,0 +1,14 @@
+{
+  "catalogVersion": 1,
+  "name": "SEAI home energy grants source index",
+  "datasets": [
+    {
+      "id": "seai-home-energy-grants",
+      "recordType": "source-page",
+      "schema": "schemas/source-page-v1.json",
+      "records": "data/source-pages-v1.json",
+      "recordCount": 25,
+      "citationField": "sourceUrl"
+    }
+  ]
+}
