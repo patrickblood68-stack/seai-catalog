@@ -165,25 +165,34 @@
       }
     },
     "memory": {
-      "ram": {
-        "value": 16,
+      "ram_options": {
+        "value": [
+          12,
+          16
+        ],
         "unit": "GB",
         "source_section": "Storage and memory",
-        "verification_status": "source_transcribed"
+        "verification_status": "source_transcribed",
+        "notes": "12 GB with 128 or 256 GB storage; 16 GB with 512 GB storage."
       }
     },
     "storage": {
-      "capacity": {
-        "value": 512,
-        "unit": "GB",
-        "source_section": "Storage and memory",
-        "verification_status": "source_transcribed"
-      },
       "expandable_capacity_max": {
         "value": 1,
         "unit": "TB",
         "source_section": "Storage and memory",
         "verification_status": "source_transcribed"
+      },
+      "options": {
+        "value": [
+          128,
+          256,
+          512
+        ],
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed",
+        "notes": "Availability varies by market and carrier."
       }
     },
     "battery": {
