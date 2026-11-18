@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "family": "Xiaomi flagship",
+    "model": "Xiaomi 17T Pro",
+    "model_slug": "xiaomi-17t-pro",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+    "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+    "source_title": "Xiaomi 17T Pro UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Selected model-specific specifications from Xiaomi UK. Charging, peak brightness and typical battery capacity are manufacturer ratings."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Chipset: MediaTek Dimensity 9500\n- Process node: 3 nm\n- Cpu clock max: 4.21 GHz"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Diagonal: 6.83 inches\n- Type: AMOLED\n- Resolution width: 2772 px\n- Resolution height: 1280 px\n- Refresh rate max: 144 Hz\n- Peak brightness: 3500 nits"
+    },
+    {
+      "heading": "Camera",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Rear main resolution: 50 MP\n- Rear telephoto resolution: 50 MP\n- Rear ultrawide resolution: 12 MP\n- Front resolution: 32 MP\n- Rear telephoto equivalent focal length: 115 mm\n- Rear main optical stabilization: True"
+    },
+    {
+      "heading": "Battery and charging",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Typical capacity: 7000 mAh\n- Wired charging max: 100 W\n- Wired reverse charging max: 22.5 W\n- Wireless charging max: 50 W"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Wifi: Wi-Fi 7 capability\n- Bluetooth version: 6.0"
+    },
+    {
+      "heading": "Memory",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Ram: 12 GB\n- Type: LPDDR5X"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/phones/xiaomi-17t-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-17t-pro/specs/",
+      "source_text": "- Height: 162.2 mm\n- Width: 77.5 mm\n- Depth: 8.25 mm\n- Weight: 219 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "MediaTek Dimensity 9500",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 3,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 4.21,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.83,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2772,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1280,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 144,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 3500,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 32,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_equivalent_focal_length": {
+        "value": 115,
+        "unit": "mm",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_optical_stabilization": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 7000,
+        "unit": "mAh",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 100,
+        "unit": "W",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_reverse_charging_max": {
+        "value": 22.5,
+        "unit": "W",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_charging_max": {
+        "value": 50,
+        "unit": "W",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 7 capability",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "6.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 12,
+        "unit": "GB",
+        "source_section": "Memory",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "LPDDR5X",
+        "unit": null,
+        "source_section": "Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 162.2,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 77.5,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 8.25,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 219,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

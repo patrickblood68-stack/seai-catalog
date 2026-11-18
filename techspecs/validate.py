@@ -81,6 +81,10 @@ def xiaomi_url(url):
 
 
 def validate_xiaomi(validator):
+    baselines = {
+        "smartphone": {"display", "camera", "battery", "connectivity", "processor"},
+        "tablet": {"display", "battery", "connectivity"},
+    }
     records = {}
     for path in sorted((ROOT / "data/xiaomi").rglob("*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
@@ -94,9 +98,10 @@ def validate_xiaomi(validator):
                     and source.is_relative_to(ROOT / "sources/xiaomi"),
                     f"Invalid Xiaomi evidence: {path}")
         specs = record.get("normalized_specifications", {})
-        require(set(specs) >= {"display", "camera", "battery", "connectivity", "processor"}
+        groups = baselines.get(record["product"]["category"])
+        require(groups is not None and set(specs) >= groups
                 and sum(map(len, specs.values())) >= 15,
-                f"Xiaomi phone is below the specification baseline: {path}")
+                f"Xiaomi record is below the specification baseline: {path}")
         require(all(field["source_section"] in headings for group in specs.values()
                     for field in group.values()), f"Missing Xiaomi field evidence: {path}")
         records[path.relative_to(ROOT / "data").with_suffix("").as_posix()] = {
