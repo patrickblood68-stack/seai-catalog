@@ -1,0 +1,320 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "spatial-computing-headset",
+    "family": "Galaxy XR",
+    "model": "Galaxy XR",
+    "model_slug": "galaxy-xr",
+    "model_numbers": [
+      "SM-I610NZSAEUB"
+    ],
+    "storage_options": [
+      "256GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+    "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy XR",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy XR\nSource page identifies: Galaxy XR\nModel/SKU: SM-I610NZSAEUB",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory (GB): 16\n- Storage (GB): 256",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Technology (Main Display): Micro OLED\n- Resolution (Main Display): 3552 x 3840, 27 Million Pixels / 6.3 Micron Pixel Pitch\n- Main Display Color Gamut: 95% DCI‑P3\n- Main Display Refresh Rate: 60 Hz, 72 Hz (Default), 90 Hz (Up to, upon Service Request)\n- Main Display Filed of View: 109 Degrees Horizontal and 100 Degrees Vertical",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Name: Snapdragon® XR2+ Gen 2 Platform",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear Camera Features: Supports 3D Photo, Video Capture\n- Rear Camera Resolution: 6.5 MP (Resolution may vary depending on use case)\n- Rear Camera F Number: F2.0",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Sensor",
+      "source_text": "- Pass-through Cameras: 2 EA\n- World-facing Tracking Cameras: 6 EA\n- Eye-tracking Cameras: 4 EA\n- Inertial Measurement Units(IMUs): 5 EA\n- Depth Sensor: 1 EA\n- Flicker Sensor: 1 EA",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Optic (Iris)",
+      "source_text": "- Iris Recognition Support: Yes",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Speakers: Two, 2 Way Speaker (Woofer + Tweeter)\n- Mic.: Six Microphones Array (Multiple microphones among the six microphones support beamforming feature depending on the use case)\n- Audio Codec Info.: MP3, AMR-NB / WB, AAC / AAC+ / eAAC+, Vorbis, FLAC, Opus, Dolby Digital (AC3), Dolby Digital Plus (E-AC3), Dolby ATMOS (E-AC3 JOC, AC4)\n- Video Playing Info.: UHD 8K (7680 x 4320)@60fps\n- Video Codec Info.: H.263, H.264, HEVC, MV-HEVC, MPEG-4, VC-1, VP8, VP9, AV1 (Supports HDR10 and HLG)",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Usage Time: Up to 2 hours of general use / Video watching up to 2.5 hours / Galaxy XR can be used while charging the battery",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Wi-Fi: 802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, EHT320, MIMO, 4096-QAM\n- Bluetooth Version: Bluetooth v5.4",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Interpupillary Distance (IPD)",
+      "source_text": "- Range: 54 ~ 70 mm",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Weight: 545g (w/ forehead cushion), Weight may vary depending on whether light shield is attached or not\n- Separate Battery Weight: 302 g",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    },
+    {
+      "heading": "Software support",
+      "source_text": "- Security Update Period (Valid until): 30 September 2030",
+      "source_url": "https://www.samsung.com/uk/business/xr/galaxy-xr/galaxy-xr-silver-shadow-sm-i610nzsaeub/",
+      "source_file": "sources/samsung/galaxy-xr/galaxy-xr-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "memory": {
+      "ram": {
+        "value": 16,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 256,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "type": {
+        "value": "Micro OLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "3552 × 3840",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "main_display_color_gamut": {
+        "value": "95% DCI‑P3",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "main_display_refresh_rate": {
+        "value": "60 Hz, 72 Hz (Default), 90 Hz (Up to, upon Service Request)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "main_display_filed_of_view": {
+        "value": "109 Degrees Horizontal and 100 Degrees Vertical",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "cpu_name": {
+        "value": "Snapdragon® XR2+ Gen 2 Platform",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_camera_features": {
+        "value": "Supports 3D Photo, Video Capture",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_resolution": {
+        "value": 6.5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_f_number": {
+        "value": "F2.0",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "sensor": {
+      "pass_through_cameras": {
+        "value": "2 EA",
+        "unit": null,
+        "source_section": "Sensor",
+        "verification_status": "source_transcribed"
+      },
+      "world_facing_tracking_cameras": {
+        "value": "6 EA",
+        "unit": null,
+        "source_section": "Sensor",
+        "verification_status": "source_transcribed"
+      },
+      "eye_tracking_cameras": {
+        "value": "4 EA",
+        "unit": null,
+        "source_section": "Sensor",
+        "verification_status": "source_transcribed"
+      },
+      "inertial_measurement_units_imus": {
+        "value": "5 EA",
+        "unit": null,
+        "source_section": "Sensor",
+        "verification_status": "source_transcribed"
+      },
+      "depth_sensor": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Sensor",
+        "verification_status": "source_transcribed"
+      },
+      "flicker_sensor": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Sensor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "optic_iris": {
+      "iris_recognition_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Optic (Iris)",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "speakers": {
+        "value": "Two, 2 Way Speaker (Woofer + Tweeter)",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "mic": {
+        "value": "Six Microphones Array (Multiple microphones among the six microphones support beamforming feature depending on the use case)",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_codec_info": {
+        "value": "MP3, AMR-NB / WB, AAC / AAC+ / eAAC+, Vorbis, FLAC, Opus, Dolby Digital (AC3), Dolby Digital Plus (E-AC3), Dolby ATMOS (E-AC3 JOC, AC4)",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_info": {
+        "value": "UHD 8K (7680 x 4320)@60fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_codec_info": {
+        "value": "H.263, H.264, HEVC, MV-HEVC, MPEG-4, VC-1, VP8, VP9, AV1 (Supports HDR10 and HLG)",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "usage_time": {
+        "value": "Up to 2 hours of general use / Video watching up to 2.5 hours / Galaxy XR can be used while charging the battery",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "802.11a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, EHT320, MIMO, 4096-QAM",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "interpupillary_distance_ipd": {
+      "range": {
+        "value": "54 ~ 70 mm",
+        "unit": null,
+        "source_section": "Interpupillary Distance (IPD)",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "weight": {
+        "value": "545g (w/ forehead cushion), Weight may vary depending on whether light shield is attached or not",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "separate_battery_weight": {
+        "value": "302 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software_support": {
+      "security_update_period_valid_until": {
+        "value": "30 September 2030",
+        "unit": null,
+        "source_section": "Software support",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

@@ -1,0 +1,404 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S5",
+    "model_slug": "galaxy-s5",
+    "year_introduced": 2014,
+    "model_numbers": [
+      "SM-G900FZBAKSA"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy S5"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S5\nSource page identifies: Galaxy S5\nModel/SKU: SM-G900FZBAKSA",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Speed: 2.5 GHz\n- CPU Type: Quad-Core",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (Main Display): 5.1\" (129.4 mm)\n- Resolution (Main Display): 1920x1080 (FHD)\n- Technology (Main Display): Super AMOLED\n- Color Depth (Main Display): 16M\n- S Pen Support: No",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Main Camera - Resolution: CMOS, 16 MP\n- Main Camera - Auto Focus: Yes\n- Front Camera - Resolution: CMOS, 2 MP\n- Main Camera - Flash: Yes\n- Video Recording Resolution: UHD 4K(3840x2160) @30 fps",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory (GB): 2\n- Storage (GB): 16 or 32\n- External Storage Support: MicroSD (up to 128 GB)",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Network/Bearer",
+      "source_text": "- Multi-SIM: Single-SIM\n- SIM size: Micro-SIM (3FF)\n- 2G GSM: B8 (GSM 850 MHz), B10 (E-GSM 900 MHz), B13 (DCS 1,800 MHz), B14 (PCS 1,900 MHz)\n- 3G UMTS: B1 (IMT 2,100 MHz), B2 (PCS 1,900 MHz), B5 (US 850 MHz Cellular), B8 (GSM 900 MHz)\n- 4G LTE: B1 (2,100), B2 (1,900), B3 (1,800), B5 (850), B7 (2,600), B8 (900), B20 (800) dependent on market support",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- ANT+: Yes\n- USB Version: USB 3.0\n- Location Technology: GPS, Glonass,Beidou\n- Earjack: 3.5 mm Stereo\n- MHL: MHL 2\n- Wi-Fi: 802.11a/b/g/n/ac 2.4G + 5 GHz, VHT80 MIMO\n- Wi-Fi Direct: Yes\n- DLNA Support: No\n- Bluetooth Version: Bluetooth v4.0\n- NFC: Yes\n- Bluetooth Profiles: DI, MAP, PBAP, HOGP, PAN, A2DP, AVRCP, HFP, HSP, OPP, SAP, HID\n- PC Sync.: KIES",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Color: Charcoal Black, Copper Gold, Electric Blue, Shimmery White",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Body Dimension (HxWxD, mm): 142.0x72.5x8.1 mm\n- Body Weight (g): 145 g",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Standard Battery Capacity: 2,800 mAh\n- Removable: Yes\n- Internet Usage Time(3G): Up to 11 hours\n- Internet Usage Time(LTE): Up to 10 hours\n- Internet Usage Time(Wi-Fi): Up to 12 hours\n- Video Playback Time: Up to 13 hours\n- Audio Playback Time: Up to 67 hours\n- Talk time (W-CDMA): Up to 21 hours",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Video Playing Format: FLV, M4V, MKV, MP4, WEBM, WMV, 3G2, 3GP, ASF, AVI\n- Video Playing Resolution: UHD 4K (3840x2160) @30 fps\n- Audio Playing Format: 3GA, AWB, FLAC, MID, MXMF, OGA, OTA, RTX, RTTTL, XMF, AAC, AMR, IMY, M4A, MIDI, MP3, OGG, WAV, WMA",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Gear Manager: Yes\n- S-Voice: Yes\n- Mobile TV: No",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s5-g900f-sm-g900fzbaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "cpu_clock_max": {
+        "value": 2.5,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_type": {
+        "value": "Quad-Core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 5.1,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "1920 × 1080",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "s_pen_support": {
+        "value": false,
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "main_camera_resolution": {
+        "value": "CMOS, 16 MP",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "main_camera_auto_focus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 2,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "main_camera_flash": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "video_recording_resolution": {
+        "value": "UHD 4K(3840x2160) @30 fps",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 2,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "storage_gb": {
+        "value": "16 or 32",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "MicroSD (up to 128 GB)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network_bearer": {
+      "multi_sim": {
+        "value": "Single-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_size": {
+        "value": "Micro-SIM (3FF)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "2g_gsm": {
+        "value": "B8 (GSM 850 MHz), B10 (E-GSM 900 MHz), B13 (DCS 1,800 MHz), B14 (PCS 1,900 MHz)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "3g_umts": {
+        "value": "B1 (IMT 2,100 MHz), B2 (PCS 1,900 MHz), B5 (US 850 MHz Cellular), B8 (GSM 900 MHz)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_lte": {
+        "value": "B1 (2,100), B2 (1,900), B3 (1,800), B5 (850), B7 (2,600), B8 (900), B20 (800) dependent on market support",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "ant_plus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_version": {
+        "value": "USB 3.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "location_technology": {
+        "value": "GPS, Glonass,Beidou",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "3.5 mm Stereo",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "mhl": {
+        "value": "MHL 2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11a/b/g/n/ac 2.4G + 5 GHz, VHT80 MIMO",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi_direct": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "dlna_support": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "4.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "DI, MAP, PBAP, HOGP, PAN, A2DP, AVRCP, HFP, HSP, OPP, SAP, HID",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "body_dimension_hxwxd_mm": {
+        "value": "142.0x72.5x8.1 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "body_weight_g": {
+        "value": "145 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "standard_battery_capacity": {
+        "value": "2,800 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": true,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "internet_usage_time_3g": {
+        "value": "Up to 11 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "internet_usage_time_lte": {
+        "value": "Up to 10 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "internet_usage_time_wifi": {
+        "value": "Up to 12 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "video_playback_time": {
+        "value": "Up to 13 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playback_time": {
+        "value": "Up to 67 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_w_cdma": {
+        "value": "Up to 21 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "video_playing_format": {
+        "value": "FLV, M4V, MKV, MP4, WEBM, WMV, 3G2, 3GP, ASF, AVI",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_resolution": {
+        "value": "UHD 4K (3840x2160) @30 fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playing_format": {
+        "value": "3GA, AWB, FLAC, MID, MXMF, OGA, OTA, RTX, RTTTL, XMF, AAC, AMR, IMY, M4A, MIDI, MP3, OGG, WAV, WMA",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "gear_manager": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "s_voice": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "mobile_tv": {
+        "value": false,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

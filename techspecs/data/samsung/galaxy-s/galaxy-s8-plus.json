@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S8+",
+    "model_slug": "galaxy-s8-plus",
+    "year_introduced": 2017
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/in/smartphones-without-limits-samsung-galaxy-s8-and-galaxy-s8-launched-in-india",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. India Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2017\n- Diagonal: 6.2 inches\n- Resolution: 2960 × 1440 pixels\n- Rear resolution: 12 MP",
+      "source_url": "https://news.samsung.com/in/smartphones-without-limits-samsung-galaxy-s8-and-galaxy-s8-launched-in-india",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 6.2,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "resolution": {
+        "value": "2960 × 1440",
+        "unit": "pixels",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "camera": {
+      "rear_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

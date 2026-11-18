@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S III",
+    "model_slug": "galaxy-s-iii",
+    "year_introduced": 2012
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Legacy manufacturer document. Values apply to the cited model and configuration. Market/source path: global. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy S III 2012 launch announcement"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Legacy manufacturer document. Values apply to the cited model and configuration. Market/source path: global. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S III\nSource page identifies: Galaxy S III 2012 launch announcement",
+      "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display Size: 4.8 inches\n- Display Technology: HD Super AMOLED",
+      "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear Camera - Resolution: 8 MP\n- Front Camera - Resolution: 1.9 MP",
+      "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- Operating System: Android 4.0 (Ice Cream Sandwich)",
+      "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 4.8,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "HD Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 1.9,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 4.0 (Ice Cream Sandwich)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

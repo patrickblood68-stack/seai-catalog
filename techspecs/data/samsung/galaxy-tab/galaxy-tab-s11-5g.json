@@ -1,0 +1,422 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "tablet",
+    "family": "Galaxy Tab S",
+    "model": "Galaxy Tab S11 5G",
+    "model_slug": "galaxy-tab-s11-5g",
+    "year_introduced": 2025,
+    "variant": "5G",
+    "model_numbers": [
+      "SM-X736BZAREUB"
+    ],
+    "storage_options": [
+      "128GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+    "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Tab S11 5G (11\")"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Tab S11 5G\nSource page identifies: Galaxy Tab S11 5G (11\")\nModel/SKU: SM-X736BZAREUB",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Size (Main Display): 11.0\" (278.1mm)\n- Rear Camera - Resolution: 13.0 MP\n- Weight (g): 471\n- CPU Speed: 3.73GHz, 3.3GHz, 2.4GHz",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Speed: 3.73GHz, 3.3GHz, 2.4GHz\n- CPU Type: Octa-Core",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (Main Display): 11.0\" (278.1mm)\n- Size (Main_Display): 278.1mm (11.0\" full rectangle) / 276.2mm (10.9\" rounded corners)\n- Resolution (Main Display): 2560 x 1600 (WQXGA)\n- Technology (Main Display): Dynamic AMOLED 2X\n- Colour Depth (Main Display): 16M",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear Camera - Resolution: 13.0 MP\n- Rear Camera - Auto Focus: Yes\n- Front Camera - Resolution: 12.0 MP\n- Rear Camera - Flash: Yes\n- Video Recording Resolution: UHD 4K (3840 x 2160) @30fps",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory_(GB): 12\n- Storage (GB): 128\n- Available Storage (GB): 100.5\n- External Storage Support: MicroSD (Up to 2TB)",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Network/Bearer",
+      "source_text": "- Number of SIM: Dual-SIM\n- SIM Slot Type: SIM 1 + Embedded SIM + MicroSD\n- 2G GSM: GSM850, GSM900, DCS1800, PCS1900\n- 3G UMTS: B1(2100), B2(1900), B4(AWS), B5(850), B8(900)\n- 4G FDD LTE: B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B20(800), B25(1900), B26(850), B28(700), B32(1500), B66(AWS-3)\n- 4G TDD LTE: B38(2600), B39(1900), B40(2300), B41(2500)\n- 5G FDD Sub6: N1(2100), N2(1900), N3(1800), N5(850), N7(2600), N8(900), N12(700), N20(800), N25(1900), N26(850), N28(700), N66(AWS-3), N71(600)\n- 5G TDD Sub6: N38(2600), N40(2300), N41(2500), N77(3700), N78(3500)\n- 5G SDL Sub6: N75(1500+)",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- USB Version: USB 3.2 Gen 1\n- Location Technology: GPS, Glonass, Beidou, Galileo, QZSS\n- Earjack: USB Type-C\n- MHL: No\n- Wi-Fi: 802.11a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, HE160, MIMO, 1024-QAM\n- Wi-Fi Direct: Yes\n- Bluetooth Version: Bluetooth v5.4\n- NFC: No\n- Bluetooth Profiles: A2DP, AVRCP, DI, HAP, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP, PBP, TMAP\n- PC Sync.: Smart Switch (PC version)",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Form Factor: Tablet",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (HxWxD, mm): 165.3 x 253.8 x 5.5\n- Weight (g): 471",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Video Playback Time (Hours, Wireless): Up to 18\n- Battery Capacity (mAh, Typical): 8400\n- Removable: No\n- Energy Efficiency Class: G\n- Minimum Battery Endurance in Cycles: 1200",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Video Playing Format: MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n- Video Playing Resolution: UHD 8K (7680 x 4320)@60fps\n- Audio Playing Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "ECO Design",
+      "source_text": "- Recycled Content (%): 8.8\n- Weight of Critical Raw Material - Cobalt (g): 20 ≤\n- Weight of Critical Raw Material - Tantalum (g): < 0.01\n- Weight of Critical Raw Material - Neodymium (g): 1 ≤\n- Weight of Critical Raw Material - Gold (g): 0.02 ≤ < 0.1\n- Recyclability (%): 10.3",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Gear Support: Galaxy Buds Core, Galaxy Buds3 Pro, Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds3, Galaxy Buds2, Galaxy Buds, Galaxy Buds3 FE, Galaxy Buds FE\n- Mobile TV: No\n- SmartThings Support: Yes",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    },
+    {
+      "heading": "Software Support",
+      "source_text": "- Security Update Period (Valid until): 30 September 2032",
+      "source_url": "https://www.samsung.com/ie/tablets/galaxy-tab-s/galaxy-tab-s11-grey-128gb-5g-sm-x736bzareub/",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s11-5g-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "cpu_clock_max": {
+        "value": 3.73,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_type": {
+        "value": "Octa-Core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 11,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2560 × 1600",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 13,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_auto_focus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_flash": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "video_recording_resolution": {
+        "value": "UHD 4K (3840 x 2160) @30fps",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 12,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 128,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "external_storage_support": {
+        "value": "MicroSD (Up to 2TB)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network_bearer": {
+      "number_of_sim": {
+        "value": "Dual-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_slot_type": {
+        "value": "SIM 1 + Embedded SIM + MicroSD",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "2g_gsm": {
+        "value": "GSM850, GSM900, DCS1800, PCS1900",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "3g_umts": {
+        "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_fdd_lte": {
+        "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B20(800), B25(1900), B26(850), B28(700), B32(1500), B66(AWS-3)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_tdd_lte": {
+        "value": "B38(2600), B39(1900), B40(2300), B41(2500)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "5g_fdd_sub6": {
+        "value": "N1(2100), N2(1900), N3(1800), N5(850), N7(2600), N8(900), N12(700), N20(800), N25(1900), N26(850), N28(700), N66(AWS-3), N71(600)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "5g_tdd_sub6": {
+        "value": "N38(2600), N40(2300), N41(2500), N77(3700), N78(3500)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "5g_sdl_sub6": {
+        "value": "N75(1500+)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "usb_version": {
+        "value": "USB 3.2 Gen 1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "location_technology": {
+        "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "USB Type-C",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "mhl": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, HE160, MIMO, 1024-QAM",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi_direct": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP, AVRCP, DI, HAP, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP, PBP, TMAP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height_width_depth": {
+        "value": [
+          165.3,
+          253.8,
+          5.5
+        ],
+        "unit": "mm",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 471,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "video_playback_max": {
+        "value": 18,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "capacity_typical": {
+        "value": 8400,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": false,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "minimum_battery_endurance_in_cycles": {
+        "value": "1200",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "video_playing_format": {
+        "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_resolution": {
+        "value": "UHD 8K (7680 x 4320)@60fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playing_format": {
+        "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "gear_support": {
+        "value": "Galaxy Buds Core, Galaxy Buds3 Pro, Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds3, Galaxy Buds2, Galaxy Buds, Galaxy Buds3 FE, Galaxy Buds FE",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "mobile_tv": {
+        "value": false,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "smartthings_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software_support": {
+      "security_update_period_valid_until": {
+        "value": "30 September 2032",
+        "unit": null,
+        "source_section": "Software Support",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

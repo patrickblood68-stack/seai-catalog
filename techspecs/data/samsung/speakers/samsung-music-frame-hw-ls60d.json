@@ -1,0 +1,459 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smart-speaker",
+    "family": "Music Frame",
+    "model": "Samsung Music Frame HW-LS60D",
+    "model_slug": "samsung-music-frame-hw-ls60d",
+    "year_introduced": 2024,
+    "model_numbers": [
+      "HW-LS60D"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+    "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Music Frame HW-LS60D Wireless Smart Speaker (2024)"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Samsung Music Frame HW-LS60D\nSource page identifies: Music Frame HW-LS60D Wireless Smart Speaker (2024)\nModel/SKU: HW-LS60D",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Number of Channels: 2.0\n- Set Weight: 5.9 kg\n- Operating Power Consumption (Main): 18W\n- Net Dimension (Main Speaker) (WxHxD): 353.0 x 364.8 x 143.4 mm\n- Power: 0.5W",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Number of Channels: 2.0\n- Number of Speaker: 6\n- Color: Black",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Speaker",
+      "source_text": "- Center Speaker: No\n- Up-firing Speaker: No\n- Front Wide-firing Speaker: No\n- Side-firing Speaker: No\n- Wireless Subwoofer Included: No\n- Wireless Rear Speaker Included: No",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Audio Feature",
+      "source_text": "- Dolby: ATMOS Music,ATMOS,Dolby 5.1ch,Dolby Digital Plus\n- Voice Enhance Mode: Yes\n- Night Mode: Yes\n- SpaceFit Sound: Yes\n- Active Voice Amplifier: Yes\n- Sound Modes: Adaptive,Music,Standard\n- LPCM: 2ch",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Video Feature",
+      "source_text": "- 4K Video Pass: No",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Decoding Format",
+      "source_text": "- Decoding Format: MP3,AAC,OGG,FLAC,WAV,ALAC,AIFF",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- HDMI In: No\n- HDMI Out: No\n- HDMI ARC: No\n- HDMI CEC: No\n- Optical In: 1\n- Bluetooth: Yes\n- Wi-Fi: Yes\n- USB Music Playback: No\n- One Control: Yes\n- Bluetooth Version: 5.2",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Special Feature",
+      "source_text": "- SmartThings App: Yes\n- Q-Symphony: Yes\n- Wireless Dolby ATMOS: Yes\n- Multi Position Rear Speaker: No\n- Tap Sound: Yes\n- Chromecast: Yes\n- Spotify Connect: Yes\n- Roon Service: Roon Tested\n- AirPlay: Yes",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Voice Feature",
+      "source_text": "- Works with Google: Yes\n- Bixby: No\n- Alexa: Yes (Built-in)",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Dimension",
+      "source_text": "- Net Dimension (Main Speaker) (WxHxD): 353.0 x 364.8 x 143.4 mm\n- Net Dimension (Sub Woofer) (WxHxD): No\n- Packaged Dimension (WxHxD): 573 x 87 x 408 mm",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Weight",
+      "source_text": "- Net Weight (Main Speaker): 4.6 kg\n- Net Weight (Sub Woofer): No\n- Set Weight: 5.9 kg",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- Stand-by Power Consumption (Main): 0.5W\n- Operating Power Consumption (Main): 18W\n- Free Voltage: Yes",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Accessory",
+      "source_text": "- Remote Controller: No\n- Wall Mount Bracket: Yes(holder anchor, screw included)",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    },
+    {
+      "heading": "Software Support",
+      "source_text": "- Security Update Period (At least 5 years from launch of product): 31 DECEMBER 2029",
+      "source_url": "https://www.samsung.com/ie/audio-devices/music-frame/ls60d-music-frame-smart-speaker-black-hw-ls60d-xu/",
+      "source_file": "sources/samsung/speakers/samsung-music-frame-hw-ls60d-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "general_feature": {
+      "number_of_channels": {
+        "value": "2.0",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "number_of_speaker": {
+        "value": "6",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "speaker": {
+      "center_speaker": {
+        "value": false,
+        "unit": null,
+        "source_section": "Speaker",
+        "verification_status": "source_transcribed"
+      },
+      "up_firing_speaker": {
+        "value": false,
+        "unit": null,
+        "source_section": "Speaker",
+        "verification_status": "source_transcribed"
+      },
+      "front_wide_firing_speaker": {
+        "value": false,
+        "unit": null,
+        "source_section": "Speaker",
+        "verification_status": "source_transcribed"
+      },
+      "side_firing_speaker": {
+        "value": false,
+        "unit": null,
+        "source_section": "Speaker",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_subwoofer_included": {
+        "value": false,
+        "unit": null,
+        "source_section": "Speaker",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_rear_speaker_included": {
+        "value": false,
+        "unit": null,
+        "source_section": "Speaker",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_feature": {
+      "dolby": {
+        "value": "ATMOS Music,ATMOS,Dolby 5.1ch,Dolby Digital Plus",
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      },
+      "voice_enhance_mode": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      },
+      "night_mode": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      },
+      "spacefit_sound": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      },
+      "active_voice_amplifier": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      },
+      "sound_modes": {
+        "value": "Adaptive,Music,Standard",
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      },
+      "lpcm": {
+        "value": "2ch",
+        "unit": null,
+        "source_section": "Audio Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "video_feature": {
+      "4k_video_pass": {
+        "value": false,
+        "unit": null,
+        "source_section": "Video Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "decoding_format": {
+      "decoding_format": {
+        "value": "MP3,AAC,OGG,FLAC,WAV,ALAC,AIFF",
+        "unit": null,
+        "source_section": "Decoding Format",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "hdmi_in": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "hdmi_out": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "hdmi_arc": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "hdmi_cec": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "optical_in": {
+        "value": "1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "Yes",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_music_playback": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "one_control": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "special_feature": {
+      "smartthings_app": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "q_symphony": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_dolby_atmos": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "multi_position_rear_speaker": {
+        "value": false,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "tap_sound": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "chromecast": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "spotify_connect": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "roon_service": {
+        "value": "Roon Tested",
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      },
+      "airplay": {
+        "value": true,
+        "unit": null,
+        "source_section": "Special Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "voice_feature": {
+      "works_with_google": {
+        "value": true,
+        "unit": null,
+        "source_section": "Voice Feature",
+        "verification_status": "source_transcribed"
+      },
+      "bixby": {
+        "value": false,
+        "unit": null,
+        "source_section": "Voice Feature",
+        "verification_status": "source_transcribed"
+      },
+      "alexa": {
+        "value": "Yes (Built-in)",
+        "unit": null,
+        "source_section": "Voice Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimension": {
+      "net_dimension_main_speaker_wxhxd": {
+        "value": "353.0 x 364.8 x 143.4 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      },
+      "net_dimension_sub_woofer_wxhxd": {
+        "value": false,
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      },
+      "packaged_dimension_wxhxd": {
+        "value": "573 x 87 x 408 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "weight": {
+      "net_weight_main_speaker": {
+        "value": "4.6 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      },
+      "net_weight_sub_woofer": {
+        "value": false,
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      },
+      "set_weight": {
+        "value": "5.9 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "stand_by_power_consumption_main": {
+        "value": "0.5W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "operating_power_consumption_main": {
+        "value": "18W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "free_voltage": {
+        "value": true,
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "accessory": {
+      "remote_controller": {
+        "value": false,
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      },
+      "wall_mount_bracket": {
+        "value": "Yes(holder anchor, screw included)",
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software_support": {
+      "security_update_period_at_least_5_years_from_launch_of_product": {
+        "value": "31 DECEMBER 2029",
+        "unit": null,
+        "source_section": "Software Support",
+        "verification_status": "source_transcribed"
+      }
+    }
+  },
+  "record_notes": [
+    "HomePod comparison is for wireless speaker functionality."
+  ]
+}

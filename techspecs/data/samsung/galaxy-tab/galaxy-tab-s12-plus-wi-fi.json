@@ -1,0 +1,134 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "tablet",
+    "family": "Galaxy Tab S",
+    "model": "Galaxy Tab S12+ Wi-Fi",
+    "model_slug": "galaxy-tab-s12-plus-wi-fi",
+    "variant": "Wi-Fi",
+    "storage_options": [
+      "256GB",
+      "512GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+    "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s12-plus-wi-fi-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy Tab S12+ Wi-Fi specifications",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Specifications table",
+      "source_text": "- Width: 289.5 mm\n- Height: 187.8 mm\n- Depth: 5.3 mm\n- Weight: 553 g\n- Diagonal: 12.6 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Resolution: 2800 × 1752 pixels\n- Chipset: MediaTek Dimensity 9500\n- Capacity typical: 10600 mAh\n- Ingress protection rating: IP68\n- Wired power max: 45 W\n- Stylus included: True",
+      "source_url": "https://news.samsung.com/uk/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s12-plus-wi-fi-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "dimensions": {
+      "width": {
+        "value": 289.5,
+        "unit": "mm",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      },
+      "height": {
+        "value": 187.8,
+        "unit": "mm",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      },
+      "depth": {
+        "value": 5.3,
+        "unit": "mm",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      },
+      "weight": {
+        "value": 553,
+        "unit": "g",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 12.6,
+        "unit": "inches",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      },
+      "resolution": {
+        "value": "2800 × 1752",
+        "unit": "pixels",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "MediaTek Dimensity 9500",
+        "unit": null,
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 10600,
+        "unit": "mAh",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IP68",
+        "unit": null,
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    },
+    "charging": {
+      "wired_power_max": {
+        "value": 45,
+        "unit": "W",
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    },
+    "accessories": {
+      "stylus_included": {
+        "value": true,
+        "unit": null,
+        "source_section": "Specifications table",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

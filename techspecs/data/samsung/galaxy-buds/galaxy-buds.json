@@ -1,0 +1,194 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "audio",
+    "family": "Galaxy Buds",
+    "model": "Galaxy Buds",
+    "model_slug": "galaxy-buds",
+    "year_introduced": 2019,
+    "model_numbers": [
+      "SM-R170NZWNBTU"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+    "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Buds"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Buds\nSource page identifies: Galaxy Buds\nModel/SKU: SM-R170NZWNBTU",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Number of MIC: 2\n- Ambient Sound: Yes",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth Version: Bluetooth v5.0 (LE up to 2 Mbps)\n- Bluetooth Profiles: A2DP,AVRCP,HFP",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Earbud Dimension (HxWxD, mm): 19.2 x 17.5 x 22.5 mm\n- Earbud Weight (g): 6 g\n- Case Dimension (HxWxD, mm): 26.5 x 70 x 38.8 mm\n- Case Weight (g): 40 g",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Standard Battery Capacity: 58 mAh\n- Removable: No\n- Usage Time (Hours, AOD Off): Up to 6 Hours\n- Talk Time/Voice Call: Up to 5 Hours\n- Standby Time (Bluetooth): Up to 20 Hours\n- Earbud Battery Capacity (mAh, Typical): 58 mAh\n- Case Battery Capacity (mAh, Typical): 252 mAh",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Bixby Connection: Yes\n- Notification Type: TTS\n- Voice Guidance: N/A,",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Colour: White, Black, Yellow\n- Compatible Specification of Smartphone: Android 5.0 ↑ , 1.5GB ↑\n- Package Contents: Earbuds,Eartips (S, M, L),Quick Start Guide,USB Cable,Wingtips (S, M, L),Wireless Charging Dock",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-sm-r170nzwnbtu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "audio_and_video": {
+      "number_of_mic": {
+        "value": "2",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "ambient_sound": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP,AVRCP,HFP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "earbud_dimension_hxwxd_mm": {
+        "value": "19.2 x 17.5 x 22.5 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_weight_g": {
+        "value": "6 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_dimension_hxwxd_mm": {
+        "value": "26.5 x 70 x 38.8 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_weight_g": {
+        "value": "40 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "standard_battery_capacity": {
+        "value": "58 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": false,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "usage_time_hours_aod_off": {
+        "value": "Up to 6 Hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_voice_call": {
+        "value": "Up to 5 Hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "standby_time_bluetooth": {
+        "value": "Up to 20 Hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_battery_capacity_mah_typical": {
+        "value": "58 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "case_battery_capacity_mah_typical": {
+        "value": "252 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "bixby_connection": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "notification_type": {
+        "value": "TTS",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "voice_guidance": {
+        "value": "N/A,",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

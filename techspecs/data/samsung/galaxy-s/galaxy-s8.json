@@ -1,0 +1,455 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S8",
+    "model_slug": "galaxy-s8",
+    "year_introduced": 2017,
+    "model_numbers": [
+      "SM-G950FZKDMID"
+    ],
+    "variant": "Dual SIM (cited regional SKU)"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: lb. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy S8 (Dual Sim)"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: lb. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S8\nSource page identifies: Galaxy S8 (Dual Sim)\nModel/SKU: SM-G950FZKDMID",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- CPU Speed: 2.3GHz, 1.7GHz\n- Size (Main Display): 5.8\" (146.5mm)\n- Main Camera - Resolution: Dual Pixel 12.0 MP\n- Weight (g): 155\n- Standard Battery Capacity (mAh): 3000\n- Audio Playback Time (Hours): Up to 44",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Speed: 2.3GHz, 1.7GHz\n- CPU Type: Octa-Core",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (Main Display): 5.8\" (146.5mm)\n- Resolution (Main Display): 2960 x 1440 (Quad HD+)\n- Technology (Main Display): dual edge Super AMOLED\n- Color Depth (Main Display): 16M\n- S Pen Support: No",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear Camera - Resolution: Dual Pixel 12.0 MP\n- Rear Camera - F Number: F1.7\n- Rear Camera - Auto Focus: Yes\n- Front Camera - Resolution: CMOS 8.0 MP\n- Front Camera - F Number: F1.7\n- Rear Camera - Flash: Yes\n- Video Recording Resolution: UHD 4K (3840 x 2160) @30fps",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory_(GB): 4GB\n- Storage (GB): 64 GB\n- Available Storage (GB): 52.3 GB\n- External Storage Support: MicroSD (Up to 256GB)",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Network/Bearer",
+      "source_text": "- Number of SIM: Dual-SIM\n- SIM size: Nano-SIM (4FF)\n- SIM Slot Type: SIM 1 + Hybrid (SIM or MicroSD)\n- Infra: 2G GSM, 3G WCDMA, 3G TD-SCDMA, 4G LTE FDD, 4G LTE TDD\n- 2G GSM: GSM850, GSM900, DCS1800, PCS1900\n- 3G UMTS: B1(2100), B2(1900), B4(AWS), B5(850), B8(900)\n- 3G TD-SCDMA: B34(2010), B39(1880)\n- 4G FDD LTE: B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B32(1500), B66(AWS-3)\n- 4G TDD LTE: B38(2600), B39(1900), B40(2300), B41(2500)",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- ANT+: Yes\n- USB Interface: USB Type-C\n- USB Version: USB 3.1 Gen 1\n- Location Technology: GPS, Glonass, Beidou, Galileo\n- Earjack: 3.5mm Stereo\n- MHL: No\n- Wi-Fi: 802.11 a/b/g/n/ac 2.4G+5GHz, VHT80 MU-MIMO,1024-QAM\n- Wi-Fi Direct: Yes\n- Bluetooth Version: Bluetooth v5.0 (LE up to 2 Mbps)\n- NFC: Yes\n- Bluetooth Profiles: A2DP, AVRCP, DI, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP\n- PC Sync.: Smart Switch (PC version)",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Form Factor: Touch Bar",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (HxWxD, mm): 148.9 x 68.1 x 8.0\n- Weight (g): 155",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Internet Usage Time(3G) (Hours): Up to 11\n- Internet Usage Time(LTE) (Hours): Up to 12\n- Internet Usage Time(Wi-Fi) (Hours): Up to 14\n- Video Playback Time (Hours): Up to 16\n- Standard Battery Capacity (mAh): 3000\n- Removable: No\n- Audio Playback Time (Hours): Up to 44\n- Audio Playback Time (Hours, Always On Display Off): Up to 67\n- Talk Time (3G WCDMA) (Hours): Up to 20",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Video Playing Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM\n- Video Playing Resolution: UHD 4K (3840 x 2160) @60fps\n- Audio Playing Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Gear Support: Gear Circle (Manager Support), Gear Fit, Gear Fit2, Gear1, Gear2, Gear2 Neo, Gear S, Gear S2, Gear S3, Gear IconX, Gear VR, Gear VR with Controller, Gear 360, Gear 360 (2017)\n- Samsung DeX Support: Yes\n- Mobile TV: No",
+      "source_url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950-ds-sm-g950fzkdmid/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "cpu_clock_max": {
+        "value": 2.3,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_type": {
+        "value": "Octa-Core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 5.8,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2960 × 1440",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "dual edge Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "s_pen_support": {
+        "value": false,
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_f_number": {
+        "value": "F1.7",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_auto_focus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_camera_f_number": {
+        "value": "F1.7",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_flash": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "video_recording_resolution": {
+        "value": "UHD 4K (3840 x 2160) @30fps",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_gb": {
+        "value": "4GB",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_gb": {
+        "value": "64 GB",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "MicroSD (Up to 256GB)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network_bearer": {
+      "number_of_sim": {
+        "value": "Dual-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_size": {
+        "value": "Nano-SIM (4FF)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_slot_type": {
+        "value": "SIM 1 + Hybrid (SIM or MicroSD)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "infra": {
+        "value": "2G GSM, 3G WCDMA, 3G TD-SCDMA, 4G LTE FDD, 4G LTE TDD",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "2g_gsm": {
+        "value": "GSM850, GSM900, DCS1800, PCS1900",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "3g_umts": {
+        "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "3g_td_scdma": {
+        "value": "B34(2010), B39(1880)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_fdd_lte": {
+        "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B32(1500), B66(AWS-3)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_tdd_lte": {
+        "value": "B38(2600), B39(1900), B40(2300), B41(2500)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "ant_plus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_interface": {
+        "value": "USB Type-C",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_version": {
+        "value": "USB 3.1 Gen 1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "location_technology": {
+        "value": "GPS, Glonass, Beidou, Galileo",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "3.5mm Stereo",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "mhl": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac 2.4G+5GHz, VHT80 MU-MIMO,1024-QAM",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi_direct": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP, AVRCP, DI, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height_width_depth": {
+        "value": [
+          148.9,
+          68.1,
+          8
+        ],
+        "unit": "mm",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 155,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "internet_usage_time_3g_hours": {
+        "value": "Up to 11",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "internet_usage_time_lte_hours": {
+        "value": "Up to 12",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "internet_usage_time_wifi_hours": {
+        "value": "Up to 14",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "video_playback_max": {
+        "value": 16,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "standard_battery_capacity_mah": {
+        "value": "3000",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": false,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playback_time_hours": {
+        "value": "Up to 44",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playback_time_hours_always_on_display_off": {
+        "value": "Up to 67",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_3g_wcdma_hours": {
+        "value": "Up to 20",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "video_playing_format": {
+        "value": "MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_resolution": {
+        "value": "UHD 4K (3840 x 2160) @60fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playing_format": {
+        "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "gear_support": {
+        "value": "Gear Circle (Manager Support), Gear Fit, Gear Fit2, Gear1, Gear2, Gear2 Neo, Gear S, Gear S2, Gear S3, Gear IconX, Gear VR, Gear VR with Controller, Gear 360, Gear 360 (2017)",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "samsung_dex_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "mobile_tv": {
+        "value": false,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

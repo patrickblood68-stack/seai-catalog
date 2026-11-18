@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S8 Active",
+    "model_slug": "galaxy-s8-active",
+    "year_introduced": 2017
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/galaxy-s/pdp/sm-g892/business/HHP-ATT-GALAXYS8ACTIVEDSHT-AUG17-Final-8-9-17.pdf",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s8-active-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. US Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2017\n- Diagonal: 5.8 inches\n- Type: Super AMOLED\n- Resolution: 2960 × 1440 pixels\n- Capacity: 4000 mAh",
+      "source_url": "https://image-us.samsung.com/SamsungUS/home/mobile/phones/galaxy-s/pdp/sm-g892/business/HHP-ATT-GALAXYS8ACTIVEDSHT-AUG17-Final-8-9-17.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-active-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 5.8,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "resolution": {
+        "value": "2960 × 1440",
+        "unit": "pixels",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 4000,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

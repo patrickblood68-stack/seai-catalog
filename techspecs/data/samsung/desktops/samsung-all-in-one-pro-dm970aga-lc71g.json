@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Samsung All-in-One",
+    "model": "Samsung All-in-One Pro DM970AGA-LC71G",
+    "model_slug": "samsung-all-in-one-pro-dm970aga-lc71g",
+    "model_numbers": [
+      "DM970AGA-LC71G"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+    "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. South Korea Samsung source. The model identity was checked. Hardware specifications are pending."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "archival_first_pass",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Model identification",
+      "source_text": "- Samsung model identifier: DM970AGA-LC71G\n",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    }
+  ],
+  "record_notes": [
+    "All-in-one desktop comparable to iMac by form factor."
+  ]
+}

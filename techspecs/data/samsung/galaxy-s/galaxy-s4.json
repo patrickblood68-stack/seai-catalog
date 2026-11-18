@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S4",
+    "model_slug": "galaxy-s4",
+    "year_introduced": 2013
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Galaxy S series retrospective",
+      "source_text": "- Introduction year: 2013\n- Diagonal: 4.99 inches\n- Weight: 130 g\n- Depth: 7.9 mm",
+      "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 4.99,
+        "unit": "inches",
+        "source_section": "Galaxy S series retrospective",
+        "verification_status": "content_verified"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 130,
+        "unit": "g",
+        "source_section": "Galaxy S series retrospective",
+        "verification_status": "content_verified"
+      },
+      "depth": {
+        "value": 7.9,
+        "unit": "mm",
+        "source_section": "Galaxy S series retrospective",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

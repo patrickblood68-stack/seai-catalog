@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "audio",
+    "family": "Galaxy Buds",
+    "model": "Galaxy Buds3 Pro",
+    "model_slug": "galaxy-buds3-pro",
+    "model_numbers": [
+      "SM-R630NZAAEUA"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+    "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Buds3 Pro"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Buds3 Pro\nSource page identifies: Galaxy Buds3 Pro\nModel/SKU: SM-R630NZAAEUA",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Bluetooth Version: Bluetooth v5.4\n- Sensors: Accelerometer, Gyro Sensor, Hall Sensor, Pressure Sensor, Proximity Sensor, Touch Sensor, VPU(Voice Pickup Unit)\n- Earbud Weight (g): 5.4",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Number of MIC: 6\n- Speaker: Enhanced 2-way\n- Ambient Sound: Yes\n- Adaptive Noise Control: Yes\n- Active Noise Cancellation: Yes\n- Voice Detect: Yes\n- 360 Audio: Yes\n- Siren Detect: Yes\n- Audio Codec: AAC, SBC, SSC(Samsung Seamless Codec), SSC-UHQ\n- Adaptive EQ: Yes\n- Adaptive ANC: Yes\n- Super Wide Band: Yes",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth Version: Bluetooth v5.4\n- Bluetooth Profiles: A2DP, AVRCP, HFP, PBP, TMAP\n- LE Audio: Yes\n- Auto Switch: Yes",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Earbud Dimension (HxWxD, mm): 18.1 x 19.8 x 33.2\n- Earbud Weight (g): 5.4\n- Case Dimension (HxWxD, mm): 48.7 x 58.9 x 24.4\n- Case Weight (g): 46.5\n- Durability: IP57",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Usage Time (ANC On)",
+      "source_text": "- Talk Time (Hours, ANC On): Up to 4.5\n- Total Talk Time (Hours, ANC On): Up to 20\n- Music Play Time (Hours, ANC On): Up to 6\n- Total Music Play Time (Hours, ANC On): Up to 26",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Usage Time (ANC Off)",
+      "source_text": "- Talk Time (Hours, ANC Off): Up to 5\n- Total Talk Time (Hours, ANC Off): Up to 22\n- Music Play Time (Hours, ANC Off): Up to 7\n- Total Music Play Time (Hours, ANC Off): Up to 30",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Earbud Battery Capacity (mAh, Typical): 53.0\n- Case Battery Capacity (mAh, Typical): 515",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Samsung Find: Yes\n- Bixby Voice Wake-up: Yes\n- Neck Stretch Reminder: Yes\n- Voice Command: Yes",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds3-pro-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "audio_and_video": {
+      "number_of_mic": {
+        "value": "6",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "speaker": {
+        "value": "Enhanced 2-way",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "ambient_sound": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "adaptive_noise_control": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "active_noise_cancellation": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "voice_detect": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "360_audio": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "siren_detect": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_codec": {
+        "value": "AAC, SBC, SSC(Samsung Seamless Codec), SSC-UHQ",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "adaptive_eq": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "adaptive_anc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "super_wide_band": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP, AVRCP, HFP, PBP, TMAP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "le_audio": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "auto_switch": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "earbud_dimension_hxwxd_mm": {
+        "value": "18.1 x 19.8 x 33.2",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_weight_g": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_dimension_hxwxd_mm": {
+        "value": "48.7 x 58.9 x 24.4",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_weight_g": {
+        "value": "46.5",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IP57",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "usage_time_anc_on": {
+      "talk_time_hours_anc_on": {
+        "value": "Up to 4.5",
+        "unit": null,
+        "source_section": "Usage Time (ANC On)",
+        "verification_status": "source_transcribed"
+      },
+      "total_talk_time_hours_anc_on": {
+        "value": "Up to 20",
+        "unit": null,
+        "source_section": "Usage Time (ANC On)",
+        "verification_status": "source_transcribed"
+      },
+      "music_play_time_hours_anc_on": {
+        "value": "Up to 6",
+        "unit": null,
+        "source_section": "Usage Time (ANC On)",
+        "verification_status": "source_transcribed"
+      },
+      "total_music_play_time_hours_anc_on": {
+        "value": "Up to 26",
+        "unit": null,
+        "source_section": "Usage Time (ANC On)",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "usage_time_anc_off": {
+      "talk_time_hours_anc_off": {
+        "value": "Up to 5",
+        "unit": null,
+        "source_section": "Usage Time (ANC Off)",
+        "verification_status": "source_transcribed"
+      },
+      "total_talk_time_hours_anc_off": {
+        "value": "Up to 22",
+        "unit": null,
+        "source_section": "Usage Time (ANC Off)",
+        "verification_status": "source_transcribed"
+      },
+      "music_play_time_hours_anc_off": {
+        "value": "Up to 7",
+        "unit": null,
+        "source_section": "Usage Time (ANC Off)",
+        "verification_status": "source_transcribed"
+      },
+      "total_music_play_time_hours_anc_off": {
+        "value": "Up to 30",
+        "unit": null,
+        "source_section": "Usage Time (ANC Off)",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "earbud_battery_capacity_mah_typical": {
+        "value": "53.0",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "case_battery_capacity_mah_typical": {
+        "value": "515",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "samsung_find": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "bixby_voice_wake_up": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "neck_stretch_reminder": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "voice_command": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

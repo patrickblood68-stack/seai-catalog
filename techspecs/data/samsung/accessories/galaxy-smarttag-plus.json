@@ -1,0 +1,145 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "item-tracker",
+    "family": "Galaxy Accessories",
+    "model": "Galaxy SmartTag+",
+    "model_slug": "galaxy-smarttag-plus",
+    "model_numbers": [
+      "EI-T7300BBEGEU"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+    "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy SmartTag+"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy SmartTag+\nSource page identifies: Galaxy SmartTag+\nModel/SKU: EI-T7300BBEGEU",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth: BLE 5.0\n- UWB: O\n- Distance: Max. 120 m (BLE)",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Type: Replaceable CR2032 1ea\n- Battery Life: Max. 165 days",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxHxD): 40.9 x 40.9 x 9.9 mm\n- Weight: 14.0 g",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md"
+    },
+    {
+      "heading": "Compatibility",
+      "source_text": "- Compatible Models: Galaxy devices(smartphones,tablets) with Android OS 8 (O OS) or higher / UWB enabled Galaxy devices for AR Find feature",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Speaker: Buzzer\n- Buttons: 1 ea\n- Packaging Contents: SmartTag+, Battery(attached), Quick Start Guide",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-plus-ei-t7300bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "bluetooth": {
+        "value": "BLE 5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "uwb": {
+        "value": "O",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "distance": {
+        "value": "Max. 120 m (BLE)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "type": {
+        "value": "Replaceable CR2032 1ea",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "battery_life": {
+        "value": "Max. 165 days",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxhxd": {
+        "value": "40.9 x 40.9 x 9.9 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "14.0 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "compatibility": {
+      "compatible_models": {
+        "value": "Galaxy devices(smartphones,tablets) with Android OS 8 (O OS) or higher / UWB enabled Galaxy devices for AR Find feature",
+        "unit": null,
+        "source_section": "Compatibility",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "general_feature": {
+      "speaker": {
+        "value": "Buzzer",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "buttons": {
+        "value": "1 ea",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "packaging_contents": {
+        "value": "SmartTag+, Battery(attached), Quick Start Guide",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

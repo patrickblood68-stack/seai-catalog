@@ -1,0 +1,354 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Galaxy Book",
+    "model": "Galaxy Book5 Pro 14-inch",
+    "model_slug": "galaxy-book5-pro-14-inch",
+    "model_numbers": [
+      "NP944XHA"
+    ],
+    "storage_options": [
+      "512GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+    "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ca. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Book5 Pro 14\""
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ca. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Book5 Pro 14-inch\nSource page identifies: Galaxy Book5 Pro 14\"\nModel/SKU: NP944XHA",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Processor / Chipset",
+      "source_text": "- CPU: Intel® Core™ Ultra 7 Processor 258V (P-core Up to 4.8 GHz 12 MB LLC Cache)\n- GPU: Intel® Arc™ 140V GPU (16GB)\n- GPU Type: Shared\n- NPU: Intel® AI Boost",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size: 14.0\" (35.6 cm)\n- Resolution: 2880 x 1800 (WQXGA+)\n- Type: Dynamic AMOLED 2X, Anti-Reflective\n- Touch Screen: Yes",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory Capacity: 32 GB\n- Memory Type: LPDDR5X (On Package)\n- Storage Capacity: 512 GB\n- Storage Type: NVMe SSD\n- Number of Storage Slots: 2",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Colour: Gray\n- Form Factor: Laptop",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Multimedia",
+      "source_text": "- Speaker: Quad Speakers\n- Smart Amp: Yes\n- Sound Effect: Dolby Atmos®\n- Mic: Dual Array Digital Mic\n- Camera: 2.0 MP",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Network",
+      "source_text": "- Wi-Fi: Wi-Fi 7, 802.11 be 2x2\n- Bluetooth Version: Bluetooth v5.4",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Ports",
+      "source_text": "- HDMI: 1 HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz)\n- USB: 2 Thunderbolt™ 4, 1 USB3.2\n- External Storage Support: MircoSD\n- Earjack: 1 Headphone out/Mic-in Combo",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Input",
+      "source_text": "- Keyboard: Pro keyboard\n- Keyboard Backlit: Yes\n- Touchpad: Clickpad",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Security",
+      "source_text": "- TPM: Yes\n- FingerPrint Reader: Yes",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity (Wh, Typical): 63.1",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- Adapter: 65 W USB Type-C Adapter",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Physical specifications & size",
+      "source_text": "- Dimension (WxDxH): 312.3 x 223.8 x 11.6 mm (12.30\" x 8.81\" x 0.46\")\n- Weight: 1.23 kg (2.71 lbs)",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- SmartThings Support: Yes",
+      "source_url": "https://www.samsung.com/ca/business/computers/galaxy-book/galaxy-book5-pro-np944xha-kg8ca/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-14-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Intel® Core™ Ultra 7 Processor 258V (P-core Up to 4.8 GHz 12 MB LLC Cache)",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Intel® Arc™ 140V GPU (16GB)",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor_chipset": {
+      "gpu_type": {
+        "value": "Shared",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "npu": {
+        "value": "Intel® AI Boost",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 14,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2880 × 1800",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X, Anti-Reflective",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "touch_screen": {
+        "value": true,
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_type": {
+        "value": "LPDDR5X (On Package)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_type": {
+        "value": "NVMe SSD",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "number_of_storage_slots": {
+        "value": "2",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 512,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "multimedia": {
+      "speaker": {
+        "value": "Quad Speakers",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "smart_amp": {
+        "value": true,
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "sound_effect": {
+        "value": "Dolby Atmos®",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "mic": {
+        "value": "Dual Array Digital Mic",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "camera": {
+        "value": "2.0 MP",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 7, 802.11 be 2x2",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "ports": {
+      "hdmi": {
+        "value": "1 HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz)",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "2 Thunderbolt™ 4, 1 USB3.2",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "MircoSD",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "1 Headphone out/Mic-in Combo",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "input": {
+      "keyboard": {
+        "value": "Pro keyboard",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "keyboard_backlit": {
+        "value": true,
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "touchpad": {
+        "value": "Clickpad",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "security": {
+      "tpm": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "fingerprint_reader": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "battery_capacity_wh_typical": {
+        "value": "63.1",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "adapter": {
+        "value": "65 W USB Type-C Adapter",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specifications_size": {
+      "dimension_wxdxh": {
+        "value": "312.3 x 223.8 x 11.6 mm (12.30\" x 8.81\" x 0.46\")",
+        "unit": null,
+        "source_section": "Physical specifications & size",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "1.23 kg (2.71 lbs)",
+        "unit": null,
+        "source_section": "Physical specifications & size",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "smartthings_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S23+",
+    "model_slug": "galaxy-s23-plus",
+    "year_introduced": 2023,
+    "model_numbers": [
+      "SM-S916BZKBXNZ"
+    ],
+    "storage_options": [
+      "256GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: nz. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy S23+"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: nz. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S23+\nSource page identifies: Galaxy S23+\nModel/SKU: SM-S916BZKBXNZ",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Processor: 3.36GHz, 2.8GHz, 2GHz\n- Weight (g): 195",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Speed: 3.36GHz, 2.8GHz, 2GHz\n- CPU Type: Octa-Core",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (Main_Display): 166.5mm (6.6\" full rectangle) / 162.1mm (6.4\" rounded corners)\n- Resolution (Main Display): 2340 x 1080 (FHD+)\n- Technology (Main Display): Dynamic AMOLED 2X\n- Color Depth (Main Display): 16M\n- Max Refresh Rate (Main Display): 120 Hz",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear Camera - Resolution (Multiple): 50.0 MP + 10.0 MP + 12.0 MP\n- Rear Camera - F Number (Multiple): F1.8 , F2.4 , F2.2\n- Rear Camera - Auto Focus: Yes\n- Rear Camera - OIS: Yes\n- Rear Camera - Zoom: Optical Zoom at 3x , Digital Zoom up to 30x\n- Front Camera - Resolution: 12.0 MP\n- Front Camera - F Number: F2.2\n- Front Camera - Auto Focus: Yes\n- Rear Camera - Flash: Yes\n- Video Recording Resolution: UHD 8K (7680 x 4320)@30fps\n- Slow Motion: 960fps @FHD, 240fps @FHD",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory_(GB): 8\n- Storage (GB): 256\n- Available Storage (GB): 216.7",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Network/Bearer",
+      "source_text": "- Number of SIM: Dual-SIM\n- SIM size: Nano-SIM (4FF), e-SIM\n- SIM Slot Type: SIM 1 + SIM 2 or e-SIM\n- Infra: 2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD\n- 2G GSM: GSM850, GSM900, DCS1800, PCS1900\n- 3G UMTS: B1(2100), B2(1900), B4(AWS), B5(850), B8(900)\n- 4G FDD LTE: B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B66(AWS-3)\n- 4G TDD LTE: B38(2600), B39(1900), B40(2300), B41(2500)\n- 5G FDD Sub6: N1(2100), N2(1900), N3(1800), N5(850), N7(2600), N8(900), N12(700), N20(800), N25(1900), N28(700), N66(AWS-3)\n- 5G TDD Sub6: N38(2600), N40(2300), N41(2500), N77(3700), N78(3500)",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- USB Interface: USB Type-C\n- USB Version: USB 3.2 Gen 1\n- Location Technology: GPS, Glonass, Beidou, Galileo, QZSS\n- Earjack: USB Type-C\n- MHL: No\n- Wi-Fi: 802.11 a/b/g/n/ac/ax 2.4G+5GHz+6GHz, HE160, MIMO, 1024-QAM\n- Wi-Fi Direct: Yes\n- Bluetooth Version: Bluetooth v5.3\n- NFC: Yes\n- UWB (Ultra-Wideband): Yes\n- PC Sync.: Smart Switch (PC version)",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Form Factor: Touchscreen Bar",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (HxWxD, mm): 157.8 x 76.2 x 7.6\n- Weight (g): 195",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity (mAh, Typical): 4700\n- Removable: No",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Stereo Support: Yes\n- Video Playing Format: MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM\n- Video Playing Resolution: UHD 8K (7680 x 4320)@60fps\n- Audio Playing Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Gear Support: Galaxy Buds2 Pro, Galaxy Buds Pro, Galaxy Buds Live, Galaxy Buds+, Galaxy Buds2, Galaxy Buds, Galaxy Fit2, Galaxy Fit e, Galaxy Fit, Galaxy Watch5, Galaxy Watch4, Galaxy Watch3, Galaxy Watch, Galaxy Watch Active2, Galaxy Watch Active, Gear Fit2 Pro, Gear Fit2, Gear Sport, Gear S3, Gear S2\n- Samsung DeX Support: Yes\n- Mobile TV: No",
+      "source_url": "https://www.samsung.com/nz/smartphones/galaxy-s/galaxy-s23-plus-phantom-black-256gb-sm-s916bzkbxnz/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s23-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "cpu_clock_max": {
+        "value": 3.36,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_type": {
+        "value": "Octa-Core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "chipset": {
+        "value": "3.36GHz, 2.8GHz, 2GHz",
+        "unit": null,
+        "source_section": "Specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.6,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2340 × 1080",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_sensor_resolutions": {
+        "value": [
+          50,
+          10,
+          12
+        ],
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_f_number_multiple": {
+        "value": "F1.8 , F2.4 , F2.2",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_auto_focus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_ois": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_zoom": {
+        "value": "Optical Zoom at 3x , Digital Zoom up to 30x",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_camera_f_number": {
+        "value": "F2.2",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_camera_auto_focus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera_flash": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "video_recording_resolution": {
+        "value": "UHD 8K (7680 x 4320)@30fps",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "slow_motion": {
+        "value": "960fps @FHD, 240fps @FHD",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 8,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 256,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network_bearer": {
+      "number_of_sim": {
+        "value": "Dual-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_size": {
+        "value": "Nano-SIM (4FF), e-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_slot_type": {
+        "value": "SIM 1 + SIM 2 or e-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "infra": {
+        "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD, 5G Sub6 FDD, 5G Sub6 TDD",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "2g_gsm": {
+        "value": "GSM850, GSM900, DCS1800, PCS1900",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "3g_umts": {
+        "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_fdd_lte": {
+        "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B13(700), B17(700), B18(800), B19(800), B20(800), B25(1900), B26(850), B28(700), B66(AWS-3)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_tdd_lte": {
+        "value": "B38(2600), B39(1900), B40(2300), B41(2500)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "5g_fdd_sub6": {
+        "value": "N1(2100), N2(1900), N3(1800), N5(850), N7(2600), N8(900), N12(700), N20(800), N25(1900), N28(700), N66(AWS-3)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "5g_tdd_sub6": {
+        "value": "N38(2600), N40(2300), N41(2500), N77(3700), N78(3500)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "usb_interface": {
+        "value": "USB Type-C",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_version": {
+        "value": "USB 3.2 Gen 1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "location_technology": {
+        "value": "GPS, Glonass, Beidou, Galileo, QZSS",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "USB Type-C",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "mhl": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac/ax 2.4G+5GHz+6GHz, HE160, MIMO, 1024-QAM",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi_direct": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.3",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "uwb_ultra_wideband": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height_width_depth": {
+        "value": [
+          157.8,
+          76.2,
+          7.6
+        ],
+        "unit": "mm",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 195,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 4700,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": false,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "stereo_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_format": {
+        "value": "MP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_resolution": {
+        "value": "UHD 8K (7680 x 4320)@60fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playing_format": {
+        "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DFF, DSF, APE",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "samsung_dex_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "mobile_tv": {
+        "value": false,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

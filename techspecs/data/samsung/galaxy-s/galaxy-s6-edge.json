@@ -1,0 +1,400 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S6 edge",
+    "model_slug": "galaxy-s6-edge",
+    "year_introduced": 2015,
+    "model_numbers": [
+      "SM-G925IZDAKSA"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy S6 edge"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S6 edge\nSource page identifies: Galaxy S6 edge\nModel/SKU: SM-G925IZDAKSA",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- CPU Speed: 2.1GHz, 1.5GHz\n- Weight (g): 132\n- Standard Battery Capacity (mAh): 2600\n- Audio Playback Time (Hours): Up to 50\n- Size (Main Display): 5.1\" (129.2mm)\n- Main Camera - Resolution: CMOS 16.0 MP",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Speed: 2.1GHz, 1.5GHz\n- CPU Type: Octa-Core",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (Main Display): 5.1\" (129.2mm)\n- Resolution (Main Display): 2560 x 1440 (Quad HD)\n- Technology (Main Display): dual edge Super AMOLED\n- Color Depth (Main Display): 16M\n- S Pen Support: No",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Main Camera - Resolution: CMOS 16.0 MP\n- Main Camera - Auto Focus: Yes\n- Front Camera - Resolution: CMOS 5.0 MP\n- Main Camera - Flash: Yes\n- Video Recording Resolution: UHD 4K (3840 x 2160) @30fps",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory (GB): 3 GB",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Network/Bearer",
+      "source_text": "- Multi-SIM: Single-SIM\n- SIM size: Nano-SIM (4FF)\n- Infra: 2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD\n- 2G GSM: GSM850, GSM900, DCS1800, PCS1900\n- 3G UMTS: B1(2100), B2(1900), B4(AWS), B5(850), B8(900)\n- 4G FDD LTE: B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B17(700), B18(800), B19(800), B26(850), B28(700)\n- 4G TDD LTE: B40(2300)",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- ANT+: Yes\n- USB Version: USB 2.0\n- Location Technology: GPS, Glonass, Beidou\n- Earjack: 3.5mm Stereo\n- MHL: No\n- Wi-Fi: 802.11 a/b/g/n/ac 2.4G+5GHz, VHT80 MIMO\n- Wi-Fi Direct: Yes\n- DLNA Support: No\n- Bluetooth Version: Bluetooth v4.1\n- NFC: Yes\n- Bluetooth Profiles: A2DP, AVRCP, DI, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP, SAP\n- PC Sync.: Smart Switch (PC version)",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Form Factor: Touch Bar",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (HxWxD, mm): 142.1 x 70.1 x 7.0\n- Weight (g): 132",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Internet Usage Time(3G) (Hours): Up to 10\n- Video Playback Time (Hours): Up to 13\n- Standard Battery Capacity (mAh): 2600\n- Removable: No\n- Audio Playback Time (Hours): Up to 50\n- Talk Time (3G WCDMA) (Hours): Up to 18",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Video Playing Format: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM\n- Video Playing Resolution: UHD 4K (3840 x 2160)@30fps\n- Audio Playing Format: MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Wearable Device Support: Gear Circle (Manager Support), Gear Fit, Gear\n- S-Voice: Yes\n- Mobile TV: No",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-edge-g925i-sm-g925izdaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "cpu_clock_max": {
+        "value": 2.1,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_type": {
+        "value": "Octa-Core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 5.1,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2560 × 1440",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "dual edge Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "s_pen_support": {
+        "value": false,
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "main_camera_resolution": {
+        "value": "CMOS 16.0 MP",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "main_camera_auto_focus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "main_camera_flash": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "video_recording_resolution": {
+        "value": "UHD 4K (3840 x 2160) @30fps",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_gb": {
+        "value": "3 GB",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network_bearer": {
+      "multi_sim": {
+        "value": "Single-SIM",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "sim_size": {
+        "value": "Nano-SIM (4FF)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "infra": {
+        "value": "2G GSM, 3G WCDMA, 4G LTE FDD, 4G LTE TDD",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "2g_gsm": {
+        "value": "GSM850, GSM900, DCS1800, PCS1900",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "3g_umts": {
+        "value": "B1(2100), B2(1900), B4(AWS), B5(850), B8(900)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_fdd_lte": {
+        "value": "B1(2100), B2(1900), B3(1800), B4(AWS), B5(850), B7(2600), B8(900), B12(700), B17(700), B18(800), B19(800), B26(850), B28(700)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      },
+      "4g_tdd_lte": {
+        "value": "B40(2300)",
+        "unit": null,
+        "source_section": "Network/Bearer",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "ant_plus": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_version": {
+        "value": "USB 2.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "location_technology": {
+        "value": "GPS, Glonass, Beidou",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "3.5mm Stereo",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "mhl": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac 2.4G+5GHz, VHT80 MIMO",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi_direct": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "dlna_support": {
+        "value": false,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "4.1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP, AVRCP, DI, HFP, HID, HOGP, HSP, MAP, OPP, PAN, PBAP, SAP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height_width_depth": {
+        "value": [
+          142.1,
+          70.1,
+          7
+        ],
+        "unit": "mm",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 132,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "internet_usage_time_3g_hours": {
+        "value": "Up to 10",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "video_playback_max": {
+        "value": 13,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "standard_battery_capacity_mah": {
+        "value": "2600",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": false,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playback_time_hours": {
+        "value": "Up to 50",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_3g_wcdma_hours": {
+        "value": "Up to 18",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "video_playing_format": {
+        "value": "MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_playing_resolution": {
+        "value": "UHD 4K (3840 x 2160)@30fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playing_format": {
+        "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "wearable_device_support": {
+        "value": "Gear Circle (Manager Support), Gear Fit, Gear",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "s_voice": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "mobile_tv": {
+        "value": false,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

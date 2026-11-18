@@ -1,0 +1,99 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "keyboard",
+    "family": "Galaxy Accessories",
+    "model": "Book Cover Keyboard Slim for Galaxy Tab S12+",
+    "model_slug": "book-cover-keyboard-slim-for-galaxy-tab-s12-plus",
+    "model_numbers": [
+      "EF-DX840BBEGGB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/mobile-accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-black-ef-dx840bbeggb/",
+    "source_file": "sources/samsung/accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Book Cover Keyboard Slim for Galaxy Tab S12+"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Book Cover Keyboard Slim for Galaxy Tab S12+\nSource page identifies: Book Cover Keyboard Slim for Galaxy Tab S12+\nModel/SKU: EF-DX840BBEGGB",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-black-ef-dx840bbeggb/",
+      "source_file": "sources/samsung/accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-source.md"
+    },
+    {
+      "heading": "Compatibility",
+      "source_text": "- Compatible Models: Galaxy Tab S12 Plus",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-black-ef-dx840bbeggb/",
+      "source_file": "sources/samsung/accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Packaging Contents: Book Cover Keyboard Slim, Leaflet\n- Interface: POGO\n- Keys Quantity: 81",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-black-ef-dx840bbeggb/",
+      "source_file": "sources/samsung/accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxHxD): 290.1 x 190.1 x 13.4 mm\n- Weight: 364.4 g",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-black-ef-dx840bbeggb/",
+      "source_file": "sources/samsung/accessories/book-cover-keyboard-slim-for-galaxy-tab-s12-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "compatibility": {
+      "compatible_models": {
+        "value": "Galaxy Tab S12 Plus",
+        "unit": null,
+        "source_section": "Compatibility",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "general_feature": {
+      "packaging_contents": {
+        "value": "Book Cover Keyboard Slim, Leaflet",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "interface": {
+        "value": "POGO",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "keys_quantity": {
+        "value": "81",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxhxd": {
+        "value": "290.1 x 190.1 x 13.4 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "364.4 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

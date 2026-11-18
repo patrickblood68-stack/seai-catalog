@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S Duos 2",
+    "model_slug": "galaxy-s-duos-2",
+    "model_numbers": [
+      "GT-S7582"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/pt/support/model/GT-S7582UWATPH/",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s-duos-2-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Portugal Samsung source. The model identity was checked. Hardware specifications are pending."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "archival_first_pass",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Model identification",
+      "source_text": "- Samsung model identifier: GT-S7582\n",
+      "source_url": "https://www.samsung.com/pt/support/model/GT-S7582UWATPH/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-duos-2-source.md"
+    }
+  ]
+}

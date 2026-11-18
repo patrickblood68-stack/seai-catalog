@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S",
+    "model_slug": "galaxy-s",
+    "year_introduced": 2010
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Galaxy S series retrospective",
+      "source_text": "- Introduction year: 2010\n- Diagonal: 4 inches\n- Type: Super AMOLED\n- Depth: 9.9 mm",
+      "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 4,
+        "unit": "inches",
+        "source_section": "Galaxy S series retrospective",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Galaxy S series retrospective",
+        "verification_status": "content_verified"
+      }
+    },
+    "dimensions": {
+      "depth": {
+        "value": 9.9,
+        "unit": "mm",
+        "source_section": "Galaxy S series retrospective",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

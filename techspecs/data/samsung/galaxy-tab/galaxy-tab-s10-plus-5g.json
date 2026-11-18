@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "tablet",
+    "family": "Galaxy Tab S",
+    "model": "Galaxy Tab S10+ 5G",
+    "model_slug": "galaxy-tab-s10-plus-5g",
+    "year_introduced": 2024,
+    "variant": "5G"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/ca/galaxy-tab-s10-series-is-samsungs-ai-ready-tablet",
+    "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s10-plus-5g-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Canada Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2024\n- Diagonal: 12.4 inches\n- Type: Dynamic AMOLED 2X\n- Capacity typical: 10090 mAh\n- Weight: 576 g",
+      "source_url": "https://news.samsung.com/ca/galaxy-tab-s10-series-is-samsungs-ai-ready-tablet",
+      "source_file": "sources/samsung/galaxy-tab/galaxy-tab-s10-plus-5g-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 12.4,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 10090,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 576,
+        "unit": "g",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S7 active",
+    "model_slug": "galaxy-s7-active",
+    "year_introduced": 2016
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. US Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2016\n- Diagonal: 5.1 inches\n- Type: Super AMOLED\n- Resolution: 2560 × 1440 pixels\n- Capacity: 4000 mAh",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 5.1,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "resolution": {
+        "value": "2560 × 1440",
+        "unit": "pixels",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 4000,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

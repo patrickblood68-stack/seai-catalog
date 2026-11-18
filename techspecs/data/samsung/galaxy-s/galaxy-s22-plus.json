@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S22+",
+    "model_slug": "galaxy-s22-plus",
+    "year_introduced": 2022
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/au/samsung-electronics-introduces-new-bora-purple-shade-to-galaxy-s22-lineup",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2022\n- Diagonal: 6.6 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Capacity typical: 4500 mAh",
+      "source_url": "https://news.samsung.com/au/samsung-electronics-introduces-new-bora-purple-shade-to-galaxy-s22-lineup",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 6.6,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 4500,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

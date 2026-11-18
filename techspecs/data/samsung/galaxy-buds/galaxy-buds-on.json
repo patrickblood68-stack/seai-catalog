@@ -1,0 +1,65 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "audio",
+    "family": "Galaxy Buds",
+    "model": "Galaxy Buds On",
+    "model_slug": "galaxy-buds-on"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/us/mobile-audio/galaxy-buds/compare/",
+    "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy Buds On specifications",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. US source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Find the Galaxy Buds for you",
+      "source_text": "- Earbud capacity: 61 mAh\n- Case capacity: 530 mAh\n- Playback: 9.5 hours (ANC condition unspecified in comparison table.)\n- Playback with case: 38 hours (ANC condition unspecified in comparison table.)",
+      "source_url": "https://www.samsung.com/us/mobile-audio/galaxy-buds/compare/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "battery": {
+      "earbud_capacity": {
+        "value": 61,
+        "unit": "mAh",
+        "source_section": "Find the Galaxy Buds for you",
+        "verification_status": "content_verified"
+      },
+      "case_capacity": {
+        "value": 530,
+        "unit": "mAh",
+        "source_section": "Find the Galaxy Buds for you",
+        "verification_status": "content_verified"
+      },
+      "playback": {
+        "value": 9.5,
+        "unit": "hours",
+        "source_section": "Find the Galaxy Buds for you",
+        "verification_status": "content_verified",
+        "notes": "ANC condition unspecified in comparison table."
+      },
+      "playback_with_case": {
+        "value": 38,
+        "unit": "hours",
+        "source_section": "Find the Galaxy Buds for you",
+        "verification_status": "content_verified",
+        "notes": "ANC condition unspecified in comparison table."
+      }
+    }
+  }
+}

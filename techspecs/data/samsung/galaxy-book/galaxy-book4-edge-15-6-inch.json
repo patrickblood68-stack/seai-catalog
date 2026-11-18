@@ -1,0 +1,348 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Galaxy Book",
+    "model": "Galaxy Book4 Edge 15.6-inch",
+    "model_slug": "galaxy-book4-edge-15-6-inch",
+    "model_numbers": [
+      "NP750XQB"
+    ],
+    "storage_options": [
+      "256GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+    "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Book4 Edge (15.6\", X1-26-100, 16GB), a Copilot+ PC"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Book4 Edge 15.6-inch\nSource page identifies: Galaxy Book4 Edge (15.6\", X1-26-100, 16GB), a Copilot+ PC\nModel/SKU: NP750XQB",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Processor / Chipset",
+      "source_text": "- CPU: Snapdragon® X processor (8 cores, up to 3.0GHz), X1-26-100\n- GPU: Qualcomm® Adreno™ GPU\n- GPU Type: Shared\n- NPU: Qualcomm® Hexagon™ NPU",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (inch): 15.6\"\n- Resolution: 1920 x 1080 (FHD)\n- Type: IPS, Anti-Glare",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory Capacity: 16 GB\n- Memory Type: LPDDR5X (On Board)\n- Storage Capacity: 256 GB\n- Storage Type: eUFS",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Colour: Sapphire Blue\n- Form Factor: Laptop",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Multimedia",
+      "source_text": "- Speaker: Stereo Speakers\n- Sound Effect: Dolby Atmos®\n- Mic: Dual Array Digital Mic\n- Camera: 2.0 MP",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Network",
+      "source_text": "- Wi-Fi: Wi-Fi 7, 802.11 be 2x2\n- Bluetooth Version: Bluetooth v5.4",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Ports",
+      "source_text": "- HDMI: 1 HDMI 2.1 (Supports 4K@60Hz)\n- USB: 2 USB4.0, 1 USB3.2\n- External Storage Support: MicroSD\n- Earjack: 1 Headphone out/Mic-in Combo",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Input",
+      "source_text": "- Keyboard: Pro keyboard with Numeric key\n- Touchpad: Clickpad",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Security",
+      "source_text": "- Security Slot: Yes\n- TPM: Yes\n- FingerPrint Reader: Yes",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity (Wh, Typical): 61.2",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- AC Adapter: 65W USB Type-C Adapter\n- USB PD Support: Yes\n- Power Required for Charging (Min / Max, W): 60 | 65",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxDxH, mm): 356.6 x 229.75 x 15.0 mm (14.04\" x 9.05\" x 0.59\")\n- Weight (kg): 1.5 kg (3.31 lbs)",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- SmartThings Support: Yes",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book4-edge-15-6-inch-x-26-16gb-256gb-np750xqb-ka1uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book4-edge-15-6-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Snapdragon® X processor (8 cores, up to 3.0GHz), X1-26-100",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Qualcomm® Adreno™ GPU",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor_chipset": {
+      "gpu_type": {
+        "value": "Shared",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "npu": {
+        "value": "Qualcomm® Hexagon™ NPU",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 15.6,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "1920 × 1080",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "IPS, Anti-Glare",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 16,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_type": {
+        "value": "LPDDR5X (On Board)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_type": {
+        "value": "eUFS",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 256,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "multimedia": {
+      "speaker": {
+        "value": "Stereo Speakers",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "sound_effect": {
+        "value": "Dolby Atmos®",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "mic": {
+        "value": "Dual Array Digital Mic",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "camera": {
+        "value": "2.0 MP",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 7, 802.11 be 2x2",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "ports": {
+      "hdmi": {
+        "value": "1 HDMI 2.1 (Supports 4K@60Hz)",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "2 USB4.0, 1 USB3.2",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "MicroSD",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "1 Headphone out/Mic-in Combo",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "input": {
+      "keyboard": {
+        "value": "Pro keyboard with Numeric key",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "touchpad": {
+        "value": "Clickpad",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "security": {
+      "security_slot": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "tpm": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "fingerprint_reader": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "battery_capacity_wh_typical": {
+        "value": "61.2",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "ac_adapter": {
+        "value": "65W USB Type-C Adapter",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "usb_pd_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_required_for_charging_min_max_w": {
+        "value": "60 | 65",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxdxh_mm": {
+        "value": "356.6 x 229.75 x 15.0 mm (14.04\" x 9.05\" x 0.59\")",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight_kg": {
+        "value": "1.5 kg (3.31 lbs)",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "smartthings_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

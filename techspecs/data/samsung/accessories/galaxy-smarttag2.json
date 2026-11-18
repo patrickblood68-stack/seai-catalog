@@ -1,0 +1,152 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "item-tracker",
+    "family": "Galaxy Accessories",
+    "model": "Galaxy SmartTag2",
+    "model_slug": "galaxy-smarttag2",
+    "variant": "Black",
+    "model_numbers": [
+      "EI-T5600BBEGEU"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+    "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy SmartTag2",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy SmartTag2\nSource page identifies: Galaxy SmartTag2\nModel/SKU: EI-T5600BBEGEU",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth: BLE v5.3\n- UWB: O\n- Distance: Up to 120 m (BLE)",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Type: Replaceable CR2032 1 ea\n- Battery Life: Up to 500 days",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxHxD): 28.8 x 52.44 x 8.0 mm\n- Weight: 13.75 g",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md"
+    },
+    {
+      "heading": "Compatibility",
+      "source_text": "- Compatible Models: Galaxy devices(smartphones,tablets) with Android OS 9 (P OS) or higher / UWB enabled Galaxy devices for UWB features",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Water/Dust Resistance: IP67\n- Speaker: Buzzer\n- Buttons: 1 ea\n- Packaging Contents: Galaxy SmartTag2, Battery(attached), Tray Eject Pin, Quick Start Guide",
+      "source_url": "https://www.samsung.com/ie/mobile-accessories/galaxy-smarttag2-black-ei-t5600bbegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag2-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "bluetooth": {
+        "value": "BLE v5.3",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "uwb": {
+        "value": "O",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "distance": {
+        "value": "Up to 120 m (BLE)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "type": {
+        "value": "Replaceable CR2032 1 ea",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "battery_life": {
+        "value": "Up to 500 days",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxhxd": {
+        "value": "28.8 x 52.44 x 8.0 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "13.75 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "compatibility": {
+      "compatible_models": {
+        "value": "Galaxy devices(smartphones,tablets) with Android OS 9 (P OS) or higher / UWB enabled Galaxy devices for UWB features",
+        "unit": null,
+        "source_section": "Compatibility",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "general_feature": {
+      "water_dust_resistance": {
+        "value": "IP67",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "speaker": {
+        "value": "Buzzer",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "buttons": {
+        "value": "1 ea",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "packaging_contents": {
+        "value": "Galaxy SmartTag2, Battery(attached), Tray Eject Pin, Quick Start Guide",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer-display",
+    "family": "ViewFinity",
+    "model": "ViewFinity S8 S80UD 27-inch",
+    "model_slug": "viewfinity-s8-s80ud-27-inch",
+    "model_numbers": [
+      "LS27D800UAUXXU"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+    "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv.",
+    "source_title": "27\" ViewFinity S8 S80UD UHD USB-C Monitor"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "ViewFinity S8 S80UD 27-inch\nSource page identifies: 27\" ViewFinity S8 S80UD UHD USB-C Monitor\nModel/SKU: LS27D800UAUXXU",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Resolution: 4K (3,840 x 2,160)\n- Aspect Ratio: 16:9\n- Brightness (Typical): 350cd/㎡\n- Contrast Ratio Static: 1000:1(Typ)\n- Response Time: 5ms\n- Refresh Rate: Max 60Hz\n- Viewing Angle (Horizontal/Vertical): 178°/178°",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Screen Size (Class): 27\n- Flat / Curved: Flat\n- Active Display Size (HxV) (mm): 596.736mm(H) x 335.664mm(V)\n- Aspect Ratio: 16:9\n- Panel Type: IPS\n- Brightness (Typical): 350 cd/㎡\n- Brightness (Min): 280 cd/㎡\n- Contrast Ratio Static: 1000:1(Typ)\n- Contrast Ratio (Dynamic): Mega ∞ DCR\n- HDR(High Dynamic Range): HDR10\n- Resolution: 4K (3,840 x 2,160)\n- Response Time: 5ms\n- Viewing Angle (Horizontal/Vertical): 178°/178°\n- Colour Support: Max 1.07B\n- sRGB Coverage: 99% (Typ)\n- Refresh Rate: Max 60Hz",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Eye Saver Mode: Yes\n- Flicker Free: Yes\n- Picture-In-Picture: Yes\n- Picture-By-Picture: Yes\n- Image Size: Yes\n- Windows Certification: Windows11\n- Off Timer Plus: Yes\n- Auto Source Switch: Auto Source Switch+\n- Adaptive Picture: Yes\n- KVM Switch: Yes",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Smart Service",
+      "source_text": "- Smart Type: No",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Interface",
+      "source_text": "- Display Port: 1 EA\n- Display Port Version: 1.2\n- HDCP Version (DP): 2.2\n- HDMI: 1 EA\n- HDMI Version: 2\n- HDCP Version (HDMI): 2.2\n- Headphone: Yes\n- USB Hub: 3\n- USB Hub Version: 3.0x3ea\n- USB-C: 1 EA\n- USB-C Charging Power: 90W\n- HDCP Version (USB-C): 2.2\n- Ethernet (LAN): 1 EA",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Operation Conditions",
+      "source_text": "- Temperature: 10~40 ℃\n- Humidity: 10~80, non-condensing",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Calibration",
+      "source_text": "- Factory Tunning: Yes",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Design",
+      "source_text": "- Front Colour: BLACK\n- Rear Color: BLACK\n- Stand Color: Black\n- Stand Type: HAS PIVOT\n- HAS(Height Adjustable Stand): 120mm(±5.0mm)\n- Tilt: -2.0˚(±2.0˚)~25.0˚(±2.0˚)\n- Swivel: -30.0˚(±3.0˚)~30.0˚(±3.0˚)\n- Pivot: -92.0˚(±2.0˚)~92.0˚(±2.0˚)\n- Wall Mount: 100 x 100",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Eco",
+      "source_text": "- TCO Certified: Yes\n- Energy Efficiency Class: F\n- Recycled Plastic: Over 10 %",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- Power Supply: AC 100~240V\n- Power Consumption (Max): 170 W\n- Power Consumption (Typ): 25.0 W\n- Power Consumption (DPMS): 0.50 W\n- Power Consumption (Off Mode): 0.30 W\n- Power Consumption (Yearly): 37 kWh/year\n- Type: Internal Power",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Dimension",
+      "source_text": "- Set Dimension with Stand (WxHxD): 612.9 x 556.6 x 220 mm\n- Set Dimension without Stand (WxHxD): 612.9 x 367.7 x 41.6 mm\n- Package Dimension (WxHxD): 687 x 160 x 510 mm",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Weight",
+      "source_text": "- Set Weight with Stand: 6.1 kg\n- Set Weight without Stand: 3.7 kg\n- Package Weight: 7.9 kg",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    },
+    {
+      "heading": "Accessory",
+      "source_text": "- Power Cable Length: 1.5 m\n- USB Type-C Cable: Yes",
+      "source_url": "https://www.samsung.com/uk/monitors/high-resolution/viewfinity-s8-27-inch-uhd-usb-type-c-ls27d800uauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s8-s80ud-27-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "screen_size_class": {
+        "value": "27",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "flat_curved": {
+        "value": "Flat",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "active_display_size_hxv_mm": {
+        "value": "596.736mm(H) x 335.664mm(V)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "aspect_ratio": {
+        "value": "16:9",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "IPS",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "brightness_typical": {
+        "value": "350 cd/㎡",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "brightness_min": {
+        "value": "280 cd/㎡",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "contrast_ratio_static": {
+        "value": "1000:1(Typ)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "contrast_ratio_dynamic": {
+        "value": "Mega ∞ DCR",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "hdr_high_dynamic_range": {
+        "value": "HDR10",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "4K (3,840 x 2,160)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "response_time": {
+        "value": "5ms",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "viewing_angle_horizontal_vertical": {
+        "value": "178°/178°",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "srgb_coverage": {
+        "value": "99% (Typ)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 60,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "general_feature": {
+      "eye_saver_mode": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "flicker_free": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "picture_in_picture": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "picture_by_picture": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "image_size": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "windows_certification": {
+        "value": "Windows11",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "off_timer_plus": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "auto_source_switch": {
+        "value": "Auto Source Switch+",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "adaptive_picture": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "kvm_switch": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "smart_service": {
+      "smart_type": {
+        "value": false,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "interface": {
+      "display_port": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "display_port_version": {
+        "value": "1.2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdcp_version_dp": {
+        "value": "2.2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdmi": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdmi_version": {
+        "value": "2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdcp_version_hdmi": {
+        "value": "2.2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "headphone": {
+        "value": true,
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "usb_hub": {
+        "value": "3",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "usb_hub_version": {
+        "value": "3.0x3ea",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "usb_c": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "usb_c_charging_power": {
+        "value": "90W",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdcp_version_usb_c": {
+        "value": "2.2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "ethernet_lan": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "operation_conditions": {
+      "temperature": {
+        "value": "10~40 ℃",
+        "unit": null,
+        "source_section": "Operation Conditions",
+        "verification_status": "source_transcribed"
+      },
+      "humidity": {
+        "value": "10~80, non-condensing",
+        "unit": null,
+        "source_section": "Operation Conditions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "calibration": {
+      "factory_tunning": {
+        "value": true,
+        "unit": null,
+        "source_section": "Calibration",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "design": {
+      "front_colour": {
+        "value": "BLACK",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "rear_color": {
+        "value": "BLACK",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "stand_color": {
+        "value": "Black",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "stand_type": {
+        "value": "HAS PIVOT",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "has_height_adjustable_stand": {
+        "value": "120mm(±5.0mm)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "tilt": {
+        "value": "-2.0˚(±2.0˚)~25.0˚(±2.0˚)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "swivel": {
+        "value": "-30.0˚(±3.0˚)~30.0˚(±3.0˚)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "pivot": {
+        "value": "-92.0˚(±2.0˚)~92.0˚(±2.0˚)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "wall_mount": {
+        "value": "100 x 100",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "eco": {
+      "tco_certified": {
+        "value": true,
+        "unit": null,
+        "source_section": "Eco",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "power_supply": {
+        "value": "AC 100~240V",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_consumption_max": {
+        "value": "170 W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_consumption_typ": {
+        "value": "25.0 W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_consumption_dpms": {
+        "value": "0.50 W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_consumption_off_mode": {
+        "value": "0.30 W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_consumption_yearly": {
+        "value": "37 kWh/year",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Internal Power",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimension": {
+      "set_dimension_with_stand_wxhxd": {
+        "value": "612.9 x 556.6 x 220 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      },
+      "set_dimension_without_stand_wxhxd": {
+        "value": "612.9 x 367.7 x 41.6 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      },
+      "package_dimension_wxhxd": {
+        "value": "687 x 160 x 510 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "weight": {
+      "set_weight_with_stand": {
+        "value": "6.1 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      },
+      "set_weight_without_stand": {
+        "value": "3.7 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      },
+      "package_weight": {
+        "value": "7.9 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "accessory": {
+      "power_cable_length": {
+        "value": "1.5 m",
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      },
+      "usb_type_c_cable": {
+        "value": true,
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

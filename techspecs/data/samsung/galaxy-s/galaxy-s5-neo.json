@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S5 Neo",
+    "model_slug": "galaxy-s5-neo",
+    "model_numbers": [
+      "SM-G903F"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://images.samsung.com/is/content/samsung/p5/uk/samsung_handset_trade_in_programme_terms_and_conditions_final.pdf",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s5-neo-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The model identity was checked. Hardware specifications are pending."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "archival_first_pass",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Model identification",
+      "source_text": "- Samsung model identifier: SM-G903F\n",
+      "source_url": "https://images.samsung.com/is/content/samsung/p5/uk/samsung_handset_trade_in_programme_terms_and_conditions_final.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s5-neo-source.md"
+    }
+  ]
+}

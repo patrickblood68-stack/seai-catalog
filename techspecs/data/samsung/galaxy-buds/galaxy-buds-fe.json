@@ -1,0 +1,193 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "audio",
+    "family": "Galaxy Buds",
+    "model": "Galaxy Buds FE",
+    "model_slug": "galaxy-buds-fe",
+    "model_numbers": [
+      "SM-R400NZAAEUA"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+    "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Buds FE"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Buds FE\nSource page identifies: Galaxy Buds FE\nModel/SKU: SM-R400NZAAEUA",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Number of MIC: 6\n- Speaker: Custom 1-way\n- Ambient Sound: Yes\n- Active Noise Cancellation: Yes\n- Audio Codec: SSC (Samsung Scalable Codec),AAC,SBC",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth Version: Bluetooth v5.2\n- Bluetooth Profiles: A2DP,AVRCP,HFP\n- Auto Switch: Yes",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Earbud Dimension (HxWxD, mm): 19.2 x 17.1 x 22.2 mm\n- Earbud Weight (g): 5.6 g\n- Case Dimension (HxWxD, mm): 50.0 x 50.0 x 27.7 mm\n- Case Weight (g): 40 g",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Removable: No\n- Talk Time/Voice Call: 4/14hr(ANC Off), 3.5/13hr(ANC On)\n- Audio Playback Time: 8.5/30hr(ANC Off), 6/21hr(ANC On)\n- Earbud Battery Capacity (mAh, Typical): 60 mAh\n- Case Battery Capacity (mAh, Typical): 479 mAh",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- SmartThings Find: Yes\n- Bixby Voice Wake-up: Yes",
+      "source_url": "https://www.samsung.com/ie/business/audio-sound/galaxy-buds/galaxy-buds-fe-graphite-sm-r400nzaaeua/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-fe-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "audio_and_video": {
+      "number_of_mic": {
+        "value": "6",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "speaker": {
+        "value": "Custom 1-way",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "ambient_sound": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "active_noise_cancellation": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_codec": {
+        "value": "SSC (Samsung Scalable Codec),AAC,SBC",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP,AVRCP,HFP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "auto_switch": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "earbud_dimension_hxwxd_mm": {
+        "value": "19.2 x 17.1 x 22.2 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_weight_g": {
+        "value": "5.6 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_dimension_hxwxd_mm": {
+        "value": "50.0 x 50.0 x 27.7 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_weight_g": {
+        "value": "40 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "removable": {
+        "value": false,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_voice_call": {
+        "value": "4/14hr(ANC Off), 3.5/13hr(ANC On)",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playback_time": {
+        "value": "8.5/30hr(ANC Off), 6/21hr(ANC On)",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_battery_capacity_mah_typical": {
+        "value": "60 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "case_battery_capacity_mah_typical": {
+        "value": "479 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "smartthings_find": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "bixby_voice_wake_up": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

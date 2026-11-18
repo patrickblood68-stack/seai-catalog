@@ -1,0 +1,37 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S Plus",
+    "model_slug": "galaxy-s-plus",
+    "model_numbers": [
+      "GT-I9001"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/support/model/GT-I9001HKDO2I/",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE Samsung source. The model identity was checked. Hardware specifications are pending."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "archival_first_pass",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Model identification",
+      "source_text": "- Samsung model identifier: GT-I9001\n",
+      "source_url": "https://www.samsung.com/ie/support/model/GT-I9001HKDO2I/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    }
+  ]
+}

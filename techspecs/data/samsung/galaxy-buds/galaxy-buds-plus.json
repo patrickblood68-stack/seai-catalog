@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "audio",
+    "family": "Galaxy Buds",
+    "model": "Galaxy Buds+",
+    "model_slug": "galaxy-buds-plus"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2020_Business_Report.pdf",
+    "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Earbud capacity: 85 mAh\n- Case capacity: 270 mAh",
+      "source_url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2020_Business_Report.pdf",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "battery": {
+      "earbud_capacity": {
+        "value": 85,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "case_capacity": {
+        "value": 270,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

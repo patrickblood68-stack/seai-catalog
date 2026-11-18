@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S4 zoom",
+    "model_slug": "galaxy-s4-zoom",
+    "year_introduced": 2013
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/global/samsung-introduces-galaxy-s4-zoom-the-first-smartphone-to-offer-10x-optical-zoom-for-perfect-picture-taking",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s4-zoom-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Rear camera",
+      "source_text": "- Introduction year: 2013\n- Optical zoom max: 10 ×",
+      "source_url": "https://news.samsung.com/global/samsung-introduces-galaxy-s4-zoom-the-first-smartphone-to-offer-10x-optical-zoom-for-perfect-picture-taking",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-zoom-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "camera": {
+      "optical_zoom_max": {
+        "value": 10,
+        "unit": "×",
+        "source_section": "Rear camera",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "fitness-tracker",
+    "family": "Galaxy Fit",
+    "model": "Galaxy Fit3",
+    "model_slug": "galaxy-fit3",
+    "model_numbers": [
+      "SM-R390NZAAEUB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+    "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Fit3 Bluetooth (40mm)"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Fit3\nSource page identifies: Galaxy Fit3 Bluetooth (40mm)\nModel/SKU: SM-R390NZAAEUB",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Size (Main Display): 1.6\" (40.0mm)\n- Body Weight (g): 18.5 g\n- Bluetooth Version: Bluetooth v5.3\n- Sensors: Accelerometer,Barometer,Gyro Sensor,Optical Heart Rate Sensor,Light Sensor\n- Body Dimension (HxWxD, mm): 42.9 x 28.8 x 9.9 mm",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth Version: Bluetooth v5.3",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Technology (Main Display): AMOLED\n- Size (Main Display): 1.6\" (40.0mm)\n- Resolution (Main Display): 256 x 402\n- Colour Depth (Main Display): 16M",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory (MB): 16 MB\n- Storage (MB): 256 MB",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Body Dimension (HxWxD, mm): 42.9 x 28.8 x 9.9 mm\n- Body Weight (g): 18.5 g",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity (mAh, Typical): 208\n- Typical Usage Time (Days): Up to 13 Days",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Notification Type: Vibrate",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Colour: Gray",
+      "source_url": "https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-fit3-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.3",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "diagonal": {
+        "value": 1.6,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "256 × 402",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_mb": {
+        "value": "16 MB",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_mb": {
+        "value": "256 MB",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "body_dimension_hxwxd_mm": {
+        "value": "42.9 x 28.8 x 9.9 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "body_weight_g": {
+        "value": "18.5 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 208,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "typical_usage_time_days": {
+        "value": "Up to 13 Days",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "notification_type": {
+        "value": "Vibrate",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

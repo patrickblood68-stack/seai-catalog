@@ -1,0 +1,59 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S10+",
+    "model_slug": "galaxy-s10-plus",
+    "year_introduced": 2019
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/uk/samsung-raises-the-bar-with-galaxy-s10-more-screen-cameras-and-choices",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Galaxy S10 line Product Specifications",
+      "source_text": "- Introduction year: 2019\n- Diagonal: 6.4 inches\n- Type: Dynamic AMOLED\n- Capacity typical: 4100 mAh",
+      "source_url": "https://news.samsung.com/uk/samsung-raises-the-bar-with-galaxy-s10-more-screen-cameras-and-choices",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 6.4,
+        "unit": "inches",
+        "source_section": "Galaxy S10 line Product Specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Dynamic AMOLED",
+        "unit": null,
+        "source_section": "Galaxy S10 line Product Specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 4100,
+        "unit": "mAh",
+        "source_section": "Galaxy S10 line Product Specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

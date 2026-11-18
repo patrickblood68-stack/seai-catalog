@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartwatch",
+    "family": "Galaxy Watch",
+    "model": "Galaxy Watch Ultra (2025)",
+    "model_slug": "galaxy-watch-ultra-2025",
+    "year_introduced": 2025
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/uk/samsung-galaxy-watch8-series-ultra-comfort-from-sleep-to-workout",
+    "source_file": "sources/samsung/galaxy-watch/galaxy-watch-ultra-2025-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2025\n- Weight: 60.5 g\n- Capacity typical: 590 mAh\n- Chipset: Exynos W1000",
+      "source_url": "https://news.samsung.com/uk/samsung-galaxy-watch8-series-ultra-comfort-from-sleep-to-workout",
+      "source_file": "sources/samsung/galaxy-watch/galaxy-watch-ultra-2025-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "dimensions": {
+      "weight": {
+        "value": 60.5,
+        "unit": "g",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 590,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Exynos W1000",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

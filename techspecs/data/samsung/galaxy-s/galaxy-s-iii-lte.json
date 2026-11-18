@@ -1,0 +1,123 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S III LTE",
+    "model_slug": "galaxy-s-iii-lte",
+    "model_numbers": [
+      "GT-I9305"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://downloadcenter.samsung.com/content/UM/201302/20130218101951443/GT-I9305_UM_EU_Jellybean_Eng_Rev.1.0_130123_Screen.pdf",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-lte-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Legacy manufacturer document. Values apply to the cited model and configuration. Market/source path: content. Coverage is described in coverage.csv.",
+    "source_title": "GT-I9305 user manual, revision 1.0"
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Legacy manufacturer document. Values apply to the cited model and configuration. Market/source path: content. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S III LTE\nSource page identifies: GT-I9305 user manual, revision 1.0\nModel/SKU: GT-I9305",
+      "source_url": "https://downloadcenter.samsung.com/content/UM/201302/20130218101951443/GT-I9305_UM_EU_Jellybean_Eng_Rev.1.0_130123_Screen.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-lte-source.md"
+    },
+    {
+      "heading": "Hardware",
+      "source_text": "- Front camera: Yes\n- Rear camera: Yes\n- Headset jack: Yes\n- External Storage Support: Memory card up to 64 GB",
+      "source_url": "https://downloadcenter.samsung.com/content/UM/201302/20130218101951443/GT-I9305_UM_EU_Jellybean_Eng_Rev.1.0_130123_Screen.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-lte-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth: Yes\n- NFC: Yes\n- LTE network: Yes\n- USB Interface: Micro-USB\n- Wi-Fi: Supported",
+      "source_url": "https://downloadcenter.samsung.com/content/UM/201302/20130218101951443/GT-I9305_UM_EU_Jellybean_Eng_Rev.1.0_130123_Screen.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-lte-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Removable: Yes",
+      "source_url": "https://downloadcenter.samsung.com/content/UM/201302/20130218101951443/GT-I9305_UM_EU_Jellybean_Eng_Rev.1.0_130123_Screen.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-lte-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "hardware": {
+      "front_camera": {
+        "value": true,
+        "unit": null,
+        "source_section": "Hardware",
+        "verification_status": "source_transcribed"
+      },
+      "rear_camera": {
+        "value": true,
+        "unit": null,
+        "source_section": "Hardware",
+        "verification_status": "source_transcribed"
+      },
+      "headset_jack": {
+        "value": true,
+        "unit": null,
+        "source_section": "Hardware",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "Memory card up to 64 GB",
+        "unit": null,
+        "source_section": "Hardware",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "lte_network": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_interface": {
+        "value": "Micro-USB",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "Supported",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "removable": {
+        "value": true,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

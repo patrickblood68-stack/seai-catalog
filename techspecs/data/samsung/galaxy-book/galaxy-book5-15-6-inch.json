@@ -1,0 +1,50 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Galaxy Book",
+    "model": "Galaxy Book5 15.6-inch",
+    "model_slug": "galaxy-book5-15-6-inch"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/uk/laptop-buying-guide/introducing-galaxy-book-5/",
+    "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Diagonal: 15.6 inches\n- Type: IPS",
+      "source_url": "https://www.samsung.com/uk/laptop-buying-guide/introducing-galaxy-book-5/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 15.6,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "IPS",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

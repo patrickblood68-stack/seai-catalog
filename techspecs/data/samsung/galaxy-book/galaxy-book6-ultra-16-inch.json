@@ -1,0 +1,369 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Galaxy Book",
+    "model": "Galaxy Book6 Ultra 16-inch",
+    "model_slug": "galaxy-book6-ultra-16-inch",
+    "model_numbers": [
+      "NP960UJH"
+    ],
+    "storage_options": [
+      "1000GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+    "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy Book6 Ultra (16\", Core Ultra 7, 32GB), a Copilot+ PC",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: uk. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Book6 Ultra 16-inch\nSource page identifies: Galaxy Book6 Ultra (16\", Core Ultra 7, 32GB), a Copilot+ PC\nModel/SKU: NP960UJH",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Processor / Chipset",
+      "source_text": "- CPU: Intel® Core™ Ultra 7 processor 356H\n- GPU: NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7\n- GPU Type: Discrete\n- NPU: Intel® NPU",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (inch): 16.0\"\n- Resolution: 2880 x 1800 (WQXGA+)\n- Type: Dynamic AMOLED 2X, Anti-Reflective\n- Touch Screen: Yes",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory Capacity: 32 GB\n- Memory Type: LPDDR5X (On Board)\n- Storage Capacity: 1 TB\n- Storage Type: NVMe SSD\n- Number of Storage Slots: 2",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Colour: Gray\n- Form Factor: Laptop",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Multimedia",
+      "source_text": "- Speaker: Six Speakers\n- Smart Amp: Yes\n- Sound Effect: Dolby Atmos®\n- Mic: Dual Array Digital Mic\n- Camera: 2.0 MP",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Network",
+      "source_text": "- Wi-Fi: Wi-Fi 7, 802.11 a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, MIMO, EHT320, 4096-QAM\n- Bluetooth Version: Bluetooth v5.4",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Ports",
+      "source_text": "- HDMI: 1 HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz)\n- USB: 2 Thunderbolt™ 4, 1 USB3.2\n- External Storage Support: SDXC\n- Earjack: 1 Headphone out/Mic-in Combo",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Input",
+      "source_text": "- Keyboard: Pro keyboard\n- Keyboard Backlit: Yes\n- Touchpad: Haptic Touchpad",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Security",
+      "source_text": "- TPM: Yes\n- FingerPrint Reader: Yes",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Chemistry: Lithium-Ion\n- Battery Capacity (Wh, Typical): 80.20",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- USB PD Support: Yes\n- Power Required for Charging (Min / Max, W): 135 | 140",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxDxH, mm): 356.9 x 248.0 x 15.4 mm (14.05\" x 9.76\" x 0.61\")\n- Weight (kg): 1.89 kg (4.17 lbs)",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- SmartThings Support: Yes",
+      "source_url": "https://www.samsung.com/uk/business/computers/galaxy-book/galaxy-book6-ultra-ultra-7-32gb-1tb-np960ujh-xg7uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-ultra-16-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Intel® Core™ Ultra 7 processor 356H",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "NVIDIA® GeForce RTX™ 5070 Laptop GPU 8GB GDDR7",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor_chipset": {
+      "gpu_type": {
+        "value": "Discrete",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "npu": {
+        "value": "Intel® NPU",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 16,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2880 × 1800",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X, Anti-Reflective",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "touch_screen": {
+        "value": true,
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_type": {
+        "value": "LPDDR5X (On Board)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_type": {
+        "value": "NVMe SSD",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "number_of_storage_slots": {
+        "value": "2",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 1000,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "multimedia": {
+      "speaker": {
+        "value": "Six Speakers",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "smart_amp": {
+        "value": true,
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "sound_effect": {
+        "value": "Dolby Atmos®",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "mic": {
+        "value": "Dual Array Digital Mic",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "camera": {
+        "value": "2.0 MP",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 7, 802.11 a/b/g/n/ac/ax/be 2.4GHz+5GHz+6GHz, MIMO, EHT320, 4096-QAM",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "ports": {
+      "hdmi": {
+        "value": "1 HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz)",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "2 Thunderbolt™ 4, 1 USB3.2",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "SDXC",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "1 Headphone out/Mic-in Combo",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "input": {
+      "keyboard": {
+        "value": "Pro keyboard",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "keyboard_backlit": {
+        "value": true,
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "touchpad": {
+        "value": "Haptic Touchpad",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "security": {
+      "tpm": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "fingerprint_reader": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "battery_chemistry": {
+        "value": "Lithium-Ion",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "battery_capacity_wh_typical": {
+        "value": "80.20",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "usb_pd_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_required_for_charging_min_max_w": {
+        "value": "135 | 140",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxdxh_mm": {
+        "value": "356.9 x 248.0 x 15.4 mm (14.05\" x 9.76\" x 0.61\")",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight_kg": {
+        "value": "1.89 kg (4.17 lbs)",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "smartthings_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  },
+  "record_notes": [
+    "This is a size-level record. CPU, GPU, memory and other configuration-dependent fields require individual SKU sources."
+  ]
+}

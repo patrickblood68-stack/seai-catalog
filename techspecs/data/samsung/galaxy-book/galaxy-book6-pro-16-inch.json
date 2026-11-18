@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Galaxy Book",
+    "model": "Galaxy Book6 Pro 16-inch",
+    "model_slug": "galaxy-book6-pro-16-inch"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/support/computing/what-are-the-differences-between-the-galaxy-book6-ultra-book6-pro-and-book6/",
+    "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-16-inch-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy Book6 Pro 16-inch specifications",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+      "source_text": "- Width: 356.9 mm\n- Depth: 248 mm\n- Height: 11.9 mm (Closed laptop thickness.)\n- Diagonal: 16 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Capacity: 78.07 Wh",
+      "source_url": "https://www.samsung.com/ie/support/computing/what-are-the-differences-between-the-galaxy-book6-ultra-book6-pro-and-book6/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-16-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "dimensions": {
+      "width": {
+        "value": 356.9,
+        "unit": "mm",
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified"
+      },
+      "depth": {
+        "value": 248,
+        "unit": "mm",
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified"
+      },
+      "height": {
+        "value": 11.9,
+        "unit": "mm",
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified",
+        "notes": "Closed laptop thickness."
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 16,
+        "unit": "inches",
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 78.07,
+        "unit": "Wh",
+        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
+        "verification_status": "content_verified"
+      }
+    }
+  },
+  "record_notes": [
+    "This is a size-level record. CPU, GPU, memory and other configuration-dependent fields require individual SKU sources."
+  ]
+}

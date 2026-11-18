@@ -1,0 +1,78 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer-display",
+    "family": "ViewFinity",
+    "model": "ViewFinity S9 27-inch",
+    "model_slug": "viewfinity-s9-27-inch",
+    "model_numbers": [
+      "LS27C902PAUXXU"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pauxxu/",
+    "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md",
+    "publisher": "Samsung",
+    "source_title": "ViewFinity S9 27-inch specifications",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Display",
+      "source_text": "- Diagonal: 27 inches\n- Type: IPS\n- Refresh rate max: 60 Hz\n- Resolution: 5120 × 2880 pixels\n- Brightness typical: 600 cd/m²\n- Colour gamut dci typical: 99 %",
+      "source_url": "https://www.samsung.com/ie/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pauxxu/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 27,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "IPS",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "content_verified"
+      },
+      "refresh_rate_max": {
+        "value": 60,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "content_verified"
+      },
+      "resolution": {
+        "value": "5120 × 2880",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "content_verified"
+      },
+      "brightness_typical": {
+        "value": 600,
+        "unit": "cd/m²",
+        "source_section": "Display",
+        "verification_status": "content_verified"
+      },
+      "colour_gamut_dci_typical": {
+        "value": 99,
+        "unit": "%",
+        "source_section": "Display",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}

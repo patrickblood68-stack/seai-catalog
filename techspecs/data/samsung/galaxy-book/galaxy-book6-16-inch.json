@@ -1,0 +1,383 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "computer",
+    "family": "Galaxy Book",
+    "model": "Galaxy Book6 16-inch",
+    "model_slug": "galaxy-book6-16-inch",
+    "model_numbers": [
+      "NP764BJG"
+    ],
+    "storage_options": [
+      "512GB"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+    "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md",
+    "publisher": "Samsung",
+    "source_title": "Galaxy Book6 (16\", Intel Ultra 7, 32GB), a Copilot+ PC",
+    "checked_at": "2026-11-18",
+    "verification_status": "partially_verified",
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
+  },
+  "sections": [
+    {
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Book6 16-inch\nSource page identifies: Galaxy Book6 (16\", Intel Ultra 7, 32GB), a Copilot+ PC\nModel/SKU: NP764BJG",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Processor / Chipset",
+      "source_text": "- CPU: Intel® Core™ Ultra 7 processor 355\n- GPU: Intel® Graphics\n- GPU Type: Shared\n- NPU: Intel® NPU",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (inch): 16.0\"\n- Resolution: 1920 x 1200 (WUXGA)\n- Type: IPS, Anti-Glare",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory Capacity: 32 GB\n- Memory Type: LPDDR5X (On Board)\n- Storage Capacity: 512 GB\n- Storage Type: NVMe SSD\n- Number of Storage Slots: 2",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "General Information",
+      "source_text": "- Colour: Mocha Gray\n- Form Factor: Laptop",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Multimedia",
+      "source_text": "- Speaker: Stereo Speakers\n- Sound Effect: Dolby Atmos®\n- Mic: Dual Array Digital Mic\n- Camera: 2.0 MP + IR",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Network",
+      "source_text": "- Wi-Fi: Wi-Fi 6E, 802.11 a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, MIMO, HE160, 1024-QAM\n- Bluetooth Version: Bluetooth v5.4\n- Ethernet: 10/100/1000 Gigabit ethernet",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Ports",
+      "source_text": "- HDMI: 1 HDMI\n- USB: 2 USB Type-C, 2 USB3.2\n- External Storage Support: MicroSD\n- Earjack: 1 Headphone out/Mic-in Combo\n- Network Ports: 1 RJ45 (LAN)",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Input",
+      "source_text": "- Keyboard: Pro keyboard with Numeric key\n- Keyboard Backlit: Yes\n- Touchpad: Clickpad",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Security",
+      "source_text": "- Security Slot: Yes\n- TPM: Yes\n- FingerPrint Reader: Yes",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Chemistry: Lithium-Ion\n- Battery Capacity (Wh, Typical): 61.2",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- AC Adapter: 45W USB Type-C Adapter\n- USB PD Support: Yes\n- Power Required for Charging (Min / Max, W): 40 | 45",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxDxH, mm): 357.1 x 248.0 x 14.9 mm (14.06\" x 9.76\" x 0.59\")\n- Weight (kg): 1.74 kg (3.84 lbs)",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- SmartThings Support: Yes",
+      "source_url": "https://www.samsung.com/ie/business/computers/galaxy-book/galaxy-book6-enterprise-edition-16-inch-u7-np764bjg-kg3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-16-inch-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Intel® Core™ Ultra 7 processor 355",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Intel® Graphics",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor_chipset": {
+      "gpu_type": {
+        "value": "Shared",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "npu": {
+        "value": "Intel® NPU",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 16,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "1920 × 1200",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "IPS, Anti-Glare",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_type": {
+        "value": "LPDDR5X (On Board)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_type": {
+        "value": "NVMe SSD",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "number_of_storage_slots": {
+        "value": "2",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 512,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "multimedia": {
+      "speaker": {
+        "value": "Stereo Speakers",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "sound_effect": {
+        "value": "Dolby Atmos®",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "mic": {
+        "value": "Dual Array Digital Mic",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "camera": {
+        "value": "2.0 MP + IR",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 6E, 802.11 a/b/g/n/ac/ax 2.4GHz+5GHz+6GHz, MIMO, HE160, 1024-QAM",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network": {
+      "ethernet": {
+        "value": "10/100/1000 Gigabit ethernet",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "ports": {
+      "hdmi": {
+        "value": "1 HDMI",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "2 USB Type-C, 2 USB3.2",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "MicroSD",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "1 Headphone out/Mic-in Combo",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "network_ports": {
+        "value": "1 RJ45 (LAN)",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "input": {
+      "keyboard": {
+        "value": "Pro keyboard with Numeric key",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "keyboard_backlit": {
+        "value": true,
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "touchpad": {
+        "value": "Clickpad",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "security": {
+      "security_slot": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "tpm": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "fingerprint_reader": {
+        "value": true,
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "battery_chemistry": {
+        "value": "Lithium-Ion",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "battery_capacity_wh_typical": {
+        "value": "61.2",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "ac_adapter": {
+        "value": "45W USB Type-C Adapter",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "usb_pd_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_required_for_charging_min_max_w": {
+        "value": "40 | 45",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxdxh_mm": {
+        "value": "357.1 x 248.0 x 14.9 mm (14.06\" x 9.76\" x 0.59\")",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight_kg": {
+        "value": "1.74 kg (3.84 lbs)",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "smartthings_support": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    }
+  },
+  "record_notes": [
+    "This is a size-level record. CPU, GPU, memory and other configuration-dependent fields require individual SKU sources."
+  ]
+}

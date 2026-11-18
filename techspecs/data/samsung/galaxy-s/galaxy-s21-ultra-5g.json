@@ -1,0 +1,71 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Samsung",
+    "category": "smartphone",
+    "family": "Galaxy S",
+    "model": "Galaxy S21 Ultra 5G",
+    "model_slug": "galaxy-s21-ultra-5g",
+    "year_introduced": 2021
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://news.samsung.com/uk/samsung-galaxy-s21-ultra-5g-the-ultimate-smartphone-experience-designed-to-be-epic-in-every-way",
+    "source_file": "sources/samsung/galaxy-s/galaxy-s21-ultra-5g-source.md",
+    "publisher": "Samsung",
+    "checked_at": "2026-11-17",
+    "verification_status": "partially_verified",
+    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+  },
+  "extraction": {
+    "method": "manual",
+    "normalization_status": "partially_normalized",
+    "note": "Selected facts paraphrased from the official Samsung source.",
+    "extracted_at": "2026-11-17",
+    "reviewed_at": "2026-11-17"
+  },
+  "sections": [
+    {
+      "heading": "Product specifications",
+      "source_text": "- Introduction year: 2021\n- Diagonal: 6.8 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Resolution: 3200 × 1440 pixels\n- Capacity typical: 5000 mAh",
+      "source_url": "https://news.samsung.com/uk/samsung-galaxy-s21-ultra-5g-the-ultimate-smartphone-experience-designed-to-be-epic-in-every-way",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s21-ultra-5g-source.md"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 6.8,
+        "unit": "inches",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      },
+      "resolution": {
+        "value": "3200 × 1440",
+        "unit": "pixels",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    },
+    "battery": {
+      "capacity_typical": {
+        "value": 5000,
+        "unit": "mAh",
+        "source_section": "Product specifications",
+        "verification_status": "content_verified"
+      }
+    }
+  }
+}
