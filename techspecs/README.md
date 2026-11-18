@@ -3,7 +3,7 @@
 The Samsung catalogue uses the TechSpecs Product Record V2 schema. Record and
 evidence paths in JSON and coverage.csv are relative to this directory.
 
-Coverage includes 138 records. The coverage CSV tracks whether each model meets
+Coverage includes 127 records. The coverage CSV tracks whether each model meets
 its category minimum, has partial technical coverage, or needs further source
 review. A category minimum measures technical coverage. Regional values apply
 to the configurations identified in the evidence.
