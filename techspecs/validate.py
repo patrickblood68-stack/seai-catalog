@@ -28,9 +28,9 @@ def archive(relative):
             f"Missing or invalid Samsung archive: {relative}")
 
 
-def validate_media(coverage):
+def validate_media(coverage, brand="samsung", valid_url=manufacturer):
     media_dir = ROOT / "data/media"
-    with (media_dir / "samsung-images.csv").open(newline="", encoding="utf-8") as handle:
+    with (media_dir / f"{brand}-images.csv").open(newline="", encoding="utf-8") as handle:
         images = list(csv.DictReader(handle))
     seen_ids, seen_files, seen_hashes = set(), set(), set()
     for image in images:
@@ -39,7 +39,7 @@ def validate_media(coverage):
                 f"Unknown or duplicate Samsung image record: {record_id}")
         require(image["role"] == "primary" and image["format"] == "WEBP",
                 f"Invalid primary image metadata: {record_id}")
-        require(manufacturer(image["source_url"]) and manufacturer(image["original_url"]),
+        require(valid_url(image["source_url"]) and valid_url(image["original_url"]),
                 f"Invalid manufacturer image provenance: {record_id}")
         file = (ROOT / "data" / image["local_path"]).resolve()
         require(file.is_relative_to(media_dir / record_id) and file.is_file(),
@@ -55,7 +55,7 @@ def validate_media(coverage):
                 f"Duplicate image contents: {record_id}")
         require(image["rights_status"] == "reuse_permission_unverified",
                 f"Unexpected reuse status: {record_id}")
-        if image["model_number"]:
+        if image.get("model_number"):
             record = json.loads((ROOT / f"data/{record_id}.json").read_text(encoding="utf-8"))
             model_numbers = record["product"].get("model_numbers", [])
             require(image["model_number"].upper() in {code.upper() for code in model_numbers},
@@ -63,12 +63,47 @@ def validate_media(coverage):
         seen_hashes.add(digest)
         seen_files.add(file)
         seen_ids.add(record_id)
-    require(seen_files == set((media_dir / "samsung").rglob("*.webp")),
+    require(seen_files == set((media_dir / brand).rglob("*.webp")),
             "Image files do not match the Samsung photo manifest")
     require(seen_ids == {record_id for record_id, row in coverage.items()
                          if row["primary_photo"] == "validated"},
             "Photo coverage does not match the Samsung photo manifest")
-    print(f"Validated {len(seen_ids)} Samsung primary images")
+    print(f"Validated {len(seen_ids)} {brand.title()} primary images")
+
+
+def xiaomi_url(url):
+    parsed = urlparse(url or "")
+    host = parsed.hostname or ""
+    return parsed.scheme == "https" and (
+        host in {"mi.com", "appmifile.com"}
+        or host.endswith((".mi.com", ".appmifile.com"))
+    )
+
+
+def validate_xiaomi(validator):
+    records = {}
+    for path in sorted((ROOT / "data/xiaomi").rglob("*.json")):
+        record = json.loads(path.read_text(encoding="utf-8"))
+        validator.validate(record)
+        require(record["product"]["brand"] == "Xiaomi" and
+                record["product"]["model_slug"] == path.stem, f"Invalid Xiaomi identity: {path}")
+        headings = {section["heading"] for section in record["sections"]}
+        for evidence in [record["source"], *record["sections"]]:
+            source = (ROOT / evidence["source_file"]).resolve()
+            require(xiaomi_url(evidence["source_url"]) and source.is_file()
+                    and source.is_relative_to(ROOT / "sources/xiaomi"),
+                    f"Invalid Xiaomi evidence: {path}")
+        specs = record.get("normalized_specifications", {})
+        require(set(specs) >= {"display", "camera", "battery", "connectivity", "processor"}
+                and sum(map(len, specs.values())) >= 15,
+                f"Xiaomi phone is below the specification baseline: {path}")
+        require(all(field["source_section"] in headings for group in specs.values()
+                    for field in group.values()), f"Missing Xiaomi field evidence: {path}")
+        records[path.relative_to(ROOT / "data").with_suffix("").as_posix()] = {
+            "primary_photo": "validated"
+        }
+    if records:
+        validate_media(records, "xiaomi", xiaomi_url)
 
 
 def main():
@@ -105,6 +140,7 @@ def main():
                 f"Coverage metadata does not match the record: {path}")
     print(f"Validated {len(files)} Samsung V2 records and their evidence references")
     validate_media({key[5:-5]: row for key, row in coverage.items()})
+    validate_xiaomi(validator)
 
 
 if __name__ == "__main__":
