@@ -6,61 +6,322 @@
     "family": "Galaxy S",
     "model": "Galaxy S4 Active",
     "model_slug": "galaxy-s4-active",
-    "year_introduced": 2013
+    "year_introduced": 2013,
+    "model_numbers": [
+      "GT-I9295ZAAKSA"
+    ]
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s4-active-the-perfect-companion-for-exploration-activity-and-adventure",
+    "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
     "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy S4 Active"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2013\n- Diagonal: 5 inches\n- Type: TFT LCD\n- Ingress protection rating: IP67\n- Capacity: 2600 mAh",
-      "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s4-active-the-perfect-companion-for-exploration-activity-and-adventure",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S4 Active\nSource page identifies: Galaxy S4 Active\nModel/SKU: GT-I9295ZAAKSA",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Network/Bearer and Wireless Connectivity",
+      "source_text": "- Infra: LTE 4G\n- 2G: EDGE / GPRS (850 / 900 / 1,800 / 1,900 MHZ)\n- 4G: LTE Cat 3 (800 / 850 / 900 / 1,800 / 2,100 / 2,600 MHz) * Dependent on market\n- 3G: 3G: HSPA+ (850 / 900 / 1,900 / 2,100 MHZ)\n- Wi-Fi: 802.11 a/b/g/n/ac, HT80\n- Wi-Fi Direct: Yes\n- Bluetooth Profiles: Bluetooth v4.0\n- NFC: Yes\n- Connectivity Support: DLNA, MHL 2\n- PC Sync.: kies",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Technology: FHD TFT\n- Color Depth: 16M\n- Size: 5.0\"\n- Resolution: 1920x1080",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Chipset",
+      "source_text": "- CPU Type: Quad Core Application Processor\n- CPU Speed: 1.9 GHz",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera Resolution(Rear): CMOS, 8MP\n- Camera Resolution(Front): CMOS, 2MP\n- Flash: LED Flash\n- Auto Focus: Supported",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Physical Specification",
+      "source_text": "- Dimension (HxWxD): 139.7x71.3x9.1 mm\n- Weight: 153 g",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Connectors",
+      "source_text": "- USB: USB 2.0\n- Earjack: 3.5 mm Stereo Earjack\n- External Memory Slot: MicroSD (up to 64 GB)\n- SIM Support: Micro SIM (3FF) support\n- Connector: Micro USB (5.0 V, 2 A)\n- MHL: Yes",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Samsung Apps: Yes\n- Music Hub: Yes\n- Readers Hub: Yes\n- Game Hub: Yes\n- ChatON, mFluent IM: ChatON\n- ActiveSync: Yes\n- B-to-B Compability: Yes",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Video Format: AVI, WMV, ASF, FLV, MKV, MP4, 3GP, WebM\n- Video Resolution: Full HD (1080p) Video Playback\n- Video Frame rate: 30fps\n- Audio Format: MP3, AAC, AAC+, eAAC+, AMR-NB / WB, OGG, FLAC, WAV, WMA, MID, SPM, XMF, IMY",
+      "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
       "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
     }
   ],
   "normalized_specifications": {
+    "network_bearer_and_wireless_connectivity": {
+      "infra": {
+        "value": "LTE 4G",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "2g": {
+        "value": "EDGE / GPRS (850 / 900 / 1,800 / 1,900 MHZ)",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "4g": {
+        "value": "LTE Cat 3 (800 / 850 / 900 / 1,800 / 2,100 / 2,600 MHz) * Dependent on market",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "3g": {
+        "value": "3G: HSPA+ (850 / 900 / 1,900 / 2,100 MHZ)",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi_direct": {
+        "value": true,
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "Bluetooth v4.0",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "connectivity_support": {
+        "value": "DLNA, MHL 2",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac, HT80",
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Network/Bearer and Wireless Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
     "display": {
+      "type": {
+        "value": "FHD TFT",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
       "diagonal": {
         "value": 5,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
-      "type": {
-        "value": "TFT LCD",
-        "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+      "resolution": {
+        "value": "1920 × 1080",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       }
     },
-    "durability": {
-      "ingress_protection_rating": {
-        "value": "IP67",
+    "processor": {
+      "cpu_type": {
+        "value": "Quad Core Application Processor",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1.9,
+        "unit": "GHz",
+        "source_section": "Chipset",
+        "verification_status": "source_transcribed"
       }
     },
-    "battery": {
-      "capacity": {
-        "value": 2600,
-        "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+    "camera": {
+      "camera_resolution_rear": {
+        "value": "CMOS, 8MP",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "camera_resolution_front": {
+        "value": "CMOS, 2MP",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "flash": {
+        "value": "LED Flash",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "auto_focus": {
+        "value": "Supported",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_hxwxd": {
+        "value": "139.7x71.3x9.1 mm",
+        "unit": null,
+        "source_section": "Physical Specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "153 g",
+        "unit": null,
+        "source_section": "Physical Specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectors": {
+      "usb": {
+        "value": "USB 2.0",
+        "unit": null,
+        "source_section": "Connectors",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "3.5 mm Stereo Earjack",
+        "unit": null,
+        "source_section": "Connectors",
+        "verification_status": "source_transcribed"
+      },
+      "external_memory_slot": {
+        "value": "MicroSD (up to 64 GB)",
+        "unit": null,
+        "source_section": "Connectors",
+        "verification_status": "source_transcribed"
+      },
+      "sim_support": {
+        "value": "Micro SIM (3FF) support",
+        "unit": null,
+        "source_section": "Connectors",
+        "verification_status": "source_transcribed"
+      },
+      "connector": {
+        "value": "Micro USB (5.0 V, 2 A)",
+        "unit": null,
+        "source_section": "Connectors",
+        "verification_status": "source_transcribed"
+      },
+      "mhl": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectors",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "samsung_apps": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "music_hub": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "readers_hub": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "game_hub": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "chaton_mfluent_im": {
+        "value": "ChatON",
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "activesync": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "b_to_b_compability": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio_and_video": {
+      "video_format": {
+        "value": "AVI, WMV, ASF, FLV, MKV, MP4, 3GP, WebM",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_resolution": {
+        "value": "Full HD (1080p) Video Playback",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "video_frame_rate": {
+        "value": "30fps",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_format": {
+        "value": "MP3, AAC, AAC+, eAAC+, AMR-NB / WB, OGG, FLAC, WAV, WMA, MID, SPM, XMF, IMY",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
       }
     }
   }

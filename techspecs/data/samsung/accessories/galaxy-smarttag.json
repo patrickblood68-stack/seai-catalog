@@ -7,31 +7,134 @@
     "model": "Galaxy SmartTag",
     "model_slug": "galaxy-smarttag",
     "model_numbers": [
-      "EI-T5300BBEGEU"
+      "EI-T5300",
+      "EI-T5300BAEGEU"
     ]
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/ie/support/model/EI-T5300BBEGEU/",
+    "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
     "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE Samsung source. The model identity was checked. Hardware specifications are pending."
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy SmartTag (BLE)"
   },
   "extraction": {
-    "method": "manual",
-    "normalization_status": "archival_first_pass",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Model identification",
-      "source_text": "- Samsung model identifier: EI-T5300BBEGEU\n",
-      "source_url": "https://www.samsung.com/ie/support/model/EI-T5300BBEGEU/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy SmartTag\nSource page identifies: Galaxy SmartTag (BLE)\nModel/SKU: EI-T5300, EI-T5300BAEGEU",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth: BLE 5.0\n- Distance: Max. 120 m",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Type: Replaceable CR2032 1ea\n- Battery Life: Max. 300 days",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxHxD): 39.1 x 39.1 x 10.4 mm\n- Weight: 13 g",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md"
+    },
+    {
+      "heading": "Compatibility",
+      "source_text": "- Compatible Models: Galaxy devices(smartphones,tablets) with Android OS 8 (O OS) or higher",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
+      "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Speaker: Buzzer\n- Buttons: 1 ea\n- Packaging Contents: SmartTag, Battery(attached), Quick Start Guide",
+      "source_url": "https://www.samsung.com/ie/business/mobile-accessories/galaxy-smarttag-ei-t5300-ei-t5300baegeu/",
       "source_file": "sources/samsung/accessories/galaxy-smarttag-source.md"
     }
-  ]
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "bluetooth": {
+        "value": "BLE 5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "distance": {
+        "value": "Max. 120 m",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "type": {
+        "value": "Replaceable CR2032 1ea",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "battery_life": {
+        "value": "Max. 300 days",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxhxd": {
+        "value": "39.1 x 39.1 x 10.4 mm",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "13 g",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "compatibility": {
+      "compatible_models": {
+        "value": "Galaxy devices(smartphones,tablets) with Android OS 8 (O OS) or higher",
+        "unit": null,
+        "source_section": "Compatibility",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "general_feature": {
+      "speaker": {
+        "value": "Buzzer",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "buttons": {
+        "value": "1 ea",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "packaging_contents": {
+        "value": "SmartTag, Battery(attached), Quick Start Guide",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
 }

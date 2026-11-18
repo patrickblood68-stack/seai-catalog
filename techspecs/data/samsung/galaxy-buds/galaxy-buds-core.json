@@ -5,45 +5,232 @@
     "category": "audio",
     "family": "Galaxy Buds",
     "model": "Galaxy Buds Core",
-    "model_slug": "galaxy-buds-core"
+    "model_slug": "galaxy-buds-core",
+    "model_numbers": [
+      "SM-R410NZWAINU"
+    ]
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/co/support/mobile-devices/galaxy-buds-core-vs-galaxy-buds-fe/",
+    "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
     "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Colombia Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: in. Coverage is described in coverage.csv.",
+    "source_title": "Galaxy Buds Core"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: in. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Earbud capacity: 65 mAh\n- Case capacity: 500 mAh",
-      "source_url": "https://www.samsung.com/co/support/mobile-devices/galaxy-buds-core-vs-galaxy-buds-fe/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Buds Core\nSource page identifies: Galaxy Buds Core\nModel/SKU: SM-R410NZWAINU",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Earbud Weight (g): 5.3\n- Bluetooth Version: Bluetooth v5.4\n- Sensors: Hall Sensor, Proximity Sensor, Touch Sensor",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Audio and Video",
+      "source_text": "- Number of MIC: 6\n- Speaker: 1-way\n- Ambient Sound: Yes\n- Active Noise Cancellation: Yes\n- 360 Audio: No\n- Audio Codec: AAC, SBC, Scalable Codec",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth Version: Bluetooth v5.4\n- Bluetooth Profiles: A2DP, AVRCP, HFP",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Earbud Dimension (HxWxD, mm): 19.2 x 17.1 x 22.2\n- Earbud Weight (g): 5.3\n- Case Dimension (HxWxD, mm): 50.0 x 50.0 x 27.7\n- Case Weight (g): 31.2\n- Durability: IP54",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Usage Time (ANC On)",
+      "source_text": "- Total Music Play Time (Hours, ANC On): Up to 20",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Usage Time (ANC Off)",
+      "source_text": "- Total Music Play Time (Hours, ANC Off): Up to 35",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Earbud Battery Capacity (mAh, Typical): 65\n- Case Battery Capacity (mAh, Typical): 500",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Services and Applications",
+      "source_text": "- Samsung Find: Yes\n- Bixby Voice Wake-up: No",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
+    },
+    {
+      "heading": "Manufacturer’s Information",
+      "source_text": "- Manufactured by: Building 2, Heyuan City High-tech Zone Electronic Information Intelligent Manufacturing Industrial Park, East Of Xingye Avenue, South Of Gaoxin Sixth Road, High-tech Zone, Heyuan City, Guangdong Province, China\n- Country of Origin: China\n- Imported by: Samsung India Electronics Pvt. Ltd. having its Registered Office at: 6th Floor, DLF Centre, Sansad Marg, New Delhi-110001\n- Contact us: For All Product Related Complaints/assistance, please contact Manager, Customer Care Samsung India Electronics Pvt. Ltd., 6th Floor, DLF Centre, Sansad Marg, New Delhi - 110001 Email us at: support.india@samsung.com Tel (Toll Free): 1800 40 7267864 (1800 40 SAMSUNG)\n- Launch date: June 27th, 2025",
+      "source_url": "https://www.samsung.com/in/business/audio-sound/galaxy-buds/galaxy-buds-core-white-sm-r410nzwainu/",
       "source_file": "sources/samsung/galaxy-buds/galaxy-buds-core-source.md"
     }
   ],
   "normalized_specifications": {
-    "battery": {
-      "earbud_capacity": {
-        "value": 65,
-        "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+    "audio_and_video": {
+      "number_of_mic": {
+        "value": "6",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
       },
-      "case_capacity": {
-        "value": 500,
-        "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+      "speaker": {
+        "value": "1-way",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "ambient_sound": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "active_noise_cancellation": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "360_audio": {
+        "value": false,
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      },
+      "audio_codec": {
+        "value": "AAC, SBC, Scalable Codec",
+        "unit": null,
+        "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_profiles": {
+        "value": "A2DP, AVRCP, HFP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "earbud_dimension_hxwxd_mm": {
+        "value": "19.2 x 17.1 x 22.2",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_weight_g": {
+        "value": "5.3",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_dimension_hxwxd_mm": {
+        "value": "50.0 x 50.0 x 27.7",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "case_weight_g": {
+        "value": "31.2",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IP54",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "usage_time_anc_on": {
+      "total_music_play_time_hours_anc_on": {
+        "value": "Up to 20",
+        "unit": null,
+        "source_section": "Usage Time (ANC On)",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "usage_time_anc_off": {
+      "total_music_play_time_hours_anc_off": {
+        "value": "Up to 35",
+        "unit": null,
+        "source_section": "Usage Time (ANC Off)",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "earbud_battery_capacity_mah_typical": {
+        "value": "65",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "case_battery_capacity_mah_typical": {
+        "value": "500",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "services_and_applications": {
+      "samsung_find": {
+        "value": true,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      },
+      "bixby_voice_wake_up": {
+        "value": false,
+        "unit": null,
+        "source_section": "Services and Applications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "manufacturer_s_information": {
+      "imported_by": {
+        "value": "Samsung India Electronics Pvt. Ltd. having its Registered Office at: 6th Floor, DLF Centre, Sansad Marg, New Delhi-110001",
+        "unit": null,
+        "source_section": "Manufacturer’s Information",
+        "verification_status": "source_transcribed"
+      },
+      "launch_date": {
+        "value": "June 27th, 2025",
+        "unit": null,
+        "source_section": "Manufacturer’s Information",
+        "verification_status": "source_transcribed"
       }
     }
   }

@@ -10,25 +10,73 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/in/smartphones-without-limits-samsung-galaxy-s8-and-galaxy-s8-launched-in-india",
+    "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
     "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. India Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "source_title": "Samsung Singapore Galaxy S8+ specification column"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2017\n- Diagonal: 6.2 inches\n- Resolution: 2960 × 1440 pixels\n- Rear resolution: 12 MP",
-      "source_url": "https://news.samsung.com/in/smartphones-without-limits-samsung-galaxy-s8-and-galaxy-s8-launched-in-india",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S8+\nSamsung Singapore Galaxy S8+ specification column",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Diagonal: 6.2 inches\n- Display technology: Quad HD+ Super AMOLED Dual Edge\n- Resolution: Quad HD+",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Front Camera - Resolution: 8 MP\n- Rear Camera - Resolution: 12 MP",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Processor: 64-bit 10 nm octa-core; 2.3 and 1.7 GHz clusters",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity: 3500 mAh\n- Wireless charging: Fast wireless charging",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Cellular network: LTE Category 9 supported at launch in Singapore; Category 16 capable\n- Wi-Fi: 802.11 a/b/g/n/ac (2.4 and 5 GHz)\n- Bluetooth Version: 5.0\n- USB interface: USB 3.1 Type-C\n- NFC: Yes",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Weight (g): 173\n- Dimension (HxWxD, mm): 159.5 × 73.4 × 8.1\n- IP Rating: IP68",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 7.0 at launch",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
+    },
+    {
+      "heading": "Storage",
+      "source_text": "- Memory (GB): 4\n- Storage (GB): 64\n- External storage: microSD up to 256 GB",
+      "source_url": "https://www.samsung.com/sg/news/local/samsung-announces-availability-of-galaxy-s8-s8plus-and-galaxy-tab-s3-in-singapore/",
       "source_file": "sources/samsung/galaxy-s/galaxy-s8-plus-source.md"
     }
   ],
@@ -37,22 +85,144 @@
       "diagonal": {
         "value": 6.2,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Quad HD+ Super AMOLED Dual Edge",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "resolution": {
-        "value": "2960 × 1440",
-        "unit": "pixels",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "value": "Quad HD+",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       }
     },
     "camera": {
-      "rear_resolution": {
+      "front_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_resolution": {
         "value": 12,
         "unit": "MP",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "64-bit 10 nm octa-core; 2.3 and 1.7 GHz clusters",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 3500,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_charging": {
+        "value": "Fast wireless charging",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "cellular_network": {
+        "value": "LTE Category 9 supported at launch in Singapore; Category 16 capable",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac (2.4 and 5 GHz)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_interface": {
+        "value": "USB 3.1 Type-C",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 173,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "height_width_depth": {
+        "value": [
+          159.5,
+          73.4,
+          8.1
+        ],
+        "unit": "mm",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IP68",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 7.0 at launch",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 4,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 64,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage": {
+        "value": "microSD up to 256 GB",
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
       }
     }
   }

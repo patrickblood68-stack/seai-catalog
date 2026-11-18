@@ -10,25 +10,79 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/uk/samsung-raises-the-bar-with-galaxy-s10-more-screen-cameras-and-choices",
+    "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
     "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "source_title": "Samsung UK Galaxy S10 comparison, galaxy-s10-plus"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Galaxy S10 line Product Specifications",
-      "source_text": "- Introduction year: 2019\n- Diagonal: 6.4 inches\n- Type: Dynamic AMOLED\n- Capacity typical: 4100 mAh",
-      "source_url": "https://news.samsung.com/uk/samsung-raises-the-bar-with-galaxy-s10-more-screen-cameras-and-choices",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S10+\nSamsung UK Galaxy S10 comparison, galaxy-s10-plus",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Diagonal: 6.4 inches\n- Display technology: Dynamic AMOLED\n- Resolution: 3040 × 1440",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Front Camera - Resolution: 10 MP + 8 MP\n- Rear Camera - Resolution: 12 MP + 12 MP + 16 MP",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Processor: Exynos 9820 octa-core",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity: 4100 mAh typical",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Cellular network: LTE Category 20",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Weight (g): 175\n- Dimension (HxWxD, mm): 157.6 × 74.1 × 7.8",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 9.0 at launch",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Storage",
+      "source_text": "- Storage and RAM configurations: 128 GB or 512 GB with 8 GB RAM; 1 TB with 12 GB RAM\n- External storage: microSD up to 512 GB",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
+    },
+    {
+      "heading": "Security",
+      "source_text": "- Biometrics: Ultrasonic fingerprint sensor",
+      "source_url": "https://www.samsung.com/uk/support/mobile-devices/key-differences-between-the-galaxy-s10-phones/",
       "source_file": "sources/samsung/galaxy-s/galaxy-s10-plus-source.md"
     }
   ],
@@ -37,22 +91,132 @@
       "diagonal": {
         "value": 6.4,
         "unit": "inches",
-        "source_section": "Galaxy S10 line Product Specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
         "value": "Dynamic AMOLED",
         "unit": null,
-        "source_section": "Galaxy S10 line Product Specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "3040 × 1440",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_sensor_resolutions": {
+        "value": [
+          12,
+          12,
+          16
+        ],
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_sensor_resolutions": {
+        "value": [
+          10,
+          8
+        ],
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Exynos 9820 octa-core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
       "capacity_typical": {
         "value": 4100,
         "unit": "mAh",
-        "source_section": "Galaxy S10 line Product Specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "cellular_network": {
+        "value": "LTE Category 20",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 175,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "height_width_depth": {
+        "value": [
+          157.6,
+          74.1,
+          7.8
+        ],
+        "unit": "mm",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 9.0 at launch",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "storage_and_ram_configurations": {
+        "value": "128 GB or 512 GB with 8 GB RAM; 1 TB with 12 GB RAM",
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage": {
+        "value": "microSD up to 512 GB",
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "options": {
+        "value": [
+          "128 GB",
+          "512 GB",
+          "1 TB"
+        ],
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "ram_options": {
+        "value": [
+          8,
+          12
+        ],
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "security": {
+      "biometrics": {
+        "value": "Ultrasonic fingerprint sensor",
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
       }
     }
   }

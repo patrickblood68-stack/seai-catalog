@@ -3,9 +3,9 @@
 The Samsung catalogue uses the TechSpecs Product Record V2 schema. Record and
 evidence paths in JSON and coverage.csv are relative to this directory.
 
-Coverage includes 138 models, of which 85 were rebuilt. The coverage CSV
-identifies 77 records that meet their category minimum, eight rebuilt records
-that need wider coverage and 53 records pending further source review. The
+Coverage includes 138 models, of which 103 were rebuilt. The coverage CSV
+identifies 93 records that meet their category minimum, ten rebuilt records
+that need wider coverage and 35 records pending further source review. The
 minimum is a coverage measure. Regional specifications apply to the cited
 configuration, and all records retain their verification status.
 

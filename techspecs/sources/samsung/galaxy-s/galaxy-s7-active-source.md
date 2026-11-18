@@ -1,15 +1,58 @@
 # Galaxy S7 active
 
-Source: https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf
+https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf
 
-Checked: 2026-11-17
+Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.
 
-US Samsung source. The extract covers selected facts for this model or its designated comparison-table column. Specifications are paraphrased.
+## Model identity and source scope
 
-## Product specifications
+Galaxy S7 active
+Samsung Galaxy S7 active AT&T datasheet
 
-- Introduction year: 2016
+## Display
+
 - Diagonal: 5.1 inches
-- Type: Super AMOLED
-- Resolution: 2560 × 1440 pixels
-- Capacity: 4000 mAh
+- Display technology: Super AMOLED
+- Resolution: 2560 × 1440
+
+## Processor
+
+- CPU Speed: 2.15 GHz
+- CPU Type: Quad-core
+
+## Camera
+
+- Front Camera - Resolution: 5 MP
+- Rear Camera - Resolution: 12 MP
+
+## Battery
+
+- Battery Capacity: 4,000 mAh
+- Wired charging: Adaptive Fast Charging with compatible charger
+- Wireless charging: WPC and PMA
+
+## Connectivity
+
+- USB interface: Micro-USB
+- Headphone jack: Yes
+
+## Storage
+
+- Storage (GB): 32
+- Memory (GB): 4
+- External storage: microSD up to 256 GB
+
+## Physical specification
+
+- Body measurements: 5.85 × 2.95 × 0.38 inches
+- Weight: 0.40 lb
+- IP Rating: IP68
+- Environmental testing: MIL-STD-810G subset of 20 test conditions
+
+## Software
+
+- Operating System: Android 6.0.1 at launch
+
+## Model codes
+
+- US AT&T part numbers: SM-G891AZGAATT, SM-G891AZDAATT, SM-G891AZAAATT

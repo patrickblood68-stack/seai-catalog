@@ -6,28 +6,88 @@
     "family": "Galaxy S",
     "model": "Galaxy S7 active",
     "model_slug": "galaxy-s7-active",
-    "year_introduced": 2016
+    "year_introduced": 2016,
+    "model_numbers": [
+      "SM-G891AZGAATT",
+      "SM-G891AZDAATT",
+      "SM-G891AZAAATT"
+    ],
+    "variant": "US AT&T"
   },
   "source": {
     "source_type": "manufacturer",
     "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
     "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. US Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "source_title": "Samsung Galaxy S7 active AT&T datasheet"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2016\n- Diagonal: 5.1 inches\n- Type: Super AMOLED\n- Resolution: 2560 × 1440 pixels\n- Capacity: 4000 mAh",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S7 active\nSamsung Galaxy S7 active AT&T datasheet",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Diagonal: 5.1 inches\n- Display technology: Super AMOLED\n- Resolution: 2560 × 1440",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU Speed: 2.15 GHz\n- CPU Type: Quad-core",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Front Camera - Resolution: 5 MP\n- Rear Camera - Resolution: 12 MP",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity: 4,000 mAh\n- Wired charging: Adaptive Fast Charging with compatible charger\n- Wireless charging: WPC and PMA",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- USB interface: Micro-USB\n- Headphone jack: Yes",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Storage",
+      "source_text": "- Storage (GB): 32\n- Memory (GB): 4\n- External storage: microSD up to 256 GB",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Body measurements: 5.85 × 2.95 × 0.38 inches\n- Weight: 0.40 lb\n- IP Rating: IP68\n- Environmental testing: MIL-STD-810G subset of 20 test conditions",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- Operating System: Android 6.0.1 at launch",
+      "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
+    },
+    {
+      "heading": "Model codes",
+      "source_text": "- US AT&T part numbers: SM-G891AZGAATT, SM-G891AZDAATT, SM-G891AZAAATT",
       "source_url": "https://image-us.samsung.com/SamsungUS/HHP-ATT-GALS7ACTIVEDSHT-JUL16I%20Final%207-5-16.pdf",
       "source_file": "sources/samsung/galaxy-s/galaxy-s7-active-source.md"
     }
@@ -37,28 +97,162 @@
       "diagonal": {
         "value": 5.1,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
         "value": "Super AMOLED",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "resolution": {
         "value": "2560 × 1440",
         "unit": "pixels",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "cpu_clock_max": {
+        "value": 2.15,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_type": {
+        "value": "Quad-core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "front_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
       "capacity": {
         "value": 4000,
         "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging": {
+        "value": "Adaptive Fast Charging with compatible charger",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_charging": {
+        "value": "WPC and PMA",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "usb_interface": {
+        "value": "Micro-USB",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "headphone_jack": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage": {
+        "value": "microSD up to 256 GB",
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "expandable_capacity_max": {
+        "value": 256,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 4,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "body_measurements": {
+        "value": "5.85 × 2.95 × 0.38 inches",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": "0.40 lb",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      },
+      "environmental_testing": {
+        "value": "MIL-STD-810G subset of 20 test conditions",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IP68",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 6.0.1 at launch",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "model_codes": {
+      "us_at_t_part_numbers": {
+        "value": "SM-G891AZGAATT, SM-G891AZDAATT, SM-G891AZAAATT",
+        "unit": null,
+        "source_section": "Model codes",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 181,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
       }
     }
   }

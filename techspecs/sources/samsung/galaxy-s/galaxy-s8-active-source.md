@@ -1,15 +1,54 @@
 # Galaxy S8 Active
 
-Source: https://image-us.samsung.com/SamsungUS/home/mobile/phones/galaxy-s/pdp/sm-g892/business/HHP-ATT-GALAXYS8ACTIVEDSHT-AUG17-Final-8-9-17.pdf
+https://image-us.samsung.com/SamsungUS/home/mobile/phones/galaxy-s/pdp/sm-g892/business/HHP-ATT-GALAXYS8ACTIVEDSHT-AUG17-Final-8-9-17.pdf
 
-Checked: 2026-11-17
+Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.
 
-US Samsung source. The extract covers selected facts for this model or its designated comparison-table column. Specifications are paraphrased.
+## Model identity and source scope
 
-## Product specifications
+Galaxy S8 Active
+Samsung Galaxy S8 Active AT&T datasheet
 
-- Introduction year: 2017
+## Display
+
 - Diagonal: 5.8 inches
-- Type: Super AMOLED
-- Resolution: 2960 × 1440 pixels
-- Capacity: 4000 mAh
+- Display technology: Super AMOLED
+- Resolution: 2960 × 1440
+
+## Processor
+
+- CPU Speed: 2.35 GHz
+- CPU Type: Octa-core (two four-core clusters)
+
+## Camera
+
+- Front Camera - Resolution: 8 MP
+- Rear Camera - Resolution: 12 MP
+
+## Battery
+
+- Battery Capacity: 4,000 mAh
+- Wired charging: Adaptive Fast Charging with compatible charger
+- Wireless charging: WPC and PMA
+
+## Connectivity
+
+- USB interface: USB 3.1 Type-C
+- Headphone jack: Yes
+
+## Storage
+
+- Storage (GB): 64
+- Memory (GB): 4
+- External storage: microSD up to 256 GB
+
+## Physical specification
+
+- Body measurements: 6.00 × 2.95 × 0.39 inches
+- Weight: 7.34 oz
+- IP Rating: IP68
+- Environmental testing: MIL-STD-810G subset of 21 test conditions
+
+## Software
+
+- Operating System: Android 7.0 at launch

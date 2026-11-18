@@ -1,15 +1,74 @@
 # Galaxy S4 Active
 
-Source: https://news.samsung.com/global/samsung-introduces-the-galaxy-s4-active-the-perfect-companion-for-exploration-activity-and-adventure
+https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/
 
-Checked: 2026-11-17
+Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.
 
-Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column. Specifications are paraphrased.
+## Model identity and source scope
 
-## Product specifications
+Galaxy S4 Active
+Source page identifies: Galaxy S4 Active
+Model/SKU: GT-I9295ZAAKSA
 
-- Introduction year: 2013
-- Diagonal: 5 inches
-- Type: TFT LCD
-- Ingress protection rating: IP67
-- Capacity: 2600 mAh
+## Network/Bearer and Wireless Connectivity
+
+- Infra: LTE 4G
+- 2G: EDGE / GPRS (850 / 900 / 1,800 / 1,900 MHZ)
+- 4G: LTE Cat 3 (800 / 850 / 900 / 1,800 / 2,100 / 2,600 MHz) * Dependent on market
+- 3G: 3G: HSPA+ (850 / 900 / 1,900 / 2,100 MHZ)
+- Wi-Fi: 802.11 a/b/g/n/ac, HT80
+- Wi-Fi Direct: Yes
+- Bluetooth Profiles: Bluetooth v4.0
+- NFC: Yes
+- Connectivity Support: DLNA, MHL 2
+- PC Sync.: kies
+
+## Display
+
+- Technology: FHD TFT
+- Color Depth: 16M
+- Size: 5.0"
+- Resolution: 1920x1080
+
+## Chipset
+
+- CPU Type: Quad Core Application Processor
+- CPU Speed: 1.9 GHz
+
+## Camera
+
+- Camera Resolution(Rear): CMOS, 8MP
+- Camera Resolution(Front): CMOS, 2MP
+- Flash: LED Flash
+- Auto Focus: Supported
+
+## Physical Specification
+
+- Dimension (HxWxD): 139.7x71.3x9.1 mm
+- Weight: 153 g
+
+## Connectors
+
+- USB: USB 2.0
+- Earjack: 3.5 mm Stereo Earjack
+- External Memory Slot: MicroSD (up to 64 GB)
+- SIM Support: Micro SIM (3FF) support
+- Connector: Micro USB (5.0 V, 2 A)
+- MHL: Yes
+
+## Services and Applications
+
+- Samsung Apps: Yes
+- Music Hub: Yes
+- Readers Hub: Yes
+- Game Hub: Yes
+- ChatON, mFluent IM: ChatON
+- ActiveSync: Yes
+- B-to-B Compability: Yes
+
+## Audio and Video
+
+- Video Format: AVI, WMV, ASF, FLV, MKV, MP4, 3GP, WebM
+- Video Resolution: Full HD (1080p) Video Playback
+- Video Frame rate: 30fps
+- Audio Format: MP3, AAC, AAC+, eAAC+, AMR-NB / WB, OGG, FLAC, WAV, WMA, MID, SPM, XMF, IMY

@@ -7,71 +7,642 @@
     "model": "ViewFinity S9 27-inch",
     "model_slug": "viewfinity-s9-27-inch",
     "model_numbers": [
-      "LS27C902PAUXXU"
+      "LS27C902PAMXUE"
     ]
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/ie/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pauxxu/",
+    "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
     "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md",
     "publisher": "Samsung",
-    "source_title": "ViewFinity S9 27-inch specifications",
-    "checked_at": "2026-11-17",
+    "source_title": "ViewFinity S9",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+    "verification_notes": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv."
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific specifications. Values apply to the cited model and configuration. Market/source path: sa_en. Coverage is described in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
+      "heading": "Model identity and source scope",
+      "source_text": "ViewFinity S9 27-inch\nSource page identifies: ViewFinity S9\nModel/SKU: LS27C902PAMXUE",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Specifications",
+      "source_text": "- Resolution: 5,120 x 2,880\n- Aspect Ratio: 16:9\n- Brightness (Typical): 600 cd/㎡\n- Contrast Ratio Static: 1000:1\n- Response Time: 5ms(GTG)\n- Refresh Rate: Max 60Hz\n- Viewing Angle (H/V): 178°(H)/178°(V)",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
       "heading": "Display",
-      "source_text": "- Diagonal: 27 inches\n- Type: IPS\n- Refresh rate max: 60 Hz\n- Resolution: 5120 × 2880 pixels\n- Brightness typical: 600 cd/m²\n- Colour gamut dci typical: 99 %",
-      "source_url": "https://www.samsung.com/ie/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pauxxu/",
+      "source_text": "- Screen Size (Class): 27\n- Flat / Curved: Flat\n- Active Display Size (HxV) (mm): 596.736 x 335.664 mm\n- Aspect Ratio: 16:9\n- Panel Type: IPS\n- Brightness (Typical): 600 cd/㎡\n- Brightness (Min): 480 cd/㎡\n- Contrast Ratio Static: 1000:1\n- HDR(High Dynamic Range): Yes\n- Resolution: 5,120 x 2,880\n- Response Time: 5ms(GTG)\n- Viewing Angle (H/V): 178°(H)/178°(V)\n- Color Support: Max 1B\n- Color Gamut (DCI Coverage): 99% (Typ)\n- sRGB Coverage: 100% (Typ.)\n- Refresh Rate: Max 60Hz",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "General Feature",
+      "source_text": "- Eye Saver Mode: Yes\n- Flicker Free: Yes\n- Game Mode: Yes\n- Image Size: Yes\n- Windows Certification: Windows 10\n- Virtual AIM Point: Yes\n- Game Bar 2.0: Yes\n- Auto Source Switch: Auto Source Switch+\n- Adaptive Picture: Yes\n- Ultrawide Game View: Yes",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Smart Service",
+      "source_text": "- Smart Type: Smart\n- Operating System: Tizen™\n- Bixby: US English, UK English, India English, Korean, French, German, Italian, Spanish, BR Portuguese, Turkish(Turkiye only) (features vary by language)\n- Far-Field Voice Interaction: Yes\n- Video Communication: Google Meet\n- Web Service: Microsoft 365\n- SmartThings Hub: Yes\n- Multi Device Experience: Mobile to Screen, Screen initiate mirroring, Screen Sound to Mobile, Sound Mirroring, Wireless On\n- Wireless DeX: Yes\n- My Contents: Yes\n- Multi View: upto 2 videos\n- Smart Calibration: Basic/Professional for Pro Monitor\n- NFT: Nifty Gateway\n- Tap View: Yes\n- Remote Access: Yes",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Interface",
+      "source_text": "- Wireless Display: Yes\n- Mini-Display Port: 1 EA\n- HDCP Version (Mini-DP): 2.2\n- USB Hub: 3\n- USB Hub Version: 3\n- Thunderbolt 3: 1 EA\n- Thunderbolt 3 Charging Power (Port 1): 90W\n- Version of Thunderbolt: 4.0\n- HDCP Version (Thunderbolt): 2.2\n- Wireless LAN Built-in: Yes (WiFi5)\n- Bluetooth: Yes (BT4.2)",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Audio",
+      "source_text": "- Speaker: Yes\n- Speaker Output: 5W x 2\n- Adaptive Sound: Adaptive Sound+",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Operation Conditions",
+      "source_text": "- Temperature: 10~40 ℃\n- Humidity: 10~80,non-condensing",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Calibration",
+      "source_text": "- Factory Tunning: Yes\n- Color Mode: Entertain/Graphic/Eco/sRGB/BT.709/DCI-P3/Custom 1/Custom 2\n- CMS(Color Management Software): Smart Calibration\n- Factory Calibration Report: Yes",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Design",
+      "source_text": "- Front Color: SILVER\n- Rear Color: SILVER\n- Stand Color: Metal Silver\n- Stand Type: HAS PIVOT\n- HAS(Height Adjustable Stand): 120mm(±5.0mm)\n- Tilt: -2.0˚(±2.0˚)~15˚(±2.0˚)\n- Pivot: -92.0˚(±2.0˚)~92.0˚(±2.0˚)\n- Wall Mount: 100 x 100",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Eco",
+      "source_text": "- Recycled Plastic: 3 %",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- Power Supply: AC 100~240V\n- Power Consumption (Max): 182 W\n- Type: External Adaptor",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Dimension",
+      "source_text": "- Set Dimension with Stand (WxHxD): 611.4 x 530.7 x 135.3 mm\n- Set Dimension without Stand (WxHxD): 611.4 x 364.1 x 27.1 mm\n- Package Dimension (WxHxD): 820.0 x 133.0 x 423.0 mm",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Weight",
+      "source_text": "- Set Weight with Stand (kg): 7.4 kg\n- Set Weight without Stand (kg): 4.7 kg\n- Package Weight (kg): 10.7 kg",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Accessory",
+      "source_text": "- Power Cable Length: 1.5 m\n- Thunderbolt 4 Cable: Yes\n- Remote Controller: Yes\n- Camera: Yes\n- Pogo Gender: Yes",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
+      "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
+    },
+    {
+      "heading": "Certification and Compliance",
+      "source_text": "- UL Glare Free: Yes\n- Pantone Validated: Yes",
+      "source_url": "https://www.samsung.com/sa_en/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c902pamxue/",
       "source_file": "sources/samsung/displays/viewfinity-s9-27-inch-source.md"
     }
   ],
   "normalized_specifications": {
     "display": {
-      "diagonal": {
-        "value": 27,
-        "unit": "inches",
+      "screen_size_class": {
+        "value": "27",
+        "unit": null,
         "source_section": "Display",
-        "verification_status": "content_verified"
+        "verification_status": "source_transcribed"
+      },
+      "flat_curved": {
+        "value": "Flat",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "active_display_size_hxv_mm": {
+        "value": "596.736 x 335.664 mm",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "aspect_ratio": {
+        "value": "16:9",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
         "value": "IPS",
         "unit": null,
         "source_section": "Display",
-        "verification_status": "content_verified"
+        "verification_status": "source_transcribed"
+      },
+      "brightness_typical": {
+        "value": "600 cd/㎡",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "brightness_min": {
+        "value": "480 cd/㎡",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "contrast_ratio_static": {
+        "value": "1000:1",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "hdr_high_dynamic_range": {
+        "value": true,
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "5,120 x 2,880",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "response_time": {
+        "value": "5ms(GTG)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "viewing_angle_h_v": {
+        "value": "178°(H)/178°(V)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "srgb_coverage": {
+        "value": "100% (Typ.)",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "refresh_rate_max": {
         "value": 60,
         "unit": "Hz",
         "source_section": "Display",
-        "verification_status": "content_verified"
+        "verification_status": "source_transcribed"
+      }
+    },
+    "general_feature": {
+      "eye_saver_mode": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
       },
-      "resolution": {
-        "value": "5120 × 2880",
-        "unit": "pixels",
-        "source_section": "Display",
-        "verification_status": "content_verified"
+      "flicker_free": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
       },
-      "brightness_typical": {
-        "value": 600,
-        "unit": "cd/m²",
-        "source_section": "Display",
-        "verification_status": "content_verified"
+      "game_mode": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
       },
-      "colour_gamut_dci_typical": {
-        "value": 99,
-        "unit": "%",
-        "source_section": "Display",
-        "verification_status": "content_verified"
+      "image_size": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "windows_certification": {
+        "value": "Windows 10",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "virtual_aim_point": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "game_bar_2_0": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "auto_source_switch": {
+        "value": "Auto Source Switch+",
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "adaptive_picture": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      },
+      "ultrawide_game_view": {
+        "value": true,
+        "unit": null,
+        "source_section": "General Feature",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "smart_service": {
+      "smart_type": {
+        "value": "Smart",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "bixby": {
+        "value": "US English, UK English, India English, Korean, French, German, Italian, Spanish, BR Portuguese, Turkish(Turkiye only) (features vary by language)",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "far_field_voice_interaction": {
+        "value": true,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "video_communication": {
+        "value": "Google Meet",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "web_service": {
+        "value": "Microsoft 365",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "smartthings_hub": {
+        "value": true,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "multi_device_experience": {
+        "value": "Mobile to Screen, Screen initiate mirroring, Screen Sound to Mobile, Sound Mirroring, Wireless On",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_dex": {
+        "value": true,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "my_contents": {
+        "value": true,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "multi_view": {
+        "value": "upto 2 videos",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "smart_calibration": {
+        "value": "Basic/Professional for Pro Monitor",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "nft": {
+        "value": "Nifty Gateway",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "tap_view": {
+        "value": true,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      },
+      "remote_access": {
+        "value": true,
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Tizen™",
+        "unit": null,
+        "source_section": "Smart Service",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "interface": {
+      "wireless_display": {
+        "value": true,
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "mini_display_port": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdcp_version_mini_dp": {
+        "value": "2.2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "usb_hub": {
+        "value": "3",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "usb_hub_version": {
+        "value": "3",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "thunderbolt_3": {
+        "value": "1 EA",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "thunderbolt_3_charging_power_port_1": {
+        "value": "90W",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "version_of_thunderbolt": {
+        "value": "4.0",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "hdcp_version_thunderbolt": {
+        "value": "2.2",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_lan_built_in": {
+        "value": "Yes (WiFi5)",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth": {
+        "value": "Yes (BT4.2)",
+        "unit": null,
+        "source_section": "Interface",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio": {
+      "speaker": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "speaker_output": {
+        "value": "5W x 2",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "adaptive_sound": {
+        "value": "Adaptive Sound+",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "operation_conditions": {
+      "temperature": {
+        "value": "10~40 ℃",
+        "unit": null,
+        "source_section": "Operation Conditions",
+        "verification_status": "source_transcribed"
+      },
+      "humidity": {
+        "value": "10~80,non-condensing",
+        "unit": null,
+        "source_section": "Operation Conditions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "calibration": {
+      "factory_tunning": {
+        "value": true,
+        "unit": null,
+        "source_section": "Calibration",
+        "verification_status": "source_transcribed"
+      },
+      "cms_color_management_software": {
+        "value": "Smart Calibration",
+        "unit": null,
+        "source_section": "Calibration",
+        "verification_status": "source_transcribed"
+      },
+      "factory_calibration_report": {
+        "value": true,
+        "unit": null,
+        "source_section": "Calibration",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "design": {
+      "front_color": {
+        "value": "SILVER",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "rear_color": {
+        "value": "SILVER",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "stand_color": {
+        "value": "Metal Silver",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "stand_type": {
+        "value": "HAS PIVOT",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "has_height_adjustable_stand": {
+        "value": "120mm(±5.0mm)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "tilt": {
+        "value": "-2.0˚(±2.0˚)~15˚(±2.0˚)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "pivot": {
+        "value": "-92.0˚(±2.0˚)~92.0˚(±2.0˚)",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      },
+      "wall_mount": {
+        "value": "100 x 100",
+        "unit": null,
+        "source_section": "Design",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "power_supply": {
+        "value": "AC 100~240V",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_consumption_max": {
+        "value": "182 W",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "External Adaptor",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimension": {
+      "set_dimension_with_stand_wxhxd": {
+        "value": "611.4 x 530.7 x 135.3 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      },
+      "set_dimension_without_stand_wxhxd": {
+        "value": "611.4 x 364.1 x 27.1 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      },
+      "package_dimension_wxhxd": {
+        "value": "820.0 x 133.0 x 423.0 mm",
+        "unit": null,
+        "source_section": "Dimension",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "weight": {
+      "set_weight_with_stand_kg": {
+        "value": "7.4 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      },
+      "set_weight_without_stand_kg": {
+        "value": "4.7 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      },
+      "package_weight_kg": {
+        "value": "10.7 kg",
+        "unit": null,
+        "source_section": "Weight",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "accessory": {
+      "power_cable_length": {
+        "value": "1.5 m",
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      },
+      "thunderbolt_4_cable": {
+        "value": true,
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      },
+      "remote_controller": {
+        "value": true,
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      },
+      "camera": {
+        "value": true,
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      },
+      "pogo_gender": {
+        "value": true,
+        "unit": null,
+        "source_section": "Accessory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "certification_and_compliance": {
+      "ul_glare_free": {
+        "value": true,
+        "unit": null,
+        "source_section": "Certification and Compliance",
+        "verification_status": "source_transcribed"
+      },
+      "pantone_validated": {
+        "value": true,
+        "unit": null,
+        "source_section": "Certification and Compliance",
+        "verification_status": "source_transcribed"
       }
     }
   }

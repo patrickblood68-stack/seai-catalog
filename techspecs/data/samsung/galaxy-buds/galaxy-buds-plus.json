@@ -9,25 +9,61 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2020_Business_Report.pdf",
+    "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
     "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "source_title": "Galaxy Buds+ launch specification table"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Model-specific manufacturer specification document. The fields apply to the model and configuration in the cited Samsung source. Coverage is recorded in coverage.csv.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Earbud capacity: 85 mAh\n- Case capacity: 270 mAh",
-      "source_url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2020_Business_Report.pdf",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Buds+\nGalaxy Buds+ launch specification table",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Earbud capacity: 85 mAh\n- Case capacity: 270 mAh\n- Listening per charge: Up to 11 hours\n- Listening with case: Up to 22 hours\n- Talk time per charge: Up to 7.5 hours\n- Talk time with case: Up to 15 hours",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    },
+    {
+      "heading": "Charging",
+      "source_text": "- Wireless charging: Yes\n- Quick charge: 3 minutes for 1 hour of playback",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Earbud dimensions: 17.5 × 19.2 × 22.5 mm\n- Earbud weight: 6.3 g\n- Case dimensions: 38.8 × 70.0 × 26.5 mm\n- Case weight: 39.6 g",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Bluetooth Version: 5.0",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    },
+    {
+      "heading": "Audio",
+      "source_text": "- Drivers: Two-way dynamic, woofer and tweeter\n- Microphones: Two outer and one inner per earbud\n- Codecs: SBC, AAC and Samsung Scalable Codec",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
+    },
+    {
+      "heading": "Durability",
+      "source_text": "- IP Rating: IPX2",
+      "source_url": "https://news.samsung.com/us/galaxy-buds-plus-unpacked2020-experience-sound-new-way/",
       "source_file": "sources/samsung/galaxy-buds/galaxy-buds-plus-source.md"
     }
   ],
@@ -36,14 +72,126 @@
       "earbud_capacity": {
         "value": 85,
         "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       },
       "case_capacity": {
         "value": 270,
         "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "listening_per_charge": {
+        "value": "Up to 11 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "listening_with_case": {
+        "value": "Up to 22 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_per_charge": {
+        "value": "Up to 7.5 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_with_case": {
+        "value": "Up to 15 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "runtime_earbuds_max": {
+        "value": 11,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "runtime_with_case_max": {
+        "value": 22,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "charging": {
+      "wireless_charging": {
+        "value": true,
+        "unit": null,
+        "source_section": "Charging",
+        "verification_status": "source_transcribed"
+      },
+      "quick_charge": {
+        "value": "3 minutes for 1 hour of playback",
+        "unit": null,
+        "source_section": "Charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "earbud_dimensions": {
+        "value": "17.5 × 19.2 × 22.5 mm",
+        "unit": null,
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "earbud_weight": {
+        "value": 6.3,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "case_dimensions": {
+        "value": "38.8 × 70.0 × 26.5 mm",
+        "unit": null,
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "case_weight": {
+        "value": 39.6,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio": {
+      "drivers": {
+        "value": "Two-way dynamic, woofer and tweeter",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "microphones": {
+        "value": "Two outer and one inner per earbud",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "codecs": {
+        "value": "SBC, AAC and Samsung Scalable Codec",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IPX2",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
       }
     }
   }
