@@ -1,6 +1,7 @@
 """Validate the Samsung catalogue against TechSpecs Product Record V2."""
 import csv
 import json
+from hashlib import sha256
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -25,6 +26,49 @@ def archive(relative):
     path = (ROOT / relative).resolve()
     require(path.is_relative_to(ROOT / "sources" / "samsung") and path.is_file(),
             f"Missing or invalid Samsung archive: {relative}")
+
+
+def validate_media(coverage):
+    media_dir = ROOT / "data/media"
+    with (media_dir / "samsung-images.csv").open(newline="", encoding="utf-8") as handle:
+        images = list(csv.DictReader(handle))
+    seen_ids, seen_files, seen_hashes = set(), set(), set()
+    for image in images:
+        record_id = image["record_id"]
+        require(record_id in coverage and record_id not in seen_ids,
+                f"Unknown or duplicate Samsung image record: {record_id}")
+        require(image["role"] == "primary" and image["format"] == "WEBP",
+                f"Invalid primary image metadata: {record_id}")
+        require(manufacturer(image["source_url"]) and manufacturer(image["original_url"]),
+                f"Invalid manufacturer image provenance: {record_id}")
+        file = (ROOT / "data" / image["local_path"]).resolve()
+        require(file.is_relative_to(media_dir / record_id) and file.is_file(),
+                f"Missing or misplaced image: {record_id}")
+        content = file.read_bytes()
+        digest = sha256(content).hexdigest()
+        require(len(content) == int(image["bytes"]) and digest == image["sha256"],
+                f"Image integrity mismatch: {record_id}")
+        require(content[:4] == b"RIFF" and content[8:12] == b"WEBP"
+                and min(int(image["width"]), int(image["height"])) >= 150,
+                f"Invalid image format or dimensions: {record_id}")
+        require(digest not in seen_hashes and file not in seen_files,
+                f"Duplicate image contents: {record_id}")
+        require(image["rights_status"] == "reuse_permission_unverified",
+                f"Unexpected reuse status: {record_id}")
+        if image["model_number"]:
+            record = json.loads((ROOT / f"data/{record_id}.json").read_text(encoding="utf-8"))
+            model_numbers = record["product"].get("model_numbers", [])
+            require(image["model_number"].upper() in {code.upper() for code in model_numbers},
+                    f"Image SKU mismatch: {record_id}")
+        seen_hashes.add(digest)
+        seen_files.add(file)
+        seen_ids.add(record_id)
+    require(seen_files == set((media_dir / "samsung").rglob("*.webp")),
+            "Image files do not match the Samsung photo manifest")
+    require(seen_ids == {record_id for record_id, row in coverage.items()
+                         if row["primary_photo"] == "validated"},
+            "Photo coverage does not match the Samsung photo manifest")
+    print(f"Validated {len(seen_ids)} Samsung primary images")
 
 
 def main():
@@ -60,6 +104,7 @@ def main():
                 and int(row["fields"]) == len(fields) and int(row["sections"]) == len(record["sections"]),
                 f"Coverage metadata does not match the record: {path}")
     print(f"Validated {len(files)} Samsung V2 records and their evidence references")
+    validate_media({key[5:-5]: row for key, row in coverage.items()})
 
 
 if __name__ == "__main__":

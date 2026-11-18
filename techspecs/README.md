@@ -17,3 +17,14 @@ groups. Other categories require further coverage review.
 
 Run `python techspecs/validate.py` from the repository root. Evidence files are
 under `sources/samsung/` and manufacturer source links are recorded per section.
+
+## Samsung imagery
+
+The shared-style media index is `data/media/samsung-images.csv`. It links
+52 primary WebP images to exact Samsung product record IDs. Each row
+retains the manufacturer page and asset URL, matching basis, stored
+dimensions, checksum, and rights status. When an exact SKU is listed it
+matches the cited product record. A model-level manufacturer render can
+illustrate a different finish or market version of the same model.
+Reuse permission remains unverified. The 86 remaining records carry
+pending photo status in the coverage CSV.
