@@ -6,61 +6,234 @@
     "family": "Galaxy S",
     "model": "Galaxy S II",
     "model_slug": "galaxy-s-ii",
-    "year_introduced": 2011
+    "year_introduced": 2011,
+    "variant": "South Korea (SK Telecom and KT launch configurations)"
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+    "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
     "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "source_title": "Samsung Galaxy S II launch specifications for SK Telecom and KT"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Galaxy S series retrospective",
-      "source_text": "- Introduction year: 2011\n- Diagonal: 4.27 inches\n- Type: Super AMOLED Plus\n- Depth: 8.49 mm\n- Chipset: Exynos 4210",
-      "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+      "heading": "Display",
+      "source_text": "- Diagonal: 4.3 inches\n- Resolution width: 800 px\n- Resolution height: 480 px\n- Panel type: Super AMOLED Plus",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Cpu type: Dual-core\n- Cpu clock max: 1.2 GHz",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear main resolution: 8 MP\n- Front resolution: 2 MP\n- Video recording: 1080p at 30 fps",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Capacity: 1650 mAh\n- Removable: True",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Cellular network: HSPA+\n- Cellular download max: 21.1 Mbps\n- Wifi: 802.11 a/b/g/n\n- Bluetooth: 3.0 HS\n- Usb: USB 2.0\n- Gps: True",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Storage",
+      "source_text": "- Internal capacity: 16 GB\n- Microsd max: 32 GB",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Physical specifications",
+      "source_text": "- Height: 125.3 mm\n- Width: 66.1 mm\n- Depth: 8.9 mm\n- Weight: 121 g",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- Operating system: Android 2.3",
+      "source_url": "https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-source.md"
     }
   ],
   "normalized_specifications": {
     "display": {
       "diagonal": {
-        "value": 4.27,
+        "value": 4.3,
         "unit": "inches",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
-      "type": {
+      "resolution_width": {
+        "value": 800,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 480,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "panel_type": {
         "value": "Super AMOLED Plus",
         "unit": null,
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
-      }
-    },
-    "dimensions": {
-      "depth": {
-        "value": 8.49,
-        "unit": "mm",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       }
     },
     "processor": {
-      "chipset": {
-        "value": "Exynos 4210",
+      "cpu_type": {
+        "value": "Dual-core",
         "unit": null,
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1.2,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 2,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "video_recording": {
+        "value": "1080p at 30 fps",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 1650,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "removable": {
+        "value": true,
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "cellular_network": {
+        "value": "HSPA+",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_download_max": {
+        "value": 21.1,
+        "unit": "Mbps",
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth": {
+        "value": "3.0 HS",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "USB 2.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "gps": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "internal_capacity": {
+        "value": 16,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "microsd_max": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 125.3,
+        "unit": "mm",
+        "source_section": "Physical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 66.1,
+        "unit": "mm",
+        "source_section": "Physical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 8.9,
+        "unit": "mm",
+        "source_section": "Physical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 121,
+        "unit": "g",
+        "source_section": "Physical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 2.3",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
       }
     }
   }

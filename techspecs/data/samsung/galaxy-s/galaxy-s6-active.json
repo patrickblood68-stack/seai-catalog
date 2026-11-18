@@ -6,29 +6,72 @@
     "family": "Galaxy S",
     "model": "Galaxy S6 active",
     "model_slug": "galaxy-s6-active",
-    "year_introduced": 2015
+    "year_introduced": 2015,
+    "variant": "US carrier configuration"
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/samsung-galaxy-s6-active-available-exclusively-at-att",
+    "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
     "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. US Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "source_title": "Samsung Galaxy S6 active specifications"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2015\n- Diagonal: 5.1 inches\n- Type: Super AMOLED\n- Capacity: 3500 mAh",
-      "source_url": "https://news.samsung.com/global/samsung-galaxy-s6-active-available-exclusively-at-att",
+      "heading": "Display",
+      "source_text": "- Diagonal: 5.1 inches\n- Resolution width: 2560 px\n- Resolution height: 1440 px\n- Panel type: Super AMOLED",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Cpu type: Octa-core\n- Cpu clock max: 2.1 GHz",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear main resolution: 16 MP\n- Front resolution: 5 MP",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Capacity: 3500 mAh\n- Talk time: 24 hours\n- Audio playback: 61 hours\n- Video playback: 16 hours",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Cellular network: LTE\n- Wifi: 802.11ac\n- Bluetooth: 4.1\n- Usb: USB 2.0\n- Nfc: True\n- Sim type: Nano-SIM",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Storage",
+      "source_text": "- Internal capacity: 32 GB",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Physical specifications",
+      "source_text": "- Weight: 170 g",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- Operating system: Android 5.0",
+      "source_url": "https://www.samsung.com/us/business/support/owners/product/galaxy-s6-active-at-t/",
       "source_file": "sources/samsung/galaxy-s/galaxy-s6-active-source.md"
     }
   ],
@@ -37,22 +80,142 @@
       "diagonal": {
         "value": 5.1,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
-      "type": {
+      "resolution_width": {
+        "value": 2560,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1440,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "panel_type": {
         "value": "Super AMOLED",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "cpu_type": {
+        "value": "Octa-core",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 2.1,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 16,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
       "capacity": {
         "value": 3500,
         "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time": {
+        "value": 24,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "audio_playback": {
+        "value": 61,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "video_playback": {
+        "value": 16,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "cellular_network": {
+        "value": "LTE",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11ac",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth": {
+        "value": "4.1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "USB 2.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "nfc": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "sim_type": {
+        "value": "Nano-SIM",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "internal_capacity": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 170,
+        "unit": "g",
+        "source_section": "Physical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 5.0",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
       }
     }
   }

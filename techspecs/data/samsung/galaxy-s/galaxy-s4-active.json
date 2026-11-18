@@ -81,6 +81,12 @@
       "source_text": "- Video Format: AVI, WMV, ASF, FLV, MKV, MP4, 3GP, WebM\n- Video Resolution: Full HD (1080p) Video Playback\n- Video Frame rate: 30fps\n- Audio Format: MP3, AAC, AAC+, eAAC+, AMR-NB / WB, OGG, FLAC, WAV, WMA, MID, SPM, XMF, IMY",
       "source_url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s4-active-i9295-gt-i9295zaaksa/",
       "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
+    },
+    {
+      "heading": "Samsung Mobile Press battery specification",
+      "source_text": "- Battery capacity: 2,600 mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-active?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-active-source.md"
     }
   ],
   "normalized_specifications": {
@@ -321,6 +327,14 @@
         "value": "MP3, AAC, AAC+, eAAC+, AMR-NB / WB, OGG, FLAC, WAV, WMA, MID, SPM, XMF, IMY",
         "unit": null,
         "source_section": "Audio and Video",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 2600,
+        "unit": "mAh",
+        "source_section": "Samsung Mobile Press battery specification",
         "verification_status": "source_transcribed"
       }
     }

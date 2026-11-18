@@ -72,3 +72,9 @@ Model/SKU: GT-I9295ZAAKSA
 - Video Resolution: Full HD (1080p) Video Playback
 - Video Frame rate: 30fps
 - Audio Format: MP3, AAC, AAC+, eAAC+, AMR-NB / WB, OGG, FLAC, WAV, WMA, MID, SPM, XMF, IMY
+
+## Samsung Mobile Press battery specification
+
+https://www.samsungmobilepress.com/media-assets/galaxy-s4-active?tab=specs
+
+- Battery capacity: 2,600 mAh

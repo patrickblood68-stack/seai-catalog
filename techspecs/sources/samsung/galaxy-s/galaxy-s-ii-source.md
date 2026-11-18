@@ -1,15 +1,53 @@
 # Galaxy S II
 
-Source: https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation
+https://www.samsungmobilepress.com/articles/samsung-launches-faster-clearer-and-thinner-galaxy-s-ii
 
-Checked: 2026-11-17
+Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.
 
-Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column. Specifications are paraphrased.
+## Display
 
-## Galaxy S series retrospective
+- Diagonal: 4.3 inches
+- Resolution width: 800 px
+- Resolution height: 480 px
+- Panel type: Super AMOLED Plus
 
-- Introduction year: 2011
-- Diagonal: 4.27 inches
-- Type: Super AMOLED Plus
-- Depth: 8.49 mm
-- Chipset: Exynos 4210
+## Processor
+
+- Cpu type: Dual-core
+- Cpu clock max: 1.2 GHz
+
+## Camera
+
+- Rear main resolution: 8 MP
+- Front resolution: 2 MP
+- Video recording: 1080p at 30 fps
+
+## Battery
+
+- Capacity: 1650 mAh
+- Removable: True
+
+## Connectivity
+
+- Cellular network: HSPA+
+- Cellular download max: 21.1 Mbps
+- Wifi: 802.11 a/b/g/n
+- Bluetooth: 3.0 HS
+- Usb: USB 2.0
+- Gps: True
+
+## Storage
+
+- Internal capacity: 16 GB
+- Microsd max: 32 GB
+
+## Physical specifications
+
+- Height: 125.3 mm
+- Width: 66.1 mm
+- Depth: 8.9 mm
+- Weight: 121 g
+
+## Software
+
+- Operating system: Android 2.3
