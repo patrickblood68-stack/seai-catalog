@@ -3,10 +3,9 @@
 The Samsung catalogue uses the TechSpecs Product Record V2 schema. Record and
 evidence paths in JSON and coverage.csv are relative to this directory.
 
-Coverage includes 127 records. The coverage CSV tracks whether each model meets
-its category minimum, has partial technical coverage, or needs further source
-review. A category minimum measures technical coverage. Regional values apply
-to the configurations identified in the evidence.
+The Samsung catalogue retains 112 records that meet the category specification
+baseline and have a downloaded, model-checked primary photo. Regional values
+apply to the configurations identified in the evidence.
 
 The minimum is 15 fields across display, camera, battery, connectivity and
 processor for phones, 15 including display, battery and connectivity for
@@ -29,4 +28,4 @@ retains the manufacturer page and asset URL, matching basis, stored
 dimensions, checksum, and rights status. When an exact SKU is listed it
 matches the cited product record. A model-level manufacturer render can
 illustrate a different finish or market version of the same model.
-Reuse permission remains unverified. Records awaiting a suitable image carry pending photo status in the coverage CSV.
+Reuse permission remains unverified.
