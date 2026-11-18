@@ -6,29 +6,88 @@
     "family": "Galaxy S",
     "model": "Galaxy S22+",
     "model_slug": "galaxy-s22-plus",
-    "year_introduced": 2022
+    "year_introduced": 2022,
+    "variant": "US carrier configuration in cited datasheet",
+    "model_numbers": [
+      "SM-S906UZKACHA",
+      "SM-S906UZKECHA"
+    ]
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/au/samsung-electronics-introduces-new-bora-purple-shade-to-galaxy-s22-lineup",
+    "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
     "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "source_title": "Samsung Galaxy S22+ US carrier datasheet"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2022\n- Diagonal: 6.6 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Capacity typical: 4500 mAh",
-      "source_url": "https://news.samsung.com/au/samsung-electronics-introduces-new-bora-purple-shade-to-galaxy-s22-lineup",
+      "heading": "Model identity",
+      "source_text": "- Configuration: US carrier datasheet\n- 128 GB part number: SM-S906UZKACHA\n- 256 GB part number: SM-S906UZKECHA",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Diagonal: 6.6 inches\n- Resolution class: FHD+\n- Refresh rate: Adaptive 48–120 Hz\n- Peak brightness: 1,750 nits\n- Shape: Flat",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Chipset: Qualcomm Snapdragon 8 Gen 1",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear wide: 50 MP\n- Rear telephoto: 10 MP\n- Rear ultrawide: 12 MP\n- Front main: 10 MP",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Published capacity: 4,500 mAh",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- 5G bands: mmWave, sub-6 and C-band\n- Wireless LAN: Wi-Fi 6E\n- eSIM: Yes\n- UWB: Yes",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- RAM: 8 GB\n- Storage options: 128 GB or 256 GB",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Height, width and depth: 157.4 × 75.9 × 7.8 mm\n- Weight: 198 g",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Durability",
+      "source_text": "- Ingress protection: IP68\n- Materials: Gorilla Glass Victus+ and Armor Aluminum",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS at publication: Android 12",
+      "source_url": "https://image-us.samsung.com/SamsungUS/samsungbusiness/pdf/spec-sheets/Galaxy_S22_plus_SpecSheet_TMO.pdf",
       "source_file": "sources/samsung/galaxy-s/galaxy-s22-plus-source.md"
     }
   ],
@@ -37,28 +96,167 @@
       "diagonal": {
         "value": 6.6,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
-      "type": {
-        "value": "Dynamic AMOLED 2X",
+      "resolution_class": {
+        "value": "FHD+",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "refresh_rate_max": {
         "value": 120,
         "unit": "Hz",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_min": {
+        "value": 48,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 1750,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Qualcomm Snapdragon 8 Gen 1",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_resolution": {
+        "value": 10,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 10,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
-      "capacity_typical": {
+      "capacity": {
         "value": 4500,
         "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "cellular_network": {
+        "value": "5G mmWave, sub-6, C-band",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "Wi-Fi 6E",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "esim": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "ultra_wideband": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 8,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "options": {
+        "value": [
+          128,
+          256
+        ],
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 157.4,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 75.9,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 7.8,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 198,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "ingress_protection_rating": {
+        "value": "IP68",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      },
+      "materials": {
+        "value": "Gorilla Glass Victus+ and Armor Aluminum",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 12",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
       }
     }
   }

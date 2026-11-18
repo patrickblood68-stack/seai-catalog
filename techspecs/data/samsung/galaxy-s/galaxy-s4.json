@@ -10,49 +10,227 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Samsung GALAXY S4 Product Specifications"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Galaxy S series retrospective",
-      "source_text": "- Introduction year: 2013\n- Diagonal: 4.99 inches\n- Weight: 130 g\n- Depth: 7.9 mm",
-      "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S4 · Samsung GALAXY S4 Product Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: 2.5G (GSM/ GPRS/ EDGE): 850 / 900 / 1800 / 1900 MHz | 3G (HSPA+ 42Mbps): 850 / 900 / 1900 / 2100 MHz | 4G (LTE Cat 3 100/50Mbps) : up to 6 different band sets(Dependent on market)\n- Connectivity: WiFi 802.11 a/b/g/n/ac (HT80) | GPS / GLONASS | NFC, Bluetooth® 4.0 (LE) | IR LED (Remote Control), MHL 2.0",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 5 inch Full HD Super AMOLED (1920 x 1080) display, 441 ppi",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- AP: 1.9 GHz Quad-Core Processor / 1.6 GHz Octa-Core Processor | The selection of AP will be differed by markets.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 4.2.2 (Jelly Bean)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: Main(Rear): 13 Mega pixel Auto Focus camera with Flash & Zero Shutter Lag, BIS | Sub (Front): 2 Mega pixel camera, Full HD recording @30fps with Zero Shutter Lag, BIS",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Video: Codec: MPEG4, H.264, H.263, DivX, DivX3.11, VC-1, VP8, WMV7/8, Sorenson Spark, HEVC | Recording & Playback: Full HD (1080p)\n- Audio: Codec: MP3, AMR-NB/WB, AAC/AAC+/eAAC+, WMA, OGG, FLAC, AC-3, apt-X\n- Sensor: Accelerometer, RGB light, Geomagnetic, Proximity, Gyro, Barometer | Temperature & Humidity, Gesture",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 16/ 32/ 64 GB User memory + microSD slot (up to 64GB) | 2GB RAM",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimension: 136.6 x 69.8 x 7.9 mm, 130g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 2,600 mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s4-source.md"
     }
   ],
   "normalized_specifications": {
     "display": {
       "diagonal": {
-        "value": 4.99,
+        "value": 5,
         "unit": "inches",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "1920 × 1080",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "pixel_density": {
+        "value": 441,
+        "unit": "ppi",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "1.9 GHz Quad-Core Processor / 1.6 GHz Octa-Core Processor | The selection of AP will be differed by markets.",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 4.2.2 (Jelly Bean)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 13,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 2,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "video_manufacturer": {
+        "value": "Codec: MPEG4, H.264, H.263, DivX, DivX3.11, VC-1, VP8, WMV7/8, Sorenson Spark, HEVC | Recording & Playback: Full HD (1080p)",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "audio_manufacturer": {
+        "value": "Codec: MP3, AMR-NB/WB, AAC/AAC+/eAAC+, WMA, OGG, FLAC, AC-3, apt-X",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "sensor_manufacturer": {
+        "value": "Accelerometer, RGB light, Geomagnetic, Proximity, Gyro, Barometer | Temperature & Humidity, Gesture",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "connectivity_manufacturer": {
+        "value": "WiFi 802.11 a/b/g/n/ac (HT80) | GPS / GLONASS | NFC, Bluetooth® 4.0 (LE) | IR LED (Remote Control), MHL 2.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "4.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "16/ 32/ 64 GB User memory + microSD slot (up to 64GB) | 2GB RAM",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 2,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "expandable_capacity_max": {
+        "value": 64,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
       }
     },
     "dimensions": {
       "weight": {
         "value": 130,
         "unit": "g",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
       },
-      "depth": {
-        "value": 7.9,
+      "body_dimensions": {
+        "value": [
+          136.6,
+          69.8,
+          7.9
+        ],
         "unit": "mm",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 2600,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       }
     }
   }

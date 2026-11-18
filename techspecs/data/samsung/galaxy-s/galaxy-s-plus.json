@@ -12,26 +12,346 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/ie/support/model/GT-I9001HKDO2I/",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE Samsung source. The model identity was checked. Hardware specifications are pending."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "GALAXY S Plus Specifications"
   },
   "extraction": {
-    "method": "manual",
-    "normalization_status": "archival_first_pass",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Model identification",
-      "source_text": "- Samsung model identifier: GT-I9001\n",
-      "source_url": "https://www.samsung.com/ie/support/model/GT-I9001HKDO2I/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S Plus · GALAXY S Plus Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- 2G Network: GSM 850 / 900 / 1800 / 1900\n- 3G Network: HSPA 900 / 1900 / 2100\n- 3.5mm jack: Yes\n- WLAN: Wi-Fi 802.11 b/g/n, DLNA, Wi-Fi hotspot (Android 2.2)\n- Bluetooth: Yes, v3.0 with A2DP\n- USB: Yes, v2.0 MicroUSB",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimensions: 122.4 x 64.2 x 9.9 mm\n- Weight: 119g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Type: Super AMOLED capacitive Touchscreen, 16M colors\n- Size: 480 x 800 pixels, 4.0 inches",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Alert types: Vibration; MP3, WAV ringtones\n- Loudspeaker: Yes\n- GPRS: Class 12 (4 1/3 2/2 3/1 4 slots), 32 - 48 kbps\n- EDGE: Class 12\n- 3G: HSPA , 14.4Mbps; HSUPA, 5.76Mbps\n- Features: Geo-tagging, touch focus, face and smile detection\n- Video: Yes, 720p@30fps\n- Messaging: SMS(threaded view), MMS, Email, Push Mail, IM, RSS\n- Browser: HTML\n- Radio: FM radio with RDS\n- GPS: Yes, with A-GPS support\n- Java: Via third party application",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Internal: 8 GB storage, 512 MB RAM, 2GB ROM\n- Card slot: MicroSD, up to 32GB, buy memory",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear camera: 5 MP, 2592 x 1944 pixels, autofocus\n- Secondary: Yes, VGA",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android OS, v2.3 (Gingerbread)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- CPU: 1.4 GHz processor",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Stand-by: Standard battery, Li-Ion 1650 mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-plus?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-plus-source.md"
     }
-  ]
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "2g_network_manufacturer": {
+        "value": "GSM 850 / 900 / 1800 / 1900",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "2g_network": {
+        "value": "GSM 850 / 900 / 1800 / 1900",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "3g_network_manufacturer": {
+        "value": "HSPA 900 / 1900 / 2100",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "3g_network": {
+        "value": "HSPA 900 / 1900 / 2100",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "3_5mm_jack_manufacturer": {
+        "value": "Yes",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wlan_manufacturer": {
+        "value": "Wi-Fi 802.11 b/g/n, DLNA, Wi-Fi hotspot (Android 2.2)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_manufacturer": {
+        "value": "Yes, v3.0 with A2DP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_manufacturer": {
+        "value": "Yes, v2.0 MicroUSB",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "body_dimensions": {
+        "value": [
+          122.4,
+          64.2,
+          9.9
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 119,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "type_manufacturer": {
+        "value": "Super AMOLED capacitive Touchscreen, 16M colors",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "size_manufacturer": {
+        "value": "480 x 800 pixels, 4.0 inches",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "diagonal": {
+        "value": 4,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "480 × 800",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "alert_types_manufacturer": {
+        "value": "Vibration; MP3, WAV ringtones",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "loudspeaker_manufacturer": {
+        "value": "Yes",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "gprs_manufacturer": {
+        "value": "Class 12 (4 1/3 2/2 3/1 4 slots), 32 - 48 kbps",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "edge_manufacturer": {
+        "value": "Class 12",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "3g_manufacturer": {
+        "value": "HSPA , 14.4Mbps; HSUPA, 5.76Mbps",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "features_manufacturer": {
+        "value": "Geo-tagging, touch focus, face and smile detection",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "video_manufacturer": {
+        "value": "Yes, 720p@30fps",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "messaging_manufacturer": {
+        "value": "SMS(threaded view), MMS, Email, Push Mail, IM, RSS",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "browser_manufacturer": {
+        "value": "HTML",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "radio_manufacturer": {
+        "value": "FM radio with RDS",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "gps_manufacturer": {
+        "value": "Yes, with A-GPS support",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "java_manufacturer": {
+        "value": "Via third party application",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "internal_manufacturer": {
+        "value": "8 GB storage, 512 MB RAM, 2GB ROM",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "card_slot_manufacturer": {
+        "value": "MicroSD, up to 32GB, buy memory",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 8,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "expandable_capacity_max": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_camera_manufacturer": {
+        "value": "5 MP, 2592 x 1944 pixels, autofocus",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution_label": {
+        "value": "VGA",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android OS, v2.3 (Gingerbread)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "1.4 GHz processor",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1.4,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "stand_by_manufacturer": {
+        "value": "Standard battery, Li-Ion 1650 mAh",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "capacity": {
+        "value": 1650,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
 }

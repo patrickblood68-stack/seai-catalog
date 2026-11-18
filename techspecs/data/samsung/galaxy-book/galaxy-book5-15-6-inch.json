@@ -5,45 +5,337 @@
     "category": "computer",
     "family": "Galaxy Book",
     "model": "Galaxy Book5 15.6-inch",
-    "model_slug": "galaxy-book5-15-6-inch"
+    "model_slug": "galaxy-book5-15-6-inch",
+    "variant": "UK Core Ultra 7 / 16 GB / 512 GB",
+    "model_numbers": [
+      "NP750XHD-KD3UK"
+    ]
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/uk/laptop-buying-guide/introducing-galaxy-book-5/",
+    "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
     "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "source_title": "Galaxy Book5 (15.6\", Core Ultra 7, 16GB)"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Diagonal: 15.6 inches\n- Type: IPS",
-      "source_url": "https://www.samsung.com/uk/laptop-buying-guide/introducing-galaxy-book-5/",
+      "heading": "Model identity",
+      "source_text": "- SKU: NP750XHD-KD3UK\n- Product heading: Galaxy Book5 (15.6\", Core Ultra 7, 16GB)",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Processor / Chipset",
+      "source_text": "- CPU: Intel® Core™ Ultra 7 Processor 255U (P-core Up to 5.2 GHz 12 MB LLC Cache)\n- GPU: Intel® Graphics\n- GPU Type: Shared\n- NPU: Intel® AI Boost",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Size (inch): 15.6\"\n- Resolution: 1920 x 1080 (FHD)\n- Type: IPS, Anti-Glare",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Storage/Memory",
+      "source_text": "- Memory Capacity: 16 GB\n- Memory Type: LPDDR5X (On Board)\n- Storage Capacity: 512 GB\n- Storage Type: NVMe SSD\n- Number of Storage Slots: 2",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Multimedia",
+      "source_text": "- Speaker: Stereo Speakers\n- Sound Effect: Dolby Atmos®\n- Mic: Dual Array Digital Mic\n- Camera: 2.0 MP",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Network",
+      "source_text": "- Wi-Fi: Wi-Fi 6 (Gig+), 802.11 ax 2x2\n- Bluetooth Version: Bluetooth v5.2\n- Ethernet: Gigabit Ethernet [10/100/1000]",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Ports",
+      "source_text": "- HDMI: 1 HDMI\n- USB: 2 USB Type-C, 2 USB3.2\n- External Storage Support: MicroSD\n- Earjack: 1 Headphone out/Mic-in Combo\n- Network Ports: 1 RJ45 (LAN)",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Input",
+      "source_text": "- Keyboard: Pro keyboard with Numeric key\n- Touchpad: Clickpad",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Security",
+      "source_text": "- Security Slot: Yes\n- TPM: Yes",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity (Wh, Typical): 61.2",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Power",
+      "source_text": "- AC Adapter: 45W USB Type-C Adapter\n- USB PD Support: Yes\n- Power Required for Charging (Min / Max, W): 40 | 45",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
+    },
+    {
+      "heading": "Physical specification",
+      "source_text": "- Dimension (WxDxH, mm): 356.6 x 228.0 x 15.1 mm (14.04\" x 8.98\" x 0.59\")\n- Weight (kg): 1.55 kg (3.42 lbs)",
+      "source_url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-15-6-inch-ultra-7-16gb-512gb-np750xhd-kd3uk/",
       "source_file": "sources/samsung/galaxy-book/galaxy-book5-15-6-inch-source.md"
     }
   ],
   "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Intel® Core™ Ultra 7 Processor 255U (P-core Up to 5.2 GHz 12 MB LLC Cache)",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Intel® Graphics",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor_chipset": {
+      "gpu_type": {
+        "value": "Shared",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      },
+      "npu": {
+        "value": "Intel® AI Boost",
+        "unit": null,
+        "source_section": "Processor / Chipset",
+        "verification_status": "source_transcribed"
+      }
+    },
     "display": {
       "diagonal": {
         "value": 15.6,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "1920 × 1080",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
-        "value": "IPS",
+        "value": "IPS, Anti-Glare",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 16.0,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_memory": {
+      "memory_type": {
+        "value": "LPDDR5X (On Board)",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_type": {
+        "value": "NVMe SSD",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      },
+      "number_of_storage_slots": {
+        "value": "2",
+        "unit": null,
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 512.0,
+        "unit": "GB",
+        "source_section": "Storage/Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "multimedia": {
+      "speaker": {
+        "value": "Stereo Speakers",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "sound_effect": {
+        "value": "Dolby Atmos®",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "mic": {
+        "value": "Dual Array Digital Mic",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      },
+      "camera": {
+        "value": "2.0 MP",
+        "unit": null,
+        "source_section": "Multimedia",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "network": {
+      "wi_fi": {
+        "value": "Wi-Fi 6 (Gig+), 802.11 ax 2x2",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      },
+      "ethernet": {
+        "value": "Gigabit Ethernet [10/100/1000]",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.2",
+        "unit": null,
+        "source_section": "Network",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "ports": {
+      "hdmi": {
+        "value": "1 HDMI",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "2 USB Type-C, 2 USB3.2",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "external_storage_support": {
+        "value": "MicroSD",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "earjack": {
+        "value": "1 Headphone out/Mic-in Combo",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      },
+      "network_ports": {
+        "value": "1 RJ45 (LAN)",
+        "unit": null,
+        "source_section": "Ports",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "input": {
+      "keyboard": {
+        "value": "Pro keyboard with Numeric key",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      },
+      "touchpad": {
+        "value": "Clickpad",
+        "unit": null,
+        "source_section": "Input",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "security": {
+      "security_slot": {
+        "value": "Yes",
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      },
+      "tpm": {
+        "value": "Yes",
+        "unit": null,
+        "source_section": "Security",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "energy_capacity": {
+        "value": 61.2,
+        "unit": "Wh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "power": {
+      "ac_adapter": {
+        "value": "45W USB Type-C Adapter",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "usb_pd_support": {
+        "value": "Yes",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      },
+      "power_required_for_charging_min_max_w": {
+        "value": "40 | 45",
+        "unit": null,
+        "source_section": "Power",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "physical_specification": {
+      "dimension_wxdxh_mm": {
+        "value": "356.6 x 228.0 x 15.1 mm (14.04\" x 8.98\" x 0.59\")",
+        "unit": null,
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 1550.0,
+        "unit": "g",
+        "source_section": "Physical specification",
+        "verification_status": "source_transcribed"
       }
     }
   }

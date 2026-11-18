@@ -10,49 +10,167 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Galaxy S (I9000) Product Specifications"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Galaxy S series retrospective",
-      "source_text": "- Introduction year: 2010\n- Diagonal: 4 inches\n- Type: Super AMOLED\n- Depth: 9.9 mm",
-      "source_url": "https://news.samsung.com/global/from-amoled-to-space-zoom-looking-back-at-the-galaxy-s-series-history-of-innovation",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S · Galaxy S (I9000) Product Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: 2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz | 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1900 / 2100 MHz\n- Connectivity: Bluetooth technology v 3.0 | USB v2.0 (High-Speed) | Wi-Fi 802.11 b/g/n",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 2.1",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 4.0\" WVGA SUPER AMOLED (800x480) with mDNIe\n- Size: 64.2 x 122.4 x 9.9mm, 119g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: 5.0 mega-pixel Camera + VGA Video Telephony Camera, Auto Focus, Self shot, Action shot, Add me, Stop motion, Cartoon shot, Smile shot, Panorama shot",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Video: HD(720p@30fps) video playing & recording | Codec: mpeg4, H.264, H.263, H263Sorenson, DivX HD/ XviD, VC-1 | Format: 3gp (mp4), WMV (asf), AVI (divx), MKV, FLV\n- Audio: MP3, AAC, AAC+, eAAC+, WMA, OGG, AMR-NB, WAV, MID, AC3, IMY, | FLAC, XMF",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 16GB / 8GB, external memory slot (upto 32GB)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 1500 mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
     }
   ],
   "normalized_specifications": {
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz | 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1900 / 2100 MHz",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "2.5G (GSM/ GPRS/ EDGE) : 850 / 900 / 1800 / 1900 MHz | 3G (HSDPA 7.2Mbps, HSUPA 5.76Mbps) : 900 / 1900 / 2100 MHz",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "connectivity_manufacturer": {
+        "value": "Bluetooth technology v 3.0 | USB v2.0 (High-Speed) | Wi-Fi 802.11 b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "3.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 2.1",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
     "display": {
       "diagonal": {
         "value": 4,
         "unit": "inches",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "800 × 480",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
-        "value": "Super AMOLED",
+        "value": "SUPER AMOLED",
         "unit": null,
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "size_manufacturer": {
+        "value": "64.2 x 122.4 x 9.9mm, 119g",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       }
     },
-    "dimensions": {
-      "depth": {
-        "value": 9.9,
-        "unit": "mm",
-        "source_section": "Galaxy S series retrospective",
-        "verification_status": "content_verified"
+    "camera": {
+      "rear_main_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "audio_manufacturer": {
+        "value": "MP3, AAC, AAC+, eAAC+, WMA, OGG, AMR-NB, WAV, MID, AC3, IMY, | FLAC, XMF",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "16GB / 8GB, external memory slot (upto 32GB)",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 1500,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       }
     }
   }

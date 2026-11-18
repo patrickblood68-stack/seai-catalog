@@ -17,7 +17,8 @@ def require(condition, message):
 def manufacturer(url):
     parsed = urlparse(url or "")
     host = parsed.hostname or ""
-    return parsed.scheme == "https" and (host == "samsung.com" or host.endswith(".samsung.com"))
+    return parsed.scheme == "https" and (host in {"samsung.com", "samsungmobilepress.com", "www.samsungmobilepress.com",
+                       "api.samsungmobilepress.com"} or host.endswith(".samsung.com"))
 
 
 def archive(relative):

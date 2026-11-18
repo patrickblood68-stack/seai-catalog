@@ -10,25 +10,79 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/uk/introducing-the-samsung-galaxy-s20-change-the-way-you-experience-the-world",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Galaxy S20 Ultra Specifications"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2020\n- Diagonal: 6.9 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Resolution: 3200 × 1440 pixels\n- Capacity typical: 5000 mAh",
-      "source_url": "https://news.samsung.com/uk/introducing-the-samsung-galaxy-s20-change-the-way-you-experience-the-world",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S20 Ultra 5G · Galaxy S20 Ultra Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 6.9-inch Quad HD+ Dynamic AMOLED 2X | Infinity-O Display (3200X1440) | HDR10+ certified | 120Hz display support",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Rear camera: Quad camera | - Ultra Wide: *12MP, F2.2(120˚) | - Wide-angle: *108MP, F1.8(79˚), PDAF, OIS | - Telephoto: **48MP, PDAF, F3.5(24˚), OIS | - DepthVision | * Super Resolution Zoom includes digital zoom, which may cause some image deterioration. | ** 48MP for zooming only.\n- Front camera: 40MP, PDAF, F2.2(80˚)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Body: 76.0 x 166.9 x 8.8mm, 220g | * 5G mmWave version weighs 222g.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- AP: - 7㎚ 64-bit Octa-Core Processor *2.7 GHz (Maximum Clock Speed) + 2.5 GHz + 2 GHz | - 7㎚ 64-bit Octa-Core Processor *2.8 GHz (Maximum Clock Speed) + 2.4 GHz + 1.8 GHz | * May differ by market and carrier.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 5G/LTE | 16GB RAM (LPDDR5) with 512GB internal storage | 12GB RAM (LPDDR5) with 128/256GB internal storage |\n- Expandable Memory & SIM: Single SIM model: one Nano SIM and one MicroSD slot (up to 1TB) | Dual SIM model (Hybrid SIM slot): one Nano SIM and one Nano SIM or one MicroSD slot (up to 1TB) | * SIM card sold separately. Availability of Dual SIM may vary depending on country and carrier. | * MicroSD card sold separately. Availability may vary depending on country and manufacturer. | * eSIM supported on Galaxy S20, S20+, S20 Ultra models. eSIM requires a wireless service plan and allows you to activate a mobile network plan without the use of a nano-SIM. eSIM availability may vary depending on country and carrier. Check with your carrier if your mobile network plan supports eSIM.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 5,000mAh (typical)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 10",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: 5G**: 5G Non-Standalone (NSA), 5G Standalone (SA), Sub6 / mmWave, Dynamic Spectrum Sharing (DSS)\n- Connectivity: Wi-Fi | Wi-Fi 802.11 a/b/g/n/ac/ax 2.4G+5GHz, HE80, MIMO, 1024-QAM | Up to 1.2Gbps Download / Up to 1.2Gbps Upload | Bluetooth | Bluetooth® v 5.0 , ANT+, USB type-C, NFC, Location (GPS, Galileo, Glonass, BeiDou) | * Galileo and BeiDou coverage may be limited. BeiDou may not be available for certain countries.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Sensors: Ultrasonic Fingerprint sensor, Accelerometer, Barometer, Gyro sensor, Geomagnetic sensor, Hall sensor, Proximity sensor, RGB Light sensor\n- Authentication: Lock type: pattern, PIN, password | Biometric lock type: Fingerprint sensor, Face recognition\n- Audio: Stereo speakers and Earphones sound by AKG | Surround sound with Dolby Atmos technology (Dolby Digital, Dolby Digital Plus included.) | *Earphones: Hybrid canal type, 2way dynamic unit | Audio playback format | MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, APE, DSF, DFF\n- Video: Video playback format | MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s20_ultra?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s20-ultra-5g-source.md"
     }
   ],
@@ -37,34 +91,170 @@
       "diagonal": {
         "value": 6.9,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
-      },
-      "type": {
-        "value": "Dynamic AMOLED 2X",
-        "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
-      },
-      "refresh_rate_max": {
-        "value": 120,
-        "unit": "Hz",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "resolution": {
         "value": "3200 × 1440",
         "unit": "pixels",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Dynamic AMOLED 2X",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_sensor_resolutions": {
+        "value": [
+          12,
+          108,
+          48,
+          48
+        ],
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_camera_manufacturer": {
+        "value": "40MP, PDAF, F2.2(80˚)",
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 40,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "body_manufacturer": {
+        "value": "76.0 x 166.9 x 8.8mm, 220g | * 5G mmWave version weighs 222g.",
+        "unit": null,
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "body_dimensions": {
+        "value": [
+          76,
+          166.9,
+          8.8
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "5G/LTE | 16GB RAM (LPDDR5) with 512GB internal storage | 12GB RAM (LPDDR5) with 128/256GB internal storage |",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 16,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 512,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "expandable_capacity_max": {
+        "value": 1,
+        "unit": "TB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
       "capacity_typical": {
         "value": 5000,
         "unit": "mAh",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 10",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "5G**: 5G Non-Standalone (NSA), 5G Standalone (SA), Sub6 / mmWave, Dynamic Spectrum Sharing (DSS) ",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "5G**: 5G Non-Standalone (NSA), 5G Standalone (SA), Sub6 / mmWave, Dynamic Spectrum Sharing (DSS) ",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac/ax",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "sensors_manufacturer": {
+        "value": "Ultrasonic Fingerprint sensor, Accelerometer, Barometer, Gyro sensor, Geomagnetic sensor, Hall sensor, Proximity sensor, RGB Light sensor",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "authentication_manufacturer": {
+        "value": "Lock type: pattern, PIN, password | Biometric lock type: Fingerprint sensor, Face recognition",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "video_manufacturer": {
+        "value": "Video playback format | MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "cpu_type": {
+        "value": "64-bit octa-core, 7 nm",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed",
+        "notes": "Clock speeds and chipset configuration vary by market."
       }
     }
   },

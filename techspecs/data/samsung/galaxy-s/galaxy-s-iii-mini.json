@@ -12,26 +12,220 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/uk/support/model/GT-I8190RWNBTU/",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The model identity was checked. Hardware specifications are pending."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Samsung GALAXY S III mini Product Specifications"
   },
   "extraction": {
-    "method": "manual",
-    "normalization_status": "archival_first_pass",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Model identification",
-      "source_text": "- Samsung model identifier: GT-I8190\n",
-      "source_url": "https://www.samsung.com/uk/support/model/GT-I8190RWNBTU/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S III mini · Samsung GALAXY S III mini Product Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: HSPA 14.4/5.76 900/1900/2100 | EDGE/GPRS 850/900/1800/1900\n- Connectivity: WiFi a/b/g/n, WiFi HT40 | GPS/GLONASS | NFC (Optional) | Bluetooth® 4.0(LE)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 4.0” WVGA Super AMOLED",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Chipset: Dual Core 1GHz",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android™ 4.1 (Jelly Bean)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: 5MP AF + LED Flash / VGA Front",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Video: H.264, MPEG-4, H.263, VC-1, | SorensonSpark, WMV7, WMV8 | Recording/ Playback : 720p\n- Audio: MP3, AMR-NB, AAC/AAC+/eAAC+, | WMA, OGG(Vorbis), FLAC\n- Sensor: Accelerometer, Digital compass, Proximity, Gyro",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 8/16GB ROM+ 1GB RAM, | microSDup to 32GB",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimension: 121.55 x 63 x 9.9 mm, 112.2 g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 1,500 mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-iii-mini?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-iii-mini-source.md"
     }
-  ]
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "HSPA 14.4/5.76 900/1900/2100 | EDGE/GPRS 850/900/1800/1900",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "HSPA 14.4/5.76 900/1900/2100 | EDGE/GPRS 850/900/1800/1900",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "connectivity_manufacturer": {
+        "value": "WiFi a/b/g/n, WiFi HT40 | GPS/GLONASS | NFC (Optional) | Bluetooth® 4.0(LE)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "4.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "a/b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 4,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Dual Core 1GHz",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android™ 4.1 (Jelly Bean)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "video_manufacturer": {
+        "value": "H.264, MPEG-4, H.263, VC-1, | SorensonSpark, WMV7, WMV8 | Recording/ Playback : 720p",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "audio_manufacturer": {
+        "value": "MP3, AMR-NB, AAC/AAC+/eAAC+, | WMA, OGG(Vorbis), FLAC",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "sensor_manufacturer": {
+        "value": "Accelerometer, Digital compass, Proximity, Gyro",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "8/16GB ROM+ 1GB RAM, | microSDup to 32GB",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 1,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 112.2,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "body_dimensions": {
+        "value": [
+          121.55,
+          63,
+          9.9
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 1500,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
 }

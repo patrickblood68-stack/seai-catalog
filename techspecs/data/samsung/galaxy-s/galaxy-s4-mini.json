@@ -10,49 +10,213 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s4-mini-a-powerful-compact-smartphone",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Samsung Galaxy S4 mini Product Specifications"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2013\n- Diagonal: 4.3 inches\n- Type: Super AMOLED\n- Weight: 107 g",
-      "source_url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s4-mini-a-powerful-compact-smartphone",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S4 mini · Samsung Galaxy S4 mini Product Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network — LTE: 2.5G (GSM/ GPRS/ EDGE): 850 / 900 / 1800 / 1900 MHz | 3G (HSPA+ 42Mbps): 850 / 900 / 1900 / 2100 MHz | 4G (LTE Cat 3 100/50Mbps) : up to 6 different band sets (Dependent on market)\n- Connectivity: WiFi 5.0GHz a/b/g/n | GPS + GLONASS | Bluetooth® v4.0 (LE), NFC(LTE version only) | IR LED (Remote Control)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- 3G: 2.5G (GSM/ GPRS/ EDGE): 850 / 900 / 1800 / 1900 MHz | 3G (HSPA+ 21Mbps): 850 / 900 / 1900 / 2100 MHz\n- Video: Codec: MPEG4, H.264, H.263, VC-1, VP8, WMV7/8, Sorenson Spark\n- Audio: Codec: MP3, AMR-NB/WB, AAC/AAC+/eAAC+, WMA, Vorbis(OGG), FLAC, apt-X\n- Sensor: Accelerometer, Light, Proximity, Gyro, Magnetic",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 4.3”qHD (16:9 wide view) Super AMOLED",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- AP: 1.7 GHz Dual-Core Processor",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 4.2.2 (Jelly Bean)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: Rear : 8 megapixel | Front: 1.9 megapixel",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 8GB Internal memory (User Memory approximately 5GB) + microSD (up to 64GB), 1.5GB RAM | *User memory space may be less than the total memory space due to system files. User memory may differ by region, carrier, and supporting language, and may change after software upgrade.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimension: 124.6 x 61.3 x 8.94mm, 107g (3G Dual SIM version:108g)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 1,900mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s4-mini?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s4-mini-source.md"
     }
   ],
   "normalized_specifications": {
+    "other_technical_specifications": {
+      "3g_manufacturer": {
+        "value": "2.5G (GSM/ GPRS/ EDGE): 850 / 900 / 1800 / 1900 MHz | 3G (HSPA+ 21Mbps): 850 / 900 / 1900 / 2100 MHz",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "video_manufacturer": {
+        "value": "Codec: MPEG4, H.264, H.263, VC-1, VP8, WMV7/8, Sorenson Spark",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "audio_manufacturer": {
+        "value": "Codec: MP3, AMR-NB/WB, AAC/AAC+/eAAC+, WMA, Vorbis(OGG), FLAC, apt-X",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "sensor_manufacturer": {
+        "value": "Accelerometer, Light, Proximity, Gyro, Magnetic",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
     "display": {
       "diagonal": {
         "value": 4.3,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
         "value": "Super AMOLED",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "1.7 GHz Dual-Core Processor",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1.7,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 4.2.2 (Jelly Bean)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 1.9,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "connectivity_manufacturer": {
+        "value": "WiFi 5.0GHz a/b/g/n | GPS + GLONASS | Bluetooth® v4.0 (LE), NFC(LTE version only) | IR LED (Remote Control)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "4.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 1.5,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 8,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "expandable_capacity_max": {
+        "value": 64,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
       }
     },
     "dimensions": {
-      "weight": {
-        "value": 107,
-        "unit": "g",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+      "body_dimensions": {
+        "value": [
+          124.6,
+          61.3,
+          8.94
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 1900,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       }
     }
   }

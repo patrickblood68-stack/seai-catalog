@@ -12,26 +12,214 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/uk/support/model/GT-I9070HKABTU/",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The model identity was checked. Hardware specifications are pending."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Samsung GALAXY S Advance Product Specifications"
   },
   "extraction": {
-    "method": "manual",
-    "normalization_status": "archival_first_pass",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Model identification",
-      "source_text": "- Samsung model identifier: GT-I9070\n",
-      "source_url": "https://www.samsung.com/uk/support/model/GT-I9070HKABTU/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S Advance · Samsung GALAXY S Advance Product Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: HSPA 14.4Mbps 850/900/1900/2100 | EDGE/GPRS 850/900/1800/1900\n- Connectivity: Bluetooth® technology v 3.0 High Speed | USB 2.0 | Wi-Fi 802.11 a/b/g/n",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Process: 1 GHz Dual-Core Processor",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 4.0” WVGA(480x800) Super AMOLED display\n- Size: 123.2 x 63.0 x 9.69 mm, 120g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 2.3(Gingerbread)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: Main(Rear) : 5 Megapixel Auto Focus Camera with LED Flash | Sub(Front) : 1.3 Megapixel Camera",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Video: Codec: MPEG4/H263/H264/VC-1 | Format: 3gp(mp4), WMV (asf), MKV, FLV | VGA Video Player & Recorder (640 x 480) @ 30fps\n- Audio: Codec : MP3, AAC, AAC+, eAAC+, WMA, AC3 | Music Player with SoundAlive | 3.5mm Ear Jack, Stereo FM Radio with RDS\n- Sensor: Proximity, Accelerometer, Geomagnetic, Light, Gyroscope",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 8/16GB User memory + 768MB(RAM) | microSD (up to 32GB)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: Standard battery, Li-ion 1,500mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-advance?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-advance-source.md"
     }
-  ]
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "HSPA 14.4Mbps 850/900/1900/2100 | EDGE/GPRS 850/900/1800/1900",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "HSPA 14.4Mbps 850/900/1900/2100 | EDGE/GPRS 850/900/1800/1900",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "connectivity_manufacturer": {
+        "value": "Bluetooth® technology v 3.0 High Speed | USB 2.0 | Wi-Fi 802.11 a/b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "3.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "1 GHz Dual-Core Processor",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 4,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "480 × 800",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Super AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "size_manufacturer": {
+        "value": "123.2 x 63.0 x 9.69 mm, 120g",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 2.3(Gingerbread)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 1.3,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "video_manufacturer": {
+        "value": "Codec: MPEG4/H263/H264/VC-1 | Format: 3gp(mp4), WMV (asf), MKV, FLV | VGA Video Player & Recorder (640 x 480) @ 30fps",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "audio_manufacturer": {
+        "value": "Codec : MP3, AAC, AAC+, eAAC+, WMA, AC3 | Music Player with SoundAlive | 3.5mm Ear Jack, Stereo FM Radio with RDS",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "sensor_manufacturer": {
+        "value": "Proximity, Accelerometer, Geomagnetic, Light, Gyroscope",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "8/16GB User memory + 768MB(RAM) | microSD (up to 32GB)",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "expandable_capacity_max": {
+        "value": 32,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 1500,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
 }

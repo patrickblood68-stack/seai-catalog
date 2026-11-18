@@ -10,25 +10,79 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/uk/samsung-raises-the-bar-with-galaxy-s10-more-screen-cameras-and-choices",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Galaxy S10 5G"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Galaxy S10 line Product Specifications",
-      "source_text": "- Introduction year: 2019\n- Diagonal: 6.7 inches\n- Type: Dynamic AMOLED\n- Capacity typical: 4500 mAh",
-      "source_url": "https://news.samsung.com/uk/samsung-raises-the-bar-with-galaxy-s10-more-screen-cameras-and-choices",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S10 5G · Galaxy S10 5G",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 6.7-inch Quad HD+ Curved Dynamic AMOLED, 19:9 | *Default resolution is Full HD+ and can be changed to Quad HD+ (WQHD+) in Settings. | *Screen measured diagonally as a full rectangle without accounting for the rounded corners; actual viewing area is less due to rounded corners and camera hole.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: Rear: Quadruple Camera with Dual OIS | - Telephoto: 12MP PDAF, F2.4, OIS (45°) | - Wide-angle: 12MP Super Speed Dual Pixel AF, F1.5/F2.4, OIS (77°) | - Ultra Wide: 16MP FF, F2.2 (123°) | - 0.5X/2X optical zoom, up to 10X digital zoom | - 3D Depth: hQVGA | Front: | - Selfie: 10MP Dual Pixel AF, F1.9 (80°) | - 3D Depth: hQVGA",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Body: 77.1 x 162.6 x 7.9mm | 198g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- AP: 7nm 64-bit Octa-core processor (Max. 2.8 GHz + 2.4 GHz + 1.7 GHz) | 8nm 64-bit Octa-core processor (Max. 2.7 GHz + 2.3 GHz + 1.9 GHz) | *May differ by market and mobile operator.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 8GB + 256GB/512GB | *May differ by market and mobile operator. | *User memory is less than the total memory due to storage of the operating system and software used to operate the device features. Actual user memory will vary depending on the operator and may change after software upgrades are performed.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 4,500mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 9.0 (Pie)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: Enhanced 4x4 MIMO, Up to 7CA, LAA, LTE Cat.20 | - 2.0Gbps download, 150Mbps Upload + None Standalone (NSA), Sub6 / mmWave (28G, 39G) | *May differ by market and mobile operator.\n- Connectivity: Wi-Fi 802.11 a/b/g/n/ac/ax (2.4/5GHz), VHT80 MU-MIMO, 1024QAM | - 1.2Gbps Download / 1.2Gbps Upload | *May differ by market and mobile operator. | Bluetooth® v 5.0, ANT+, USB Type-C, NFC, Location (GPS, Galileo*, Glonass, BeiDou*) | *Galileo and BeiDou coverage may be limited.",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Sensors: Accelerometer, Barometer, Ultrasonic Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor\n- Authentication: Lock Type: Swipe, Pattern, PIN, Password | Biometric Lock Types: Fingerprints, Face\n- Audio: Stereo speakers and earphones: Sound by AKG | Surround sound with Dolby Atmos technology (Dolby Digital, Dolby Digital Plus included) | Audio Playback Format: | MP3, M4A, 3GA, AAC, OGG, OGA, WAV, WMA, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA, DSF, DFF, APE\n- Video: MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy_s10_5g?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s10-5g-source.md"
     }
   ],
@@ -37,22 +91,114 @@
       "diagonal": {
         "value": 6.7,
         "unit": "inches",
-        "source_section": "Galaxy S10 line Product Specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
-        "value": "Dynamic AMOLED",
+        "value": "AMOLED",
         "unit": null,
-        "source_section": "Galaxy S10 line Product Specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_sensor_resolutions": {
+        "value": [
+          12,
+          12,
+          16
+        ],
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 10,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "body_manufacturer": {
+        "value": "77.1 x 162.6 x 7.9mm | 198g",
+        "unit": null,
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 198,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "body_dimensions": {
+        "value": [
+          77.1,
+          162.6,
+          7.9
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "7nm 64-bit Octa-core processor (Max. 2.8 GHz + 2.4 GHz + 1.7 GHz) | 8nm 64-bit Octa-core processor (Max. 2.7 GHz + 2.3 GHz + 1.9 GHz) | *May differ by market and mobile operator.",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
-      "capacity_typical": {
+      "capacity": {
         "value": 4500,
         "unit": "mAh",
-        "source_section": "Galaxy S10 line Product Specifications",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 9.0 (Pie)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac/ax",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "sensors_manufacturer": {
+        "value": "Accelerometer, Barometer, Ultrasonic Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Proximity Sensor, RGB Light Sensor",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "authentication_manufacturer": {
+        "value": "Lock Type: Swipe, Pattern, PIN, Password | Biometric Lock Types: Fingerprints, Face",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "video_manufacturer": {
+        "value": "MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
       }
     }
   }

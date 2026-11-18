@@ -9,56 +9,167 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/us/mobile-audio/galaxy-buds/compare/",
+    "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
     "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md",
     "publisher": "Samsung",
-    "source_title": "Galaxy Buds On specifications",
-    "checked_at": "2026-11-17",
+    "source_title": "Galaxy Buds On",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. US source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction."
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Find the Galaxy Buds for you",
-      "source_text": "- Earbud capacity: 61 mAh\n- Case capacity: 530 mAh\n- Playback: 9.5 hours (ANC condition unspecified in comparison table.)\n- Playback with case: 38 hours (ANC condition unspecified in comparison table.)",
-      "source_url": "https://www.samsung.com/us/mobile-audio/galaxy-buds/compare/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Buds On · Galaxy Buds On",
+      "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimensions: Earbud: 21.4 x 24.2 x 27.1 mm | Charging Case: 51 x 51 x 28.3 mm\n- Weight: Earbud: 6.65 g | Charging Case: 41.0 g",
+      "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Speaker: Φ 11.3 mm TwinBoost Speaker\n- Microphone: Digital (x3)\n- Sensor: Voice Pickup Unit (VPU), Touch, IR, Accelerometer, Gyro, Hall sensor\n- Compatibility: Android 12 or higher with more than 1.5 GB of Memory",
+      "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery Capacity: Earbuds: 61 mAh (typical) | Charging Case: 530 mAh (typical)*\n- Music Time: Up to 9.5 hours / Total up to 38 hours\n- Talk Time: Up to 5.5 hours / Total up to 25 hours",
+      "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Connectivity: Bluetooth® 6.2 | Codec: SSC (Samsung Seamless Codec), SSC UHQ (Samsung Proprietary), AAC, SBC, LC3 | Profiles: A2DP, AVRCP, HFP, PBP, TMAP",
+      "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
+      "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
+    },
+    {
+      "heading": "Durability",
+      "source_text": "- Water Resistance: IP54*",
+      "source_url": "https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us",
       "source_file": "sources/samsung/galaxy-buds/galaxy-buds-on-source.md"
     }
   ],
   "normalized_specifications": {
+    "dimensions": {
+      "body_dimensions": {
+        "value": [
+          21.4,
+          24.2,
+          27.1
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "speaker_manufacturer": {
+        "value": "Φ 11.3 mm TwinBoost Speaker",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "microphone_manufacturer": {
+        "value": "Digital (x3)",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "sensor_manufacturer": {
+        "value": "Voice Pickup Unit (VPU), Touch, IR, Accelerometer, Gyro, Hall sensor",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "compatibility_manufacturer": {
+        "value": "Android 12 or higher with more than 1.5 GB of Memory",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
     "battery": {
+      "battery_capacity_manufacturer": {
+        "value": "Earbuds: 61 mAh (typical) | Charging Case: 530 mAh (typical)*",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
       "earbud_capacity": {
         "value": 61,
         "unit": "mAh",
-        "source_section": "Find the Galaxy Buds for you",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       },
       "case_capacity": {
         "value": 530,
         "unit": "mAh",
-        "source_section": "Find the Galaxy Buds for you",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       },
-      "playback": {
+      "music_time_manufacturer": {
+        "value": "Up to 9.5 hours / Total up to 38 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "runtime_earbuds_max": {
         "value": 9.5,
         "unit": "hours",
-        "source_section": "Find the Galaxy Buds for you",
-        "verification_status": "content_verified",
-        "notes": "ANC condition unspecified in comparison table."
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       },
-      "playback_with_case": {
+      "runtime_with_case_max": {
         "value": 38,
         "unit": "hours",
-        "source_section": "Find the Galaxy Buds for you",
-        "verification_status": "content_verified",
-        "notes": "ANC condition unspecified in comparison table."
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "talk_time_manufacturer": {
+        "value": "Up to 5.5 hours / Total up to 25 hours",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "connectivity_manufacturer": {
+        "value": "Bluetooth® 6.2 | Codec: SSC (Samsung Seamless Codec), SSC UHQ (Samsung Proprietary), AAC, SBC, LC3 | Profiles: A2DP, AVRCP, HFP, PBP, TMAP",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "6.2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "water_resistance_manufacturer": {
+        "value": "IP54*",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      },
+      "ingress_protection_rating": {
+        "value": "IP54",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
       }
     }
   }

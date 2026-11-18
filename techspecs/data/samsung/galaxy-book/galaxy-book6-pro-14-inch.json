@@ -9,77 +9,221 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/ie/support/computing/what-are-the-differences-between-the-galaxy-book6-ultra-book6-pro-and-book6/",
+    "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
     "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md",
     "publisher": "Samsung",
-    "source_title": "Galaxy Book6 Pro 14-inch specifications",
-    "checked_at": "2026-11-17",
+    "source_title": "Galaxy Book6 Pro (14-inch)",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. IE source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction."
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Model-specific specifications paraphrased from the Samsung source. The archive records the reviewed subset and measurement qualifiers.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-      "source_text": "- Width: 314.2 mm\n- Depth: 220.6 mm\n- Height: 11.6 mm (Closed laptop thickness.)\n- Diagonal: 14 inches\n- Type: Dynamic AMOLED 2X\n- Refresh rate max: 120 Hz\n- Capacity: 67.18 Wh",
-      "source_url": "https://www.samsung.com/ie/support/computing/what-are-the-differences-between-the-galaxy-book6-ultra-book6-pro-and-book6/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Book6 Pro 14-inch · Galaxy Book6 Pro (14-inch)",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimension: 314.2×220.6×11.6mm\n- Weight: 1.23 kg",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Windows 11 Home",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 14.0\" Touch AMOLED, Anti-Reflective",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Processor: Intel® Core™ Ultra X7 / 7 / 5 (Intel® Evo™ Edition)\n- NPU: Intel® NPU (up to 50 tops)\n- Graphic: Intel® Arc™ Graphics / Intel® Graphics",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: Wi-Fi 7, Bluetooth v5.4, 802.11 be 2x2\n- Port: Thunderbolt™4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), | Headphone/Microphone",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 16GB/32GB (LPDDR5X)\n- Storage: 256/512GB/1TB SSD (PCle)\n- 2nd SSD: Unavailable",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: 2M (1080p FHD)",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Microphone/ | Speaker: Internal Dual Array Digital Microphones / Stereo speaker, Dolby Atmos®\n- Keyboard: Two tone Pro keyboard (Backlit keyboard)\n- Trackpad: Haptic touch Trackpad",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 67.18 Wh (Typical)\n- Charging: 65W USB Type-C Adapter",
+      "source_url": "https://www.samsungmobilepress.com/articles/slim-galaxy-book6-advanced-performance-ai-productivity",
       "source_file": "sources/samsung/galaxy-book/galaxy-book6-pro-14-inch-source.md"
     }
   ],
   "normalized_specifications": {
     "dimensions": {
-      "width": {
-        "value": 314.2,
+      "body_dimensions": {
+        "value": [
+          314.2,
+          220.6,
+          11.6
+        ],
         "unit": "mm",
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified"
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
       },
-      "depth": {
-        "value": 220.6,
-        "unit": "mm",
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified"
-      },
-      "height": {
-        "value": 11.6,
-        "unit": "mm",
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified",
-        "notes": "Closed laptop thickness."
+      "weight": {
+        "value": 1230.0,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Windows 11 Home",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
       }
     },
     "display": {
       "diagonal": {
         "value": 14,
         "unit": "inches",
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
-        "value": "Dynamic AMOLED 2X",
+        "value": "AMOLED",
         "unit": null,
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Intel® Core™ Ultra X7 / 7 / 5 (Intel® Evo™ Edition)",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
       },
-      "refresh_rate_max": {
-        "value": 120,
-        "unit": "Hz",
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified"
+      "npu_manufacturer": {
+        "value": "Intel® NPU (up to 50 tops)",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "graphic_manufacturer": {
+        "value": "Intel® Arc™ Graphics / Intel® Graphics",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "Wi-Fi 7, Bluetooth v5.4, 802.11 be 2x2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "Wi-Fi 7, Bluetooth v5.4, 802.11 be 2x2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "port_manufacturer": {
+        "value": "Thunderbolt™4 (2), USB Type-A, HDMI 2.1 port (Supports 8K@60, 5K@120), | Headphone/Microphone",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "16GB/32GB (LPDDR5X)",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_manufacturer": {
+        "value": "256/512GB/1TB SSD (PCle)",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "2nd_ssd_manufacturer": {
+        "value": "Unavailable",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "microphone_speaker_manufacturer": {
+        "value": "Internal Dual Array Digital Microphones / Stereo speaker, Dolby Atmos®",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "keyboard_manufacturer": {
+        "value": "Two tone Pro keyboard (Backlit keyboard)",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "trackpad_manufacturer": {
+        "value": "Haptic touch Trackpad",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
       }
     },
     "battery": {
-      "capacity": {
+      "energy_capacity": {
         "value": 67.18,
         "unit": "Wh",
-        "source_section": "Galaxy Book6 Ultra vs Book6 Pro vs Book6",
-        "verification_status": "content_verified"
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "charging_manufacturer": {
+        "value": "65W USB Type-C Adapter",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       }
     }
   },

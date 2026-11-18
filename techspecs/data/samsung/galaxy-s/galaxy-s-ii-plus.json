@@ -12,26 +12,226 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/uk/support/model/GT-I9105UANNEE/",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The model identity was checked. Hardware specifications are pending."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Samsung GALAXY S II Plus Product Specifications"
   },
   "extraction": {
-    "method": "manual",
-    "normalization_status": "archival_first_pass",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Model identification",
-      "source_text": "- Samsung model identifier: GT-I9105P\n",
-      "source_url": "https://www.samsung.com/uk/support/model/GT-I9105UANNEE/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S II Plus · Samsung GALAXY S II Plus Product Specifications",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: 3G HSPA+ 21.1Mbps,HSDPA 7.2Mbps,HSUPA 5.76Mbps 850/900/1900/2100 MHz | 2G GSM/GPRS/EDGE 850/900/1800/1900 MHz\n- Connectivity: Bluetooth® v 3.0 | USB 2.0 | WiFi 802.11 a/b/g/n (2.4 +5GHz), WiFi Direct | NFC (optional)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Processor: 1.2 GHz Dual Core processor",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 4.3\" WVGA(480x800) Super AMOLED Plus",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 4.1.2 (Jelly Bean)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: Main(Rear): 8 Megapixel Camera with LED Flash | Sub(Front) : 2 Megapixel Camera | Buddy Photo Share, Group Facetag, Face Zoom",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Video: Codec: H.263,H.264,MPEG4,DviX,VC1(WMV9),WMV7,WMV8,Sorenson Spark,MP43, VP8 | Full HD(1080p@30fps) Playback & Recording\n- Audio: Format: AAC (AAC/AAC+/eAAC+), MP3, OGG, 3GP, 3GA, MP4, M4A, AMR, AWB, FLAC, | WMA, WAV, MID, XMF, MXMF, RTTTL, RTX, OTA, IMY | FM Radio, RDS(Radio Data System), 3.5mm Ear Jack\n- GPS: A-GPS | Glonass\n- Sensor: Accelerometer, Geo-Magnetic, Light, Proximity, Gyro",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 8GB User memory + 1GB (RAM) | microSD (up to 64GB)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimension: NFC: 125.3 x 66.1 x 8.9 mm, 121 g | Non NFC: 125.3 x 66.1 x 8.5 mm, 121 g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: Standard battery, Li-ion 1,650mAh",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s-ii-plus?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-ii-plus-source.md"
     }
-  ]
+  ],
+  "normalized_specifications": {
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "3G HSPA+ 21.1Mbps,HSDPA 7.2Mbps,HSUPA 5.76Mbps 850/900/1900/2100 MHz | 2G GSM/GPRS/EDGE 850/900/1800/1900 MHz",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "3G HSPA+ 21.1Mbps,HSDPA 7.2Mbps,HSUPA 5.76Mbps 850/900/1900/2100 MHz | 2G GSM/GPRS/EDGE 850/900/1800/1900 MHz",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "connectivity_manufacturer": {
+        "value": "Bluetooth® v 3.0 | USB 2.0 | WiFi 802.11 a/b/g/n (2.4 +5GHz), WiFi Direct | NFC (optional)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "3.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "1.2 GHz Dual Core processor",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 1.2,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 4.3,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "480 × 800",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Super AMOLED Plus",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Android 4.1.2 (Jelly Bean)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 2,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "video_manufacturer": {
+        "value": "Codec: H.263,H.264,MPEG4,DviX,VC1(WMV9),WMV7,WMV8,Sorenson Spark,MP43, VP8 | Full HD(1080p@30fps) Playback & Recording",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "gps_manufacturer": {
+        "value": "A-GPS | Glonass",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "sensor_manufacturer": {
+        "value": "Accelerometer, Geo-Magnetic, Light, Proximity, Gyro",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "8GB User memory + 1GB (RAM) | microSD (up to 64GB)",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "expandable_capacity_max": {
+        "value": 64,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "body_dimensions": {
+        "value": [
+          125.3,
+          66.1,
+          8.9
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 1650,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
 }

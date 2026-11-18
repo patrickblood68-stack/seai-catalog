@@ -1,14 +1,35 @@
 # Galaxy Buds On
 
-Source: https://www.samsung.com/us/mobile-audio/galaxy-buds/compare/
+https://api.samsungmobilepress.com/press-releases/galaxy-buds-on-comfortable-open-ear-listening-us
 
-Checked: 2026-11-17
+Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.
 
-US source. Reviewed the listed specifications against the identified Samsung page or model column. Coverage is limited to the fields captured. This file is a paraphrased evidence extract.
+## Model identity and source scope
 
-## Find the Galaxy Buds for you
+Galaxy Buds On · Galaxy Buds On
 
-- Earbud capacity: 61 mAh
-- Case capacity: 530 mAh
-- Playback: 9.5 hours (ANC condition unspecified in comparison table.)
-- Playback with case: 38 hours (ANC condition unspecified in comparison table.)
+## Dimensions
+
+- Dimensions: Earbud: 21.4 x 24.2 x 27.1 mm | Charging Case: 51 x 51 x 28.3 mm
+- Weight: Earbud: 6.65 g | Charging Case: 41.0 g
+
+## Other technical specifications
+
+- Speaker: Φ 11.3 mm TwinBoost Speaker
+- Microphone: Digital (x3)
+- Sensor: Voice Pickup Unit (VPU), Touch, IR, Accelerometer, Gyro, Hall sensor
+- Compatibility: Android 12 or higher with more than 1.5 GB of Memory
+
+## Battery
+
+- Battery Capacity: Earbuds: 61 mAh (typical) | Charging Case: 530 mAh (typical)*
+- Music Time: Up to 9.5 hours / Total up to 38 hours
+- Talk Time: Up to 5.5 hours / Total up to 25 hours
+
+## Connectivity
+
+- Connectivity: Bluetooth® 6.2 | Codec: SSC (Samsung Seamless Codec), SSC UHQ (Samsung Proprietary), AAC, SBC, LC3 | Profiles: A2DP, AVRCP, HFP, PBP, TMAP
+
+## Durability
+
+- Water Resistance: IP54*

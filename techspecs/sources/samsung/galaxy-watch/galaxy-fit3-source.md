@@ -1,22 +1,13 @@
 # Galaxy Fit3
 
-https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-grey-bluetooth-sm-r390nzaaeub/
+https://www.samsung.com/ie/watches/galaxy-fit/galaxy-fit3-silver-bluetooth-sm-r390nzsaeub/
 
-Model-specific specifications. Values apply to the cited model and configuration. Market/source path: ie. Coverage is described in coverage.csv.
+Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.
 
-## Model identity and source scope
+## Model identity
 
-Galaxy Fit3
-Source page identifies: Galaxy Fit3 Bluetooth (40mm)
-Model/SKU: SM-R390NZAAEUB
-
-## Specifications
-
-- Size (Main Display): 1.6" (40.0mm)
-- Body Weight (g): 18.5 g
-- Bluetooth Version: Bluetooth v5.3
-- Sensors: Accelerometer,Barometer,Gyro Sensor,Optical Heart Rate Sensor,Light Sensor
-- Body Dimension (HxWxD, mm): 42.9 x 28.8 x 9.9 mm
+- SKU: SM-R390NZSAEUB
+- Product heading: Galaxy Fit3 Bluetooth (40mm)
 
 ## Connectivity
 
@@ -47,7 +38,3 @@ Model/SKU: SM-R390NZAAEUB
 ## Services and Applications
 
 - Notification Type: Vibrate
-
-## General Information
-
-- Colour: Gray

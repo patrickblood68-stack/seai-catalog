@@ -9,41 +9,235 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://www.samsung.com/uk/laptop-buying-guide/introducing-galaxy-book-5/",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
     "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. UK Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Galaxy Book5 Pro 360 (16-inch)"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Diagonal: 16 inches\n- Type: Dynamic AMOLED 2X",
-      "source_url": "https://www.samsung.com/uk/laptop-buying-guide/introducing-galaxy-book-5/",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy Book5 Pro 360 16-inch · Galaxy Book5 Pro 360 (16-inch)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimensions: 355.4 x 252.2 x 12.8mm\n- Weight: 1.69 kg",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Windows 11 Home",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 16.0-inch** 16:10 Touch AMOLED, WQXGA+ (2880x1800), 500nits (HDR)*, Up to 120Hz VRR, 120% DCI-P3 Color Volume, 10-Point Multi-Touch",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- Processor: Intel® Core™ Ultra 7/5 Processor (Intel EVO™)\n- NPU: Intel® AI Boost\n- Graphic: Intel® Arc™ Graphics",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: Bluetooth v5.4 / Wi-Fi 7\n- Port: USB-A (3.2), HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz), 2 x ThunderboltTM 4, Micro SD, Headphone out/Microphone-in Combo",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 16 / 32 GB\n- Storage: 512 GB / 1TB",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: 2MP (1080p FHD)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Microphone/ | Speaker: Dual microphones / Quad Speakers (Woofer Max 5W x 2, Tweeter 3.3W x 2), Dolby Atmos®\n- Keyboard: Pro keyboard with Numeric key (Backlit)\n- Pen: S Pen (In-box)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
+      "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 76 Wh (Typical)\n- Charging: 65W USB Type-C Adapter",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-book5-pro-360?tab=specs",
       "source_file": "sources/samsung/galaxy-book/galaxy-book5-pro-360-16-inch-source.md"
     }
   ],
   "normalized_specifications": {
+    "dimensions": {
+      "body_dimensions": {
+        "value": [
+          355.4,
+          252.2,
+          12.8
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 1690.0,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Windows 11 Home",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
     "display": {
       "diagonal": {
         "value": 16,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2880 × 1800",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
-        "value": "Dynamic AMOLED 2X",
+        "value": "AMOLED",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Intel® Core™ Ultra 7/5 Processor (Intel EVO™)",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "npu_manufacturer": {
+        "value": "Intel® AI Boost",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "graphic_manufacturer": {
+        "value": "Intel® Arc™ Graphics",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "Bluetooth v5.4 / Wi-Fi 7",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "Bluetooth v5.4 / Wi-Fi 7",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "port_manufacturer": {
+        "value": "USB-A (3.2), HDMI 2.1 (Supports 8K@60Hz, 5K@120Hz), 2 x ThunderboltTM 4, Micro SD, Headphone out/Microphone-in Combo",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "16 / 32 GB",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      },
+      "storage_manufacturer": {
+        "value": "512 GB / 1TB",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 2,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "microphone_speaker_manufacturer": {
+        "value": "Dual microphones / Quad Speakers (Woofer Max 5W x 2, Tweeter 3.3W x 2), Dolby Atmos®",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "keyboard_manufacturer": {
+        "value": "Pro keyboard with Numeric key (Backlit)",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "pen_manufacturer": {
+        "value": "S Pen (In-box)",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "energy_capacity": {
+        "value": 76,
+        "unit": "Wh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "charging_manufacturer": {
+        "value": "65W USB Type-C Adapter",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
       }
     }
   }

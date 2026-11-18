@@ -10,41 +10,231 @@
   },
   "source": {
     "source_type": "manufacturer",
-    "source_url": "https://news.samsung.com/global/first-look-the-galaxy-s6-edge",
+    "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
     "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. Global Samsung source. The extract covers selected facts for this model or its designated comparison-table column."
+    "verification_notes": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "source_title": "Galaxy S6 edge+"
   },
   "extraction": {
-    "method": "manual",
+    "method": "structured_extraction",
     "normalization_status": "partially_normalized",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "note": "Samsung Mobile Press technical specification table. Configuration and market qualifiers are retained in the source sections. This is a partial manufacturer extraction.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Product specifications",
-      "source_text": "- Introduction year: 2015\n- Diagonal: 5.7 inches\n- Type: Curved Super AMOLED",
-      "source_url": "https://news.samsung.com/global/first-look-the-galaxy-s6-edge",
+      "heading": "Model identity and source scope",
+      "source_text": "Galaxy S6 edge+ · Galaxy S6 edge+",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Software",
+      "source_text": "- OS: Android 5.1 (Lollipop)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Network: LTE Cat.9 / LTE Cat.6 * May differ by markets and mobile operators\n- Connectivity: WiFi 802.11 a/b/g/n/ac, MIMO(2x2), | Bluetooth® v 4.2 LE, ANT+, USB 2.0, NFC, | Location",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Dimensions",
+      "source_text": "- Dimension: 154.4 x 75.8 x 6.9mm, 153g",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Processor",
+      "source_text": "- AP: Octa core (2.1GHz Quad + 1.5GHz Quad), 64 bit, 14 nm process",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Storage and memory",
+      "source_text": "- Memory: 4GB RAM (LPDDR4) , 32/64GB (UFS 2.0)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Display: 5.7” Quad HD Super AMOLED | 2560 x 1440 (518ppi) | Dual edge screen",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Camera: Rear : 16MP OIS (F1.9) , Front : 5MP (F1.9)",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Battery",
+      "source_text": "- Battery: 3,000mAh, Fast Charging both on wired and wireless | Wireless Charging compatible with WPC and Airfuel",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
+    },
+    {
+      "heading": "Other technical specifications",
+      "source_text": "- Sensor: Accelerometer, Proximity, RGB Light, Geo-magnetic, Gyro, | Fingerprint, Barometer, Hall, HRM\n- Audio: MP3,M4A,3GA,AAC,OGG,OGA,WAV,WMA,AMR, | AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA\n- Video: MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM",
+      "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s6-edge-2?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s6-edge-plus-source.md"
     }
   ],
   "normalized_specifications": {
+    "software": {
+      "operating_system": {
+        "value": "Android 5.1 (Lollipop)",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "network_manufacturer": {
+        "value": "LTE Cat.9 / LTE Cat.6 * May differ by markets and mobile operators",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular_network": {
+        "value": "LTE Cat.9 / LTE Cat.6 * May differ by markets and mobile operators",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "connectivity_manufacturer": {
+        "value": "WiFi 802.11 a/b/g/n/ac, MIMO(2x2), | Bluetooth® v 4.2 LE, ANT+, USB 2.0, NFC, | Location",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "4.2",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wifi": {
+        "value": "802.11 a/b/g/n/ac",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "weight": {
+        "value": 153,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "body_dimensions": {
+        "value": [
+          154.4,
+          75.8,
+          6.9
+        ],
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "chipset": {
+        "value": "Octa core (2.1GHz Quad + 1.5GHz Quad), 64 bit, 14 nm process",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage_and_memory": {
+      "memory_manufacturer": {
+        "value": "4GB RAM (LPDDR4) , 32/64GB (UFS 2.0)",
+        "unit": null,
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 4,
+        "unit": "GB",
+        "source_section": "Storage and memory",
+        "verification_status": "source_transcribed"
+      }
+    },
     "display": {
       "diagonal": {
         "value": 5.7,
         "unit": "inches",
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution": {
+        "value": "2560 × 1440",
+        "unit": "pixels",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
       },
       "type": {
-        "value": "Curved Super AMOLED",
+        "value": "Super AMOLED",
         "unit": null,
-        "source_section": "Product specifications",
-        "verification_status": "content_verified"
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "pixel_density": {
+        "value": 518,
+        "unit": "ppi",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 16,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 3000,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "other_technical_specifications": {
+      "sensor_manufacturer": {
+        "value": "Accelerometer, Proximity, RGB Light, Geo-magnetic, Gyro, | Fingerprint, Barometer, Hall, HRM",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "audio_manufacturer": {
+        "value": "MP3,M4A,3GA,AAC,OGG,OGA,WAV,WMA,AMR, | AWB,FLAC,MID,MIDI,XMF,MXMF,IMY,RTTTL,RTX,OTA",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
+      },
+      "video_manufacturer": {
+        "value": "MP4,M4V,3GP,3G2,WMV,ASF,AVI,FLV,MKV,WEBM",
+        "unit": null,
+        "source_section": "Other technical specifications",
+        "verification_status": "source_transcribed"
       }
     }
   }
