@@ -1,11 +1,18 @@
 # Book Cover Keyboard Slim for Galaxy Tab S12 Ultra and S11 Ultra
 
-Source: https://shop.samsung.com/ie/book-cover-keyboard-slim-for-tab-s12-ultra-s11-ultra
+https://www.samsung.com/ie/mobile-accessories/galaxy-tab-s11-ultra-book-cover-keyboard-slim-black-ef-dx930bbeggb/
 
-Checked: 2026-11-17
-
-IE Samsung source. The extract covers selected facts for this model or its designated comparison-table column. Specifications are paraphrased.
+Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.
 
 ## Compatibility
 
-- Supported models: Galaxy Tab S12 Ultra, Galaxy Tab S11 Ultra
+- Compatible models: ['Galaxy Tab S12 Ultra', 'Galaxy Tab S11 Ultra']
+
+## General feature
+
+- Interface: POGO
+
+## Physical specification
+
+- Dimension wxhxd: [210.6, 326.9, 13.2] mm
+- Weight: 466 g

@@ -72,6 +72,12 @@
       "source_text": "- Battery: 1500 mAh",
       "source_url": "https://www.samsungmobilepress.com/media-assets/galaxy-s?tab=specs",
       "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
+    },
+    {
+      "heading": "Processor in Samsung launch coverage",
+      "source_text": "Samsung Newsroom Korea identifies the Galaxy S I9000 and states a 1 GHz processor.",
+      "source_url": "https://news.samsung.com/kr/88",
+      "source_file": "sources/samsung/galaxy-s/galaxy-s-source.md"
     }
   ],
   "normalized_specifications": {
@@ -170,6 +176,14 @@
         "value": 1500,
         "unit": "mAh",
         "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "processor": {
+      "cpu_clock_max": {
+        "value": 1,
+        "unit": "GHz",
+        "source_section": "Processor in Samsung launch coverage",
         "verification_status": "source_transcribed"
       }
     }

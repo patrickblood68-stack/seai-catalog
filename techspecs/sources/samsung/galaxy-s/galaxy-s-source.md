@@ -38,3 +38,9 @@ Galaxy S · Galaxy S (I9000) Product Specifications
 ## Battery
 
 - Battery: 1500 mAh
+
+## Processor in Samsung launch coverage
+
+https://news.samsung.com/kr/88
+
+Samsung Newsroom Korea identifies the Galaxy S I9000 and states a 1 GHz processor.

@@ -8,33 +8,268 @@
     "model_slug": "samsung-all-in-one-pro-dm970aga-lc71g",
     "model_numbers": [
       "DM970AGA-LC71G"
-    ]
+    ],
+    "variant": "South Korea DM970AGA-LC71G"
   },
   "source": {
     "source_type": "manufacturer",
     "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
     "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md",
     "publisher": "Samsung",
-    "checked_at": "2026-11-17",
+    "checked_at": "2026-11-18",
     "verification_status": "partially_verified",
-    "verification_notes": "Prior import retained for model inventory. Exact technical coverage incomplete. South Korea Samsung source. The model identity was checked. Hardware specifications are pending."
+    "verification_notes": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "source_title": "Samsung Korea DM970AGA-LC71G support specifications"
   },
   "extraction": {
-    "method": "manual",
-    "normalization_status": "archival_first_pass",
-    "note": "Selected facts paraphrased from the official Samsung source.",
-    "extracted_at": "2026-11-17",
-    "reviewed_at": "2026-11-17"
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Exact-model Samsung manufacturer specifications. Values apply to the cited market and configuration.",
+    "extracted_at": "2026-11-18"
   },
   "sections": [
     {
-      "heading": "Model identification",
-      "source_text": "- Samsung model identifier: DM970AGA-LC71G\n",
+      "heading": "Processor and graphics",
+      "source_text": "- Chipset: Intel Core Ultra 7 155H\n- Cpu clock max: 4.8 GHz\n- L3 cache: 24 MB\n- Gpu: Intel Arc Graphics (shared)\n- Npu: Intel AI Boost",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Display",
+      "source_text": "- Diagonal: 27 inches\n- Resolution width: 3840 px\n- Resolution height: 2160 px\n- Panel type: IPS\n- Surface: Anti-reflective",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Memory",
+      "source_text": "- Ram: 16 GB\n- Type: On-board LPDDR5X",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Storage",
+      "source_text": "- Capacity: 512 GB\n- Storage type: NVMe SSD\n- Slots: 2",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Connectivity",
+      "source_text": "- Wifi: Wi-Fi 6E (802.11ax 2×2)\n- Bluetooth version: 5.3\n- Ethernet: Gigabit Ethernet\n- Hdmi inputs: 1\n- Thunderbolt 4 ports: 2\n- Usb 3 2 ports: 1\n- Usb 2 0 ports: 1\n- Card reader: 11-in-1\n- Headset jack: Headphone out/microphone in combo",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Camera",
+      "source_text": "- Front resolution: 5 MP",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Audio",
+      "source_text": "- Speakers: AKG quad speakers\n- Microphone: Dual-array digital microphone\n- Audio format: Dolby Atmos",
+      "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
+      "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
+    },
+    {
+      "heading": "Operating system",
+      "source_text": "- Operating system: Windows 11 Home",
       "source_url": "https://www.samsung.com/sec/support/model/DM970AGA-LC71G/",
       "source_file": "sources/samsung/desktops/samsung-all-in-one-pro-dm970aga-lc71g-source.md"
     }
   ],
   "record_notes": [
     "All-in-one desktop comparable to iMac by form factor."
-  ]
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Intel Core Ultra 7 155H",
+        "unit": null,
+        "source_section": "Processor and graphics",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 4.8,
+        "unit": "GHz",
+        "source_section": "Processor and graphics",
+        "verification_status": "source_transcribed"
+      },
+      "l3_cache": {
+        "value": 24,
+        "unit": "MB",
+        "source_section": "Processor and graphics",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Intel Arc Graphics (shared)",
+        "unit": null,
+        "source_section": "Processor and graphics",
+        "verification_status": "source_transcribed"
+      },
+      "npu": {
+        "value": "Intel AI Boost",
+        "unit": null,
+        "source_section": "Processor and graphics",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 27,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 3840,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 2160,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "panel_type": {
+        "value": "IPS",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "surface": {
+        "value": "Anti-reflective",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "memory": {
+      "ram": {
+        "value": 16,
+        "unit": "GB",
+        "source_section": "Memory",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "On-board LPDDR5X",
+        "unit": null,
+        "source_section": "Memory",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "storage": {
+      "capacity": {
+        "value": 512,
+        "unit": "GB",
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "storage_type": {
+        "value": "NVMe SSD",
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      },
+      "slots": {
+        "value": 2,
+        "unit": null,
+        "source_section": "Storage",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 6E (802.11ax 2×2)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.3",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "ethernet": {
+        "value": "Gigabit Ethernet",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "hdmi_inputs": {
+        "value": 1,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "thunderbolt_4_ports": {
+        "value": 2,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_3_2_ports": {
+        "value": 1,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb_2_0_ports": {
+        "value": 1,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "card_reader": {
+        "value": "11-in-1",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "headset_jack": {
+        "value": "Headphone out/microphone in combo",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "front_resolution": {
+        "value": 5,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio": {
+      "speakers": {
+        "value": "AKG quad speakers",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "microphone": {
+        "value": "Dual-array digital microphone",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "audio_format": {
+        "value": "Dolby Atmos",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Windows 11 Home",
+        "unit": null,
+        "source_section": "Operating system",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
 }
