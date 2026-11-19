@@ -1,0 +1,231 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartwatch",
+    "family": "Xiaomi Watch S5",
+    "model": "Xiaomi Watch S5 41mm",
+    "model_slug": "xiaomi-watch-s5-41mm",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+    "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+    "source_title": "Xiaomi Watch S5 41mm UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "Selected technical facts from the official UK specification sheet. Runtime figures use Xiaomi test conditions."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected manufacturer specifications normalized for comparison.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Diagonal: 1.32 inches\n- Type: AMOLED\n- Resolution width: 466 px\n- Resolution height: 466 px\n- Peak brightness: 3000 nits\n- Hbm brightness: 1500 nits"
+    },
+    {
+      "heading": "Battery",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Capacity: 590 mAh\n- Type: Lithium-ion polymer\n- Charging: 2-pin magnetic dock"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Bluetooth version: 5.4\n- Gnss systems: ['GPS', 'Galileo', 'GLONASS', 'BeiDou', 'QZSS']"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Height: 41.4 mm\n- Width: 41.4 mm\n- Depth: 9.9 mm\n- Weight without strap approx: 36 g"
+    },
+    {
+      "heading": "Durability",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Water resistance: 5 ATM"
+    },
+    {
+      "heading": "Sensors",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Heart rate: True\n- Blood oxygen: True\n- Barometer: True\n- Temperature: True"
+    },
+    {
+      "heading": "Software",
+      "source_file": "sources/xiaomi/wearables/xiaomi-watch-s5-41mm-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-watch-s5-41mm/specs/",
+      "source_text": "- Operating system: Xiaomi HyperOS 4\n- Minimum android: 8.0\n- Minimum ios: 14.0"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 1.32,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 466,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 466,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 3000,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "hbm_brightness": {
+        "value": 1500,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 590,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Lithium-ion polymer",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "charging": {
+        "value": "2-pin magnetic dock",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "gnss_systems": {
+        "value": [
+          "GPS",
+          "Galileo",
+          "GLONASS",
+          "BeiDou",
+          "QZSS"
+        ],
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 41.4,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 41.4,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 9.9,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight_without_strap_approx": {
+        "value": 36,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "water_resistance": {
+        "value": "5 ATM",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "sensors": {
+      "heart_rate": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "blood_oxygen": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "barometer": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "temperature": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "operating_system": {
+        "value": "Xiaomi HyperOS 4",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      },
+      "minimum_android": {
+        "value": "8.0",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      },
+      "minimum_ios": {
+        "value": "14.0",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

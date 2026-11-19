@@ -1,0 +1,193 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartwatch",
+    "family": "REDMI Watch",
+    "model": "REDMI Watch 6",
+    "model_slug": "redmi-watch-6",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+    "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+    "source_title": "REDMI Watch 6 UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "Selected technical facts from the official UK specification sheet. Runtime figures use Xiaomi test conditions."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected manufacturer specifications normalized for comparison.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+      "source_text": "- Diagonal: 2.07 inches\n- Type: AMOLED\n- Resolution width: 432 px\n- Resolution height: 514 px\n- Peak brightness: 2000 nits\n- Hbm brightness: 1500 nits\n- Refresh rate max: 60 Hz"
+    },
+    {
+      "heading": "Battery",
+      "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+      "source_text": "- Capacity: 550 mAh\n- Light usage runtime max: 24 days\n- Normal usage runtime: 12 days\n- Heavy usage runtime: 7 days"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+      "source_text": "- Bluetooth version: 5.4\n- Built in gnss: True\n- Bluetooth calling: True"
+    },
+    {
+      "heading": "Durability",
+      "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+      "source_text": "- Water resistance: 5 ATM"
+    },
+    {
+      "heading": "Audio",
+      "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+      "source_text": "- Speaker: True\n- Microphone count: 1"
+    },
+    {
+      "heading": "Software",
+      "source_file": "sources/xiaomi/wearables/redmi-watch-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-watch-6/specs/",
+      "source_text": "- Minimum android: 8.0\n- Minimum ios: 14.0"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 2.07,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 432,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 514,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 2000,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "hbm_brightness": {
+        "value": 1500,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 60,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 550,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "light_usage_runtime_max": {
+        "value": 24,
+        "unit": "days",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "normal_usage_runtime": {
+        "value": 12,
+        "unit": "days",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "heavy_usage_runtime": {
+        "value": 7,
+        "unit": "days",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "built_in_gnss": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_calling": {
+        "value": true,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "water_resistance": {
+        "value": "5 ATM",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "audio": {
+      "speaker": {
+        "value": true,
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "microphone_count": {
+        "value": 1,
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "minimum_android": {
+        "value": "8.0",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      },
+      "minimum_ios": {
+        "value": "14.0",
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
