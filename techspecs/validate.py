@@ -80,7 +80,12 @@ def xiaomi_url(url):
     )
 
 
-def validate_xiaomi(validator):
+def oppo_url(url):
+    parsed = urlparse(url or "")
+    return parsed.scheme == "https" and parsed.hostname in {"oppo.com", "www.oppo.com"}
+
+
+def validate_product_records(validator, manufacturer_id, brand, valid_url):
     baselines = {
         "smartphone": {"display", "camera", "battery", "connectivity", "processor"},
         "tablet": {"display", "battery", "connectivity"},
@@ -89,29 +94,29 @@ def validate_xiaomi(validator):
         "earbuds": {"audio", "battery", "connectivity"},
     }
     records = {}
-    for path in sorted((ROOT / "data/xiaomi").rglob("*.json")):
+    for path in sorted((ROOT / "data" / manufacturer_id).rglob("*.json")):
         record = json.loads(path.read_text(encoding="utf-8"))
         validator.validate(record)
-        require(record["product"]["brand"] == "Xiaomi" and
-                record["product"]["model_slug"] == path.stem, f"Invalid Xiaomi identity: {path}")
+        require(record["product"]["brand"] == brand and
+                record["product"]["model_slug"] == path.stem, f"Invalid {brand} identity: {path}")
         headings = {section["heading"] for section in record["sections"]}
         for evidence in [record["source"], *record["sections"]]:
             source = (ROOT / evidence["source_file"]).resolve()
-            require(xiaomi_url(evidence["source_url"]) and source.is_file()
-                    and source.is_relative_to(ROOT / "sources/xiaomi"),
-                    f"Invalid Xiaomi evidence: {path}")
+            require(valid_url(evidence["source_url"]) and source.is_file()
+                    and source.is_relative_to(ROOT / "sources" / manufacturer_id),
+                    f"Invalid {brand} evidence: {path}")
         specs = record.get("normalized_specifications", {})
         groups = baselines.get(record["product"]["category"])
         require(groups is not None and set(specs) >= groups
                 and sum(map(len, specs.values())) >= (15 if record["product"]["category"] in {"smartphone", "tablet"} else 12),
-                f"Xiaomi record is below the specification baseline: {path}")
+                f"{brand} record is below the specification baseline: {path}")
         require(all(field["source_section"] in headings for group in specs.values()
-                    for field in group.values()), f"Missing Xiaomi field evidence: {path}")
+                    for field in group.values()), f"Missing {brand} field evidence: {path}")
         records[path.relative_to(ROOT / "data").with_suffix("").as_posix()] = {
             "primary_photo": "validated"
         }
     if records:
-        validate_media(records, "xiaomi", xiaomi_url)
+        validate_media(records, manufacturer_id, valid_url)
 
 
 def main():
@@ -148,7 +153,8 @@ def main():
                 f"Coverage metadata does not match the record: {path}")
     print(f"Validated {len(files)} Samsung V2 records and their evidence references")
     validate_media({key[5:-5]: row for key, row in coverage.items()})
-    validate_xiaomi(validator)
+    validate_product_records(validator, "xiaomi", "Xiaomi", xiaomi_url)
+    validate_product_records(validator, "oppo", "OPPO", oppo_url)
 
 
 if __name__ == "__main__":

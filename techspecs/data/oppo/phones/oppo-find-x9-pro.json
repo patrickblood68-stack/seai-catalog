@@ -1,0 +1,208 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "OPPO",
+    "category": "smartphone",
+    "family": "Find X",
+    "model": "OPPO Find X9 Pro",
+    "model_slug": "oppo-find-x9-pro",
+    "variant": "UK specification",
+    "model_numbers": [
+      "CPH2791"
+    ]
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+    "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+    "source_title": "OPPO Find X9 Pro UK specifications",
+    "publisher": "OPPO",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "UK CPH2791 configuration. The manufacturer reports approximate dimensions and weight. Charging power is the maximum supported with the stated charging protocols."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Chips",
+      "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+      "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+      "source_text": "- Chipset: MediaTek Dimensity 9500"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+      "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+      "source_text": "- Diagonal: 6.78 inches\n- Type: Flexible AMOLED\n- Resolution width: 2772 px\n- Resolution height: 1272 px\n- Refresh rate max: 120 Hz\n- High brightness mode: 1800 nits"
+    },
+    {
+      "heading": "Camera",
+      "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+      "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+      "source_text": "- Rear main resolution: 50 MP\n- Rear telephoto resolution: 200 MP\n- Rear ultrawide resolution: 50 MP\n- Front resolution: 50 MP\n- Rear main optical stabilization: True"
+    },
+    {
+      "heading": "Battery",
+      "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+      "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+      "source_text": "- Typical capacity: 7500 mAh\n- Rated capacity: 7290 mAh\n- Wired charging max: 80 W"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+      "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+      "source_text": "- Wifi: Wi-Fi 7 (802.11be)\n- Bluetooth version: 6.0"
+    },
+    {
+      "heading": "Size and Weight",
+      "source_file": "sources/oppo/phones/oppo-find-x9-pro-source.md",
+      "source_url": "https://www.oppo.com/uk/smartphones/series-find-x/find-x9-pro/specs/",
+      "source_text": "- Height: 161.26 mm\n- Width: 76.46 mm\n- Depth: 8.25 mm\n- Weight: 224 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "MediaTek Dimensity 9500",
+        "unit": null,
+        "source_section": "Chips",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.78,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "Flexible AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2772,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1272,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "high_brightness_mode": {
+        "value": 1800,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_resolution": {
+        "value": 200,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_optical_stabilization": {
+        "value": true,
+        "unit": null,
+        "source_section": "Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 7500,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "rated_capacity": {
+        "value": 7290,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 80,
+        "unit": "W",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 7 (802.11be)",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "6.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 161.26,
+        "unit": "mm",
+        "source_section": "Size and Weight",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 76.46,
+        "unit": "mm",
+        "source_section": "Size and Weight",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 8.25,
+        "unit": "mm",
+        "source_section": "Size and Weight",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 224,
+        "unit": "g",
+        "source_section": "Size and Weight",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
