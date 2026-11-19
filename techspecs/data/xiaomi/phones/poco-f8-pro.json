@@ -1,0 +1,217 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "family": "POCO F",
+    "model": "POCO F8 Pro",
+    "model_slug": "poco-f8-pro",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+    "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+    "source_title": "POCO F8 Pro UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "UK specification. Peak brightness is rated over 25% of the display. The 100 W wired rating refers to adapter output."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+      "source_text": "- Chipset: Qualcomm Snapdragon 8 Elite\n- Process node: 3 nm\n- Cpu clock max: 4.32 GHz\n- Gpu: Adreno"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+      "source_text": "- Diagonal: 6.59 inches\n- Type: AMOLED\n- Resolution width: 2510 px\n- Resolution height: 1156 px\n- Refresh rate max: 120 Hz\n- Peak brightness: 3500 nits"
+    },
+    {
+      "heading": "Rear camera and front camera",
+      "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+      "source_text": "- Rear main resolution: 50 MP\n- Rear main optical stabilization: True\n- Rear ultrawide resolution: 8 MP\n- Front resolution: 20 MP\n- Rear telephoto resolution: 50 MP"
+    },
+    {
+      "heading": "Battery and charging",
+      "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+      "source_text": "- Typical capacity: 6210 mAh\n- Wired charging max: 100 W"
+    },
+    {
+      "heading": "Network and Connectivity",
+      "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+      "source_text": "- Wifi: 2.4 GHz and 5 GHz Wi-Fi\n- Bluetooth version: 5.4"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/phones/poco-f8-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/poco-f8-pro/specs/",
+      "source_text": "- Height: 157.49 mm\n- Width: 75.25 mm\n- Depth: 8 mm\n- Weight: 199 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Qualcomm Snapdragon 8 Elite",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 3,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 4.32,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Adreno",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.59,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2510,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1156,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 3500,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_optical_stabilization": {
+        "value": true,
+        "unit": null,
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 20,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 6210,
+        "unit": "mAh",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 100,
+        "unit": "W",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "2.4 GHz and 5 GHz Wi-Fi",
+        "unit": null,
+        "source_section": "Network and Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network and Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 157.49,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 75.25,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 8,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 199,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
