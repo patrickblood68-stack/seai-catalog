@@ -1,0 +1,172 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "earbuds",
+    "family": "Xiaomi Buds",
+    "model": "Xiaomi Buds 6",
+    "model_slug": "xiaomi-buds-6",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/xiaomi-buds-6/specs/",
+    "source_file": "sources/xiaomi/earbuds/xiaomi-buds-6-source.md",
+    "source_title": "Xiaomi Buds 6 UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "Selected technical facts from the official UK specification sheet. Runtime figures use Xiaomi test conditions."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected manufacturer specifications normalized for comparison.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Audio",
+      "source_file": "sources/xiaomi/earbuds/xiaomi-buds-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-buds-6/specs/",
+      "source_text": "- Fit: Semi-in-ear\n- Frequency min: 16 Hz\n- Frequency max: 40000 Hz\n- Codec support: ['AAC', 'SBC', 'aptX Lossless', 'aptX Adaptive']"
+    },
+    {
+      "heading": "Battery",
+      "source_file": "sources/xiaomi/earbuds/xiaomi-buds-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-buds-6/specs/",
+      "source_text": "- Earbud capacity: 35 mAh\n- Case capacity: 475 mAh\n- Playback anc off aac: 6 hours\n- Playback anc on aac: 3.5 hours\n- Playback with case anc off aac: 35 hours\n- Playback with case anc on aac: 20 hours"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/earbuds/xiaomi-buds-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-buds-6/specs/",
+      "source_text": "- Bluetooth version: 5.4\n- Wireless range open space: 10 m\n- Charging port: USB-C"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/earbuds/xiaomi-buds-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-buds-6/specs/",
+      "source_text": "- Earbud weight: 4.4 g\n- Case weight: 34.5 g"
+    },
+    {
+      "heading": "Durability",
+      "source_file": "sources/xiaomi/earbuds/xiaomi-buds-6-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-buds-6/specs/",
+      "source_text": "- Earbud ingress protection: IP54"
+    }
+  ],
+  "normalized_specifications": {
+    "audio": {
+      "fit": {
+        "value": "Semi-in-ear",
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "frequency_min": {
+        "value": 16,
+        "unit": "Hz",
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "frequency_max": {
+        "value": 40000,
+        "unit": "Hz",
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      },
+      "codec_support": {
+        "value": [
+          "AAC",
+          "SBC",
+          "aptX Lossless",
+          "aptX Adaptive"
+        ],
+        "unit": null,
+        "source_section": "Audio",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "earbud_capacity": {
+        "value": 35,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "case_capacity": {
+        "value": 475,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "playback_anc_off_aac": {
+        "value": 6,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "playback_anc_on_aac": {
+        "value": 3.5,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "playback_with_case_anc_off_aac": {
+        "value": 35,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "playback_with_case_anc_on_aac": {
+        "value": 20,
+        "unit": "hours",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": 5.4,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_range_open_space": {
+        "value": 10,
+        "unit": "m",
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "charging_port": {
+        "value": "USB-C",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "earbud_weight": {
+        "value": 4.4,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "case_weight": {
+        "value": 34.5,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "earbud_ingress_protection": {
+        "value": "IP54",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

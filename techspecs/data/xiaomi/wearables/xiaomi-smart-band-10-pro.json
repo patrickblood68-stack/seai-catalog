@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "fitness_tracker",
+    "family": "Xiaomi Smart Band 10",
+    "model": "Xiaomi Smart Band 10 Pro",
+    "model_slug": "xiaomi-smart-band-10-pro",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+    "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+    "source_title": "Xiaomi Smart Band 10 Pro UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "Selected technical facts from the official UK specification sheet. Runtime figures use Xiaomi test conditions."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected manufacturer specifications normalized for comparison.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+      "source_text": "- Diagonal: 1.74 inches\n- Type: AMOLED\n- Resolution width: 480 px\n- Resolution height: 336 px\n- Peak brightness: 2000 nits\n- Hbm brightness: 1500 nits\n- Refresh rate max: 60 Hz"
+    },
+    {
+      "heading": "Battery",
+      "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+      "source_text": "- Capacity: 350 mAh\n- Light usage runtime max: 21 days\n- Charging: Magnetic"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+      "source_text": "- Bluetooth version: 5.4"
+    },
+    {
+      "heading": "Durability",
+      "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+      "source_text": "- Water resistance: 5 ATM"
+    },
+    {
+      "heading": "Sensors",
+      "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+      "source_text": "- Heart rate: True\n- Blood oxygen: True\n- Accelerometer: True\n- Gyroscope: True\n- Ambient light: True\n- Compass: True"
+    },
+    {
+      "heading": "Software",
+      "source_file": "sources/xiaomi/wearables/xiaomi-smart-band-10-pro-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-smart-band-10-pro/specs/",
+      "source_text": "- Minimum android: 8.0\n- Minimum ios: 14.0"
+    }
+  ],
+  "normalized_specifications": {
+    "display": {
+      "diagonal": {
+        "value": 1.74,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 480,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 336,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 2000,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "hbm_brightness": {
+        "value": 1500,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 60,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "capacity": {
+        "value": 350,
+        "unit": "mAh",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "light_usage_runtime_max": {
+        "value": 21,
+        "unit": "days",
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      },
+      "charging": {
+        "value": "Magnetic",
+        "unit": null,
+        "source_section": "Battery",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": 5.4,
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "durability": {
+      "water_resistance": {
+        "value": "5 ATM",
+        "unit": null,
+        "source_section": "Durability",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "sensors": {
+      "heart_rate": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "blood_oxygen": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "accelerometer": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "gyroscope": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "ambient_light": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      },
+      "compass": {
+        "value": true,
+        "unit": null,
+        "source_section": "Sensors",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "software": {
+      "minimum_android": {
+        "value": 8.0,
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      },
+      "minimum_ios": {
+        "value": 14.0,
+        "unit": null,
+        "source_section": "Software",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}

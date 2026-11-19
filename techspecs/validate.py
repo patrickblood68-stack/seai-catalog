@@ -84,6 +84,9 @@ def validate_xiaomi(validator):
     baselines = {
         "smartphone": {"display", "camera", "battery", "connectivity", "processor"},
         "tablet": {"display", "battery", "connectivity"},
+        "smartwatch": {"display", "battery", "connectivity"},
+        "fitness_tracker": {"display", "battery", "sensors"},
+        "earbuds": {"audio", "battery", "connectivity"},
     }
     records = {}
     for path in sorted((ROOT / "data/xiaomi").rglob("*.json")):
@@ -100,7 +103,7 @@ def validate_xiaomi(validator):
         specs = record.get("normalized_specifications", {})
         groups = baselines.get(record["product"]["category"])
         require(groups is not None and set(specs) >= groups
-                and sum(map(len, specs.values())) >= 15,
+                and sum(map(len, specs.values())) >= (15 if record["product"]["category"] in {"smartphone", "tablet"} else 12),
                 f"Xiaomi record is below the specification baseline: {path}")
         require(all(field["source_section"] in headings for group in specs.values()
                     for field in group.values()), f"Missing Xiaomi field evidence: {path}")
