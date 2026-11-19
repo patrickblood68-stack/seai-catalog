@@ -1,0 +1,229 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "family": "Xiaomi 14T",
+    "model": "Xiaomi 14T",
+    "model_slug": "xiaomi-14t",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+    "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+    "source_title": "Xiaomi 14T UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "Wi-Fi capability varies with region and local network support. Thickness and weight apply to the glass finish. The PU finish is 7.95 mm thick and weighs 193 g."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Chipset: MediaTek Dimensity 8300-Ultra\n- Process node: 4 nm\n- Cpu clock max: 3.35 GHz\n- Gpu: Arm Mali-G615 MC6"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Diagonal: 6.67 inches\n- Type: AMOLED\n- Resolution width: 2712 px\n- Resolution height: 1220 px\n- Refresh rate max: 144 Hz\n- Peak brightness: 4000 nits"
+    },
+    {
+      "heading": "Rear Camera",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Rear main resolution: 50 MP\n- Rear ultrawide resolution: 12 MP\n- Rear telephoto resolution: 50 MP\n- Rear telephoto equivalent focal length: 50 mm"
+    },
+    {
+      "heading": "Front Camera",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Front resolution: 32 MP"
+    },
+    {
+      "heading": "Battery & Charging",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Typical capacity: 5000 mAh\n- Wired charging max: 67 W"
+    },
+    {
+      "heading": "Network & Connectivity",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Wifi: Wi-Fi 6E\n- Bluetooth version: 5.4\n- Cellular: 5G NR, 4G LTE, 3G and 2G"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/phones/xiaomi-14t-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-14t/specs/",
+      "source_text": "- Height: 160.5 mm\n- Width: 75.1 mm\n- Depth: 7.8 mm\n- Weight: 195 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "MediaTek Dimensity 8300-Ultra",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 4,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 3.35,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Arm Mali-G615 MC6",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.67,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2712,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1220,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 144,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 4000,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 32,
+        "unit": "MP",
+        "source_section": "Front Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_equivalent_focal_length": {
+        "value": 50,
+        "unit": "mm",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 5000,
+        "unit": "mAh",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 67,
+        "unit": "W",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 6E",
+        "unit": null,
+        "source_section": "Network & Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network & Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular": {
+        "value": "5G NR, 4G LTE, 3G and 2G",
+        "unit": null,
+        "source_section": "Network & Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 160.5,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 75.1,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 7.8,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 195,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
