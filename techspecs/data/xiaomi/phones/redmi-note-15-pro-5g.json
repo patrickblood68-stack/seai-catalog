@@ -1,0 +1,211 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "family": "REDMI Note",
+    "model": "REDMI Note 15 Pro 5G",
+    "model_slug": "redmi-note-15-pro-5g",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+    "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+    "source_title": "REDMI Note 15 Pro 5G UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-19",
+    "verification_status": "partially_verified",
+    "verification_notes": "Selected model-specific specifications from Xiaomi UK. Charging, peak brightness and typical battery capacity are manufacturer ratings."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-19"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+      "source_text": "- Chipset: MediaTek Dimensity 7400-Ultra\n- Process node: 4 nm\n- Cpu clock max: 2.6 GHz\n- Gpu: Mali-G615"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+      "source_text": "- Diagonal: 6.83 inches\n- Type: AMOLED\n- Resolution width: 2772 px\n- Resolution height: 1280 px\n- Refresh rate max: 120 Hz\n- Peak brightness: 3200 nits"
+    },
+    {
+      "heading": "Rear camera and front camera",
+      "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+      "source_text": "- Rear main resolution: 200 MP\n- Rear main optical stabilization: True\n- Rear ultrawide resolution: 8 MP\n- Front resolution: 20 MP"
+    },
+    {
+      "heading": "Battery and charging",
+      "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+      "source_text": "- Typical capacity: 6580 mAh\n- Wired charging max: 45 W"
+    },
+    {
+      "heading": "Network and Connectivity",
+      "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+      "source_text": "- Wifi: Wi-Fi 6 capability, subject to regional availability and network support\n- Bluetooth version: 5.4"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/phones/redmi-note-15-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-note-15-pro-5g/specs/",
+      "source_text": "- Height: 163.61 mm\n- Width: 78.09 mm\n- Depth: 7.96 mm\n- Weight: 210 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "MediaTek Dimensity 7400-Ultra",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 4,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 2.6,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Mali-G615",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.83,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2772,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1280,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 3200,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 200,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_main_optical_stabilization": {
+        "value": true,
+        "unit": null,
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 8,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 20,
+        "unit": "MP",
+        "source_section": "Rear camera and front camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 6580,
+        "unit": "mAh",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 45,
+        "unit": "W",
+        "source_section": "Battery and charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 6 capability, subject to regional availability and network support",
+        "unit": null,
+        "source_section": "Network and Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Network and Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 163.61,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 78.09,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 7.96,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 210,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
