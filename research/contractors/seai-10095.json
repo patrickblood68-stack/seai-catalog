@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10095",
+  "listing_reference": "SEAI contractor ID 10095",
+  "trading_name": "J.D. Buckley Construction Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Insulation",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "J.D. Buckley Construction Limited",
+    "cro_number": "479828",
+    "registered_status": "Normal",
+    "incorporated_on": "2010-01-19",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 5,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/JD-Buckley-Construction-Limited-479828",
+      "checked_on": "2026-11-20"
+    },
+    "other_irish_companies_closed": 4
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-20",
+    "review_notes": "SoloCheck public summary supplied a partial registered address. Official business contact details remain unverified."
+  }
+}

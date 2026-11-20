@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10091",
+  "listing_reference": "SEAI contractor ID 10091",
+  "trading_name": "CJS Plumbing & Heating",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Cjs Heating & Plumbing Limited",
+    "cro_number": "412843",
+    "registered_status": "Normal",
+    "incorporated_on": "2005-12-20",
+    "registered_address": {
+      "text": "Saggart",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Cjs-Heating-And-Plumbing-Limited-412843",
+      "checked_on": "2026-11-20"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-20",
+    "review_notes": "SoloCheck public summary supplied a partial registered address. Official business contact details remain unverified."
+  }
+}

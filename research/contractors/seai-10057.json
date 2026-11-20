@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10057",
+  "listing_reference": "SEAI contractor ID 10057",
+  "trading_name": "CGP",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only",
+      "Solar Heating"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-20",
+    "review_notes": "CGP name is ambiguous across businesses. A Louth company match remains unverified."
+  }
+}
