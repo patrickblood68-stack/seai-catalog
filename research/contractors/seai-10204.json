@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10204",
+  "listing_reference": "SEAI contractor ID 10204",
+  "trading_name": "SHBC Limited",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "External Insulation",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Shbc Limited",
+    "cro_number": "319126",
+    "registered_status": "Normal",
+    "incorporated_on": "2000-01-24",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Shbc-Limited-319126",
+      "checked_on": "2026-11-20"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-20",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}
