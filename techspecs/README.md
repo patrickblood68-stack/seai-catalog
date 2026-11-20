@@ -32,7 +32,7 @@ Reuse permission remains unverified.
 
 ## Xiaomi candidate review
 
-The supplied Xiaomi products-and-photos bundle identifies candidates. The catalogue currently contains 24 phones, six tablets, four wearables and one set of earbuds, with model-specific official specifications and a downloaded primary image per record.
+The supplied Xiaomi products-and-photos bundle identifies candidates. The catalogue currently contains 24 phones, eight tablets, four wearables and one set of earbuds, with model-specific official specifications and a downloaded primary image per record.
 
 On 20 November 2026 the following bundle phone candidates were checked:
 
@@ -43,4 +43,4 @@ On 20 November 2026 the following bundle phone candidates were checked:
 | Xiaomi 17 Pro Max | [China specification route](https://www.mi.com/prod/xiaomi-17-pro-max/specs) | The retrieved page identified the model. The technical table and its associated product imagery still need verification. |
 | Xiaomi 12T, Xiaomi 12 Lite | [Xiaomi Security Center](https://trust.mi.com/misrc/updates/phone?tab=aerdata) | Listed security-update end dates of August 2026 and March 2026 respectively. Excluded. |
 
-The China-market phone candidates remain outside the catalogue pending sufficient model-specific specs and exact-model images. Check the remaining older phones against Xiaomi's support listings. REDMI Pad 2, REDMI Pad 2 Pro and REDMI Pad 2 Pro 5G have been verified. The tested UK specifications routes for REDMI Pad 2 9.7 and Xiaomi Pad Mini returned Xiaomi’s error page. Check official global routes for these two models.
+The China-market phone candidates remain outside the catalogue pending sufficient model-specific specs and exact-model images. Check the remaining older phones against Xiaomi's support listings. REDMI Pad 2, REDMI Pad 2 Pro and REDMI Pad 2 Pro 5G have been verified. REDMI Pad 2 9.7 and Xiaomi Pad Mini have been verified against global specifications. All eight supplied tablet candidates now have records. Continue with the remaining wearables and audio candidates, then review the computers, displays, speakers and accessories.

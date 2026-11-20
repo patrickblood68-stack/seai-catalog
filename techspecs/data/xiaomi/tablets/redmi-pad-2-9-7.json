@@ -1,0 +1,161 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "family": "REDMI Pad 2",
+    "model": "REDMI Pad 2 9.7",
+    "model_slug": "redmi-pad-2-9-7",
+    "variant": "Global specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/global/product/redmi-pad-2-9-7-inch/specs/",
+    "source_file": "sources/xiaomi/tablets/redmi-pad-2-9-7-source.md",
+    "source_title": "REDMI Pad 2 9.7 global specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-20",
+    "verification_status": "partially_verified",
+    "verification_notes": "Global Wi-Fi configuration. Wi-Fi capability varies with region and local network support."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-20"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-9-7-source.md",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-9-7-inch/specs/",
+      "source_text": "- Chipset: Snapdragon 6s 4G Gen 2 Mobile Platform\n- Process node: 6 nm"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-9-7-source.md",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-9-7-inch/specs/",
+      "source_text": "- Diagonal: 9.7 inches\n- Resolution width: 2048 px\n- Resolution height: 1280 px\n- Refresh rate max: 120 Hz\n- Aspect ratio: 16:10"
+    },
+    {
+      "heading": "Battery & Charging",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-9-7-source.md",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-9-7-inch/specs/",
+      "source_text": "- Typical capacity: 7600 mAh\n- Wired charging max: 18 W"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-9-7-source.md",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-9-7-inch/specs/",
+      "source_text": "- Wifi: Wi-Fi 5\n- Bluetooth version: 5.0"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-9-7-source.md",
+      "source_url": "https://www.mi.com/global/product/redmi-pad-2-9-7-inch/specs/",
+      "source_text": "- Height: 226.51 mm\n- Width: 147.97 mm\n- Depth: 7.4 mm\n- Weight: 406 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Snapdragon 6s 4G Gen 2 Mobile Platform",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 6,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 9.7,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2048,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1280,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "aspect_ratio": {
+        "value": "16:10",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 7600,
+        "unit": "mAh",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 18,
+        "unit": "W",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 5",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 226.51,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 147.97,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 7.4,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 406,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
