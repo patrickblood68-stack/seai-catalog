@@ -29,3 +29,18 @@ dimensions, checksum, and rights status. When an exact SKU is listed it
 matches the cited product record. A model-level manufacturer render can
 illustrate a different finish or market version of the same model.
 Reuse permission remains unverified.
+
+## Xiaomi candidate review
+
+The supplied Xiaomi products-and-photos bundle identifies candidates. The catalogue currently contains 24 phones, two tablets, four wearables and one set of earbuds, with model-specific official specifications and a downloaded primary image per record.
+
+On 20 November 2026 the following bundle phone candidates were checked:
+
+| Candidate | Official evidence | Disposition |
+| --- | --- | --- |
+| Xiaomi 17 Max | [China specification route](https://www.mi.com/prod/xiaomi-17-max/specs) | The retrieved page identified the model. The technical table and its associated product imagery still need verification. |
+| Xiaomi 17 Pro | [China specification route](https://www.mi.com/prod/xiaomi-17-pro/specs) | The retrieved page identified the model. The technical table and its associated product imagery still need verification. |
+| Xiaomi 17 Pro Max | [China specification route](https://www.mi.com/prod/xiaomi-17-pro-max/specs) | The retrieved page identified the model. The technical table and its associated product imagery still need verification. |
+| Xiaomi 12T, Xiaomi 12 Lite | [Xiaomi Security Center](https://trust.mi.com/misrc/updates/phone?tab=aerdata) | Listed security-update end dates of August 2026 and March 2026 respectively. Excluded. |
+
+The China-market phone candidates remain outside the catalogue pending sufficient model-specific specs and exact-model images. Check the remaining older phones against Xiaomi's support listings. For tablet reconciliation, the bundle includes REDMI Pad 2 9.7, REDMI Pad 2, REDMI Pad 2 Pro, REDMI Pad 2 Pro 5G, Xiaomi Pad 7 and Xiaomi Pad Mini in addition to the two verified Pad 8 models.
