@@ -1,0 +1,185 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "smartphone",
+    "family": "Xiaomi 13",
+    "model": "Xiaomi 13",
+    "model_slug": "xiaomi-13",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+    "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+    "source_title": "Xiaomi 13 UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-20",
+    "verification_status": "partially_verified",
+    "verification_notes": "UK specifications. Camera resolutions describe sensor pixel counts. Capture resolution varies by mode."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-20"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+      "source_text": "- Chipset: Snapdragon 8 Gen 2 Mobile Platform\n- Process node: 4 nm\n- Gpu: Adreno"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+      "source_text": "- Diagonal: 6.36 inches\n- Type: AMOLED\n- Resolution width: 2400 px\n- Resolution height: 1080 px\n- Refresh rate max: 120 Hz\n- Peak brightness: 1900 nits"
+    },
+    {
+      "heading": "Rear Camera",
+      "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+      "source_text": "- Rear main resolution: 50 MP\n- Rear ultrawide resolution: 12 MP\n- Rear telephoto resolution: 10 MP"
+    },
+    {
+      "heading": "Front Camera",
+      "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+      "source_text": "- Front resolution: 32 MP"
+    },
+    {
+      "heading": "Battery & Charging",
+      "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+      "source_text": "- Typical capacity: 4500 mAh\n- Wired charging max: 67 W\n- Wireless charging max: 50 W"
+    },
+    {
+      "heading": "Network & Connectivity",
+      "source_file": "sources/xiaomi/phones/xiaomi-13-source.md",
+      "source_url": "https://www.mi.com/uk/product/xiaomi-13/specs/",
+      "source_text": "- Bluetooth version: 5.3\n- Cellular: 5G NR, 4G LTE, 3G and 2G"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Snapdragon 8 Gen 2 Mobile Platform",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 4,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "gpu": {
+        "value": "Adreno",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 6.36,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "type": {
+        "value": "AMOLED",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2400,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1080,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "peak_brightness": {
+        "value": 1900,
+        "unit": "nits",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "camera": {
+      "rear_main_resolution": {
+        "value": 50,
+        "unit": "MP",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      },
+      "front_resolution": {
+        "value": 32,
+        "unit": "MP",
+        "source_section": "Front Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_ultrawide_resolution": {
+        "value": 12,
+        "unit": "MP",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      },
+      "rear_telephoto_resolution": {
+        "value": 10,
+        "unit": "MP",
+        "source_section": "Rear Camera",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 4500,
+        "unit": "mAh",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 67,
+        "unit": "W",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      },
+      "wireless_charging_max": {
+        "value": 50,
+        "unit": "W",
+        "source_section": "Battery & Charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "bluetooth_version": {
+        "value": "5.3",
+        "unit": null,
+        "source_section": "Network & Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular": {
+        "value": "5G NR, 4G LTE, 3G and 2G",
+        "unit": null,
+        "source_section": "Network & Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
