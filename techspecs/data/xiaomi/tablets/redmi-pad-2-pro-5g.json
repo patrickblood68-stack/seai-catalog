@@ -1,0 +1,179 @@
+{
+  "schema_version": "2.0",
+  "product": {
+    "brand": "Xiaomi",
+    "category": "tablet",
+    "family": "REDMI Pad 2",
+    "model": "REDMI Pad 2 Pro 5G",
+    "model_slug": "redmi-pad-2-pro-5g",
+    "variant": "UK specification"
+  },
+  "source": {
+    "source_type": "manufacturer",
+    "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro-5g/specs/",
+    "source_file": "sources/xiaomi/tablets/redmi-pad-2-pro-5g-source.md",
+    "source_title": "REDMI Pad 2 Pro 5G UK specifications",
+    "publisher": "Xiaomi",
+    "checked_at": "2026-11-20",
+    "verification_status": "partially_verified",
+    "verification_notes": "UK specifications. Wi-Fi capability varies with region and local network support."
+  },
+  "extraction": {
+    "method": "structured_extraction",
+    "normalization_status": "partially_normalized",
+    "note": "Selected technical facts from the manufacturer specification page.",
+    "extracted_at": "2026-11-20"
+  },
+  "sections": [
+    {
+      "heading": "Processor",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro-5g/specs/",
+      "source_text": "- Chipset: Snapdragon 7s Gen 4 Mobile Platform\n- Process node: 4 nm\n- Cpu clock max: 2.7 GHz"
+    },
+    {
+      "heading": "Display",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro-5g/specs/",
+      "source_text": "- Diagonal: 12.1 inches\n- Resolution width: 2560 px\n- Resolution height: 1600 px\n- Refresh rate max: 120 Hz\n- Aspect ratio: 16:10"
+    },
+    {
+      "heading": "Battery & charging",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro-5g/specs/",
+      "source_text": "- Typical capacity: 12000 mAh\n- Wired charging max: 33 W"
+    },
+    {
+      "heading": "Connectivity",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro-5g/specs/",
+      "source_text": "- Wifi: Wi-Fi 6\n- Usb: USB 2.0\n- Bluetooth version: 5.4\n- Cellular: 5G"
+    },
+    {
+      "heading": "Dimensions",
+      "source_file": "sources/xiaomi/tablets/redmi-pad-2-pro-5g-source.md",
+      "source_url": "https://www.mi.com/uk/product/redmi-pad-2-pro-5g/specs/",
+      "source_text": "- Height: 279.8 mm\n- Width: 181.65 mm\n- Depth: 7.5 mm\n- Weight: 600 g"
+    }
+  ],
+  "normalized_specifications": {
+    "processor": {
+      "chipset": {
+        "value": "Snapdragon 7s Gen 4 Mobile Platform",
+        "unit": null,
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "process_node": {
+        "value": 4,
+        "unit": "nm",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      },
+      "cpu_clock_max": {
+        "value": 2.7,
+        "unit": "GHz",
+        "source_section": "Processor",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "display": {
+      "diagonal": {
+        "value": 12.1,
+        "unit": "inches",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_width": {
+        "value": 2560,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "resolution_height": {
+        "value": 1600,
+        "unit": "px",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "refresh_rate_max": {
+        "value": 120,
+        "unit": "Hz",
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      },
+      "aspect_ratio": {
+        "value": "16:10",
+        "unit": null,
+        "source_section": "Display",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "battery": {
+      "typical_capacity": {
+        "value": 12000,
+        "unit": "mAh",
+        "source_section": "Battery & charging",
+        "verification_status": "source_transcribed"
+      },
+      "wired_charging_max": {
+        "value": 33,
+        "unit": "W",
+        "source_section": "Battery & charging",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "connectivity": {
+      "wifi": {
+        "value": "Wi-Fi 6",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "usb": {
+        "value": "USB 2.0",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "bluetooth_version": {
+        "value": "5.4",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      },
+      "cellular": {
+        "value": "5G",
+        "unit": null,
+        "source_section": "Connectivity",
+        "verification_status": "source_transcribed"
+      }
+    },
+    "dimensions": {
+      "height": {
+        "value": 279.8,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "width": {
+        "value": 181.65,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "depth": {
+        "value": 7.5,
+        "unit": "mm",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      },
+      "weight": {
+        "value": 600,
+        "unit": "g",
+        "source_section": "Dimensions",
+        "verification_status": "source_transcribed"
+      }
+    }
+  }
+}
