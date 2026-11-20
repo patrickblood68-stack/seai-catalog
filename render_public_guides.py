@@ -11,6 +11,28 @@ from render_individual_contractors import ROUTE, render_individual_contractors
 OUTPUT = Path("dist")
 SITEMAP_NAMESPACE = "http://www.sitemaps.org/schemas/sitemap/0.9"
 TOPIC_MARKER = "<!-- TOPIC_GUIDES -->"
+FINDER_ROUTE = "/grant-finder/"
+FINDER_TOPICS = {
+    "Insulation and windows": (
+        "individual-grants-attic-insulation", "individual-grants-wall-insulation",
+        "individual-grants-windows-and-doors",
+    ),
+    "Heating and solar": (
+        "individual-grants-heat-pump-systems", "individual-grants-solar-electricity-grant",
+        "individual-grants-solar-water-heating-grant", "individual-grants-battery",
+    ),
+    "Whole-home upgrades": (
+        "one-stop-shop", "one-stop-shop-multiple-energy-upgrades",
+        "one-stop-shop-home-energy-assessments", "one-stop-shop-traditional-homes",
+    ),
+    "Funding and eligibility": (
+        "home-energy-grants", "individual-grants", "individual-grants-support-for-individual-grants",
+        "fully-funded-upgrades-for-certain-homeowners", "fully-funded-upgrades-for-eligible-homes",
+        "home-energy-upgrade-loan", "eeos-homeowners", "supports-for-landlords",
+        "defective-concrete-blocks", "vacant-derelict-homes",
+        "homeowners-in-receipt-of-certain-department-of-social-protection-payments",
+    ),
+}
 
 
 def load(path):
@@ -79,6 +101,34 @@ def guide_html(title, record):
 """
 
 
+def finder_html(sources, guide_ids):
+    options = []
+    cards = []
+    for topic, source_ids in FINDER_TOPICS.items():
+        topic = escape(topic)
+        options.append(f'<option value="{topic}">{topic}</option>')
+        for source_id in source_ids:
+            source = sources[source_id]
+            title = escape(source["title"])
+            description = escape(source["description"] or "")
+            url = escape(source["sourceUrl"])
+            keywords = escape(" ".join(heading["title"] for heading in source["headings"]))
+            guide = (
+                f'<a href="/guides/{source_id}/">Read the local guide</a>'
+                if source_id in guide_ids else ""
+            )
+            cards.append(
+                f'<li class="card" data-topic="{topic}" data-keywords="{keywords}">'
+                f'<small>{topic}</small><h2>{title}</h2><p>{description}</p>'
+                f'<footer><a href="{url}" aria-label="Official SEAI guidance for {title}">'
+                f'Official SEAI guidance</a>{guide}</footer></li>'
+            )
+    template = Path("public/grant-finder.html").read_text(encoding="utf-8")
+    return template.replace("<!-- TOPICS -->", "\n".join(options)).replace(
+        "<!-- RESULTS -->", "\n".join(cards)
+    )
+
+
 def render():
     catalog = load("catalog.json")
     evidence = load(catalog["evidence"]["records"])
@@ -89,8 +139,17 @@ def render():
     origin = sitemap.getroot().findtext(f"{namespace}url/{namespace}loc").rstrip("/")
     render_directory(OUTPUT)
     render_individual_contractors(OUTPUT)
+    finder = OUTPUT / FINDER_ROUTE.strip("/")
+    finder.mkdir(parents=True, exist_ok=True)
+    guide_ids = {record["sourcePageId"] for record in evidence}
+    (finder / "index.html").write_text(finder_html(sources, guide_ids), encoding="utf-8")
+    url = ElementTree.SubElement(sitemap.getroot(), f"{namespace}url")
+    ElementTree.SubElement(url, f"{namespace}loc").text = origin + FINDER_ROUTE
     route = "/contractors/"
-    links = [f'<li><a href="{route}">Find a contractor or One Stop Shop</a></li>']
+    links = [
+        f'<li><a href="{FINDER_ROUTE}">Find a home energy grant</a></li>',
+        f'<li><a href="{route}">Find a contractor or One Stop Shop</a></li>',
+    ]
     url = ElementTree.SubElement(sitemap.getroot(), f"{namespace}url")
     ElementTree.SubElement(url, f"{namespace}loc").text = origin + route
     url = ElementTree.SubElement(sitemap.getroot(), f"{namespace}url")

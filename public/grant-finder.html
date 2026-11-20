@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en-IE">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find official SEAI guidance for home energy upgrades in Ireland.">
+  <title>Home energy grant finder</title>
+  <style>
+    :root { color-scheme: light; font: 100%/1.5 system-ui, sans-serif; color: #16342a; background: #f2f5ed; }
+    * { box-sizing: border-box; }
+    body { margin: 0; }
+    main { max-width: 69rem; margin: auto; padding: 1.25rem clamp(1rem, 4vw, 3rem) 4rem; }
+    nav { margin-bottom: 2rem; }
+    header { background: #173e31; color: #fff; padding: clamp(1.5rem, 5vw, 3.5rem); border-radius: 1rem; }
+    h1 { margin: 0; max-width: 15ch; font-size: clamp(2.35rem, 6vw, 4rem); line-height: 1.04; letter-spacing: -.045em; }
+    header p { max-width: 56ch; margin-bottom: 0; color: #e1eee4; }
+    .controls { display: flex; flex-wrap: wrap; align-items: end; gap: 1rem; margin-top: 2rem; }
+    .controls[hidden] { display: none; }
+    label { display: grid; gap: .35rem; font-weight: 650; }
+    label:first-child { flex: 2 1 18rem; }
+    label:nth-child(2) { flex: 1 1 13rem; }
+    input, select, button { font: inherit; color: inherit; background: #fff; border: 1px solid #738a7b; border-radius: .45rem; min-height: 2.75rem; padding: .5rem .8rem; }
+    button { cursor: pointer; }
+    a { color: #17533b; text-underline-offset: .2em; }
+    :focus-visible { outline: 3px solid #8d570e; outline-offset: 3px; }
+    .results { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); gap: 1rem; padding: 0; list-style: none; }
+    .card { display: flex; flex-direction: column; background: #fff; border: 1px solid #ccd8cc; border-radius: .85rem; padding: 1.2rem; }
+    .card[hidden] { display: none; }
+    .card h2 { margin: .3rem 0; font-size: 1.25rem; line-height: 1.25; }
+    .card p { margin: .35rem 0 .85rem; }
+    .card small { color: #476054; font-weight: 650; }
+    .card footer { display: flex; flex-wrap: wrap; gap: .4rem 1rem; margin-top: auto; }
+  </style>
+</head>
+<body>
+  <main>
+    <nav aria-label="Home energy guides"><a href="/#guides">All home energy guides</a></nav>
+    <header>
+      <h1>Home energy grant finder</h1>
+      <p>Find official SEAI guidance for upgrading a home in Ireland. Check the linked SEAI page for current grant amounts, eligibility and how to apply.</p>
+    </header>
+    <section class="controls" aria-label="Filter grant guidance" hidden>
+      <label>Search <input type="search" id="search" placeholder="Try attic insulation or solar"></label>
+      <label>Topic
+        <select id="topic">
+          <option value="">All topics</option>
+          <!-- TOPICS -->
+        </select>
+      </label>
+      <button type="button" id="reset">Clear filters</button>
+    </section>
+    <p id="count" role="status"></p>
+    <ul class="results" aria-label="Grant guidance">
+      <!-- RESULTS -->
+    </ul>
+  </main>
+  <script>
+    const search = document.querySelector('#search');
+    const topic = document.querySelector('#topic');
+    const count = document.querySelector('#count');
+    const cards = [...document.querySelectorAll('.card')];
+    const entries = cards.map(card => ({
+      card,
+      text: `${card.querySelector('h2').textContent} ${card.querySelector('p').textContent} ${card.dataset.keywords}`.toLowerCase()
+    }));
+
+    function filter() {
+      const words = search.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+      let visible = 0;
+      for (const { card, text } of entries) {
+        card.hidden = Boolean(topic.value && topic.value !== card.dataset.topic)
+          || !words.every(word => text.includes(word));
+        visible += Number(!card.hidden);
+      }
+      count.textContent = visible
+        ? `${visible} ${visible === 1 ? 'result' : 'results'}`
+        : 'No results. Try a different search or clear the filters.';
+    }
+
+    search.addEventListener('input', filter);
+    topic.addEventListener('change', filter);
+    document.querySelector('#reset').addEventListener('click', () => {
+      search.value = '';
+      topic.value = '';
+      filter();
+      search.focus();
+    });
+    filter();
+    document.querySelector('.controls').hidden = false;
+  </script>
+</body>
+</html>
