@@ -10,10 +10,24 @@
     * { box-sizing: border-box; }
     body { margin: 0; }
     main { max-width: 69rem; margin: auto; padding: 1.25rem clamp(1rem, 4vw, 3rem) 4rem; }
-    nav { margin-bottom: 2rem; }
+    nav { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; margin-bottom: 1.5rem; }
     header { background: #173e31; color: #fff; padding: clamp(1.5rem, 5vw, 3.5rem); border-radius: 1rem; }
     h1 { margin: 0; max-width: 15ch; font-size: clamp(2.35rem, 6vw, 4rem); line-height: 1.04; letter-spacing: -.045em; }
     header p { max-width: 56ch; margin-bottom: 0; color: #e1eee4; }
+    .routes { max-width: 49rem; margin: 2rem auto 0; }
+    .routes h2 { margin-bottom: .25rem; font-size: clamp(1.45rem, 4vw, 2rem); letter-spacing: -.025em; }
+    .routes > p { margin: 0 0 1.25rem; color: #415c50; }
+    .route { margin: .7rem 0; border: 1px solid #aebfb2; border-radius: .85rem; background: #fff; }
+    .route[open] { border-color: #43785d; box-shadow: 0 3px 12px #16342a14; }
+    .route summary { cursor: pointer; padding: 1rem 1.2rem; font-weight: 700; }
+    .route summary::marker { color: #3b6b52; }
+    .route summary span { display: block; margin: .2rem 0 0 1.05rem; font-weight: 400; color: #415c50; }
+    .route-body { border-top: 1px solid #dce6dd; padding: .8rem 1.25rem 1.25rem; }
+    .route-body p { margin: .45rem 0 .9rem; }
+    .route-body h3 { margin: .35rem 0; font-size: 1.16rem; }
+    .action { display: inline-block; padding: .65rem .9rem; border-radius: .45rem; background: #20543e; color: #fff; font-weight: 650; }
+    .secondary { margin: 2rem auto 0; border-top: 1px solid #aebfb2; padding-top: 1rem; }
+    .secondary > summary { cursor: pointer; color: #17533b; font-weight: 650; }
     .controls { display: flex; flex-wrap: wrap; align-items: end; gap: 1rem; margin-top: 2rem; }
     .controls[hidden] { display: none; }
     label { display: grid; gap: .35rem; font-weight: 650; }
@@ -34,25 +48,68 @@
 </head>
 <body>
   <main>
-    <nav aria-label="Home energy guides"><a href="/#guides">All home energy guides</a></nav>
+    <nav aria-label="Home energy resources">
+      <a href="/#guides">Home energy guides</a>
+      <a href="/contractors/">Find a contractor</a>
+    </nav>
     <header>
-      <h1>Home energy grant finder</h1>
-      <p>Find official SEAI guidance for upgrading a home in Ireland. Check the linked SEAI page for current grant amounts, eligibility and how to apply.</p>
+      <h1>Find your home energy grant route</h1>
+      <p>Choose what you’re planning and get a starting point for upgrading your home in Ireland.</p>
     </header>
-    <section class="controls" aria-label="Filter grant guidance" hidden>
-      <label>Search <input type="search" id="search" placeholder="Try attic insulation or solar"></label>
-      <label>Topic
-        <select id="topic">
-          <option value="">All topics</option>
-          <!-- TOPICS -->
-        </select>
-      </label>
-      <button type="button" id="reset">Clear filters</button>
+    <section class="routes" aria-labelledby="route-title">
+      <h2 id="route-title">What are you planning?</h2>
+      <p>Choose the option that fits your situation best.</p>
+      <details class="route" name="grant-route">
+        <summary>One specific upgrade <span>Attic insulation, windows, a heat pump or solar panels</span></summary>
+        <div class="route-body">
+          <h3>Start with an individual energy grant</h3>
+          <p>Find the grant for the work you have in mind. Check the conditions and application steps before agreeing a start date with a contractor.</p>
+          <a class="action" href="https://www.seai.ie/grants/home-energy-grants/individual-grants">Check individual grants on SEAI</a>
+        </div>
+      </details>
+      <details class="route" name="grant-route">
+        <summary>Several upgrades together <span>A bigger retrofit with one provider coordinating the work</span></summary>
+        <div class="route-body">
+          <h3>Start with a One Stop Shop</h3>
+          <p>Compare providers and ask how they would assess your home, plan the work and handle the grant application.</p>
+          <a class="action" href="https://www.seai.ie/grants/home-energy-grants/one-stop-shop">See how One Stop Shops work</a>
+        </div>
+      </details>
+      <details class="route" name="grant-route">
+        <summary>I need help paying for upgrades <span>Check the fully funded route if you receive a qualifying payment</span></summary>
+        <div class="route-body">
+          <h3>Check the Warmer Homes Scheme first</h3>
+          <p>Check whether your household and home meet the scheme’s conditions before choosing an upgrade or hiring a contractor.</p>
+          <a class="action" href="https://www.seai.ie/grants/home-energy-grants/fully-funded-upgrades-for-eligible-homes">Check Warmer Homes eligibility</a>
+        </div>
+      </details>
+      <details class="route" name="grant-route">
+        <summary>I’m unsure what work I need <span>Get advice before deciding which upgrade to do</span></summary>
+        <div class="route-body">
+          <h3>Start by assessing your home</h3>
+          <p>Read what a home energy assessment covers so you can discuss which improvements make sense for your home and budget.</p>
+          <a class="action" href="/guides/one-stop-shop-home-energy-assessments/">Read the home energy assessment guide</a>
+        </div>
+      </details>
+      <p>Check current grant amounts, eligibility and application steps with SEAI before committing to work.</p>
     </section>
-    <p id="count" role="status"></p>
-    <ul class="results" aria-label="Grant guidance">
-      <!-- RESULTS -->
-    </ul>
+    <details class="secondary">
+      <summary>Search all grant guidance</summary>
+      <section class="controls" aria-label="Filter grant guidance" hidden>
+        <label>Search <input type="search" id="search" placeholder="Try attic insulation or solar"></label>
+        <label>Topic
+          <select id="topic">
+            <option value="">All topics</option>
+            <!-- TOPICS -->
+          </select>
+        </label>
+        <button type="button" id="reset">Clear filters</button>
+      </section>
+      <p id="count" role="status"></p>
+      <ul class="results" aria-label="Grant guidance">
+        <!-- RESULTS -->
+      </ul>
+    </details>
   </main>
   <script>
     const search = document.querySelector('#search');
