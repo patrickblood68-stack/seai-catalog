@@ -4,10 +4,13 @@ from hashlib import sha256
 from html import escape
 import json
 from pathlib import Path
+from urllib.parse import quote, urlsplit
 
 ROOT = Path(__file__).resolve().parent
 REGISTER = ROOT / "registers"
 SCHEMA = ROOT / "schemas" / "contractor-profile-v1.json"
+RESEARCH = ROOT / "research" / "contractors"
+CONTACT_FIELDS = ("website", "phone", "email", "quote_url")
 ONE_STOP_SOURCES = {
     "registered": "https://www.seai.ie/find-grants-and-contractors/find-contractors/registered-one-stop-shops",
     "participating": "https://www.seai.ie/grants/find-a-registered-professional/energy-partners",
@@ -58,6 +61,65 @@ def records():
             )
 
 
+def research_records(profile_ids):
+    research = {}
+    for path in sorted(RESEARCH.glob("*.json")):
+        record = read(path)
+        key = record["contractor_id"]
+        if key != path.stem or key not in profile_ids:
+            raise ValueError(f"{path.name} does not match a known contractor profile ID")
+        research[key] = record
+    return research
+
+
+def add_business_details(profile, research, preview):
+    if not research or (not preview and research["workflow"]["status"] != "published"):
+        return
+    researched = research["business"]
+    contact = {field: researched[field] for field in CONTACT_FIELDS if researched.get(field)}
+    if not contact:
+        return
+
+    business = profile["business"]
+    known_urls = {source["url"] for source in business["sources"]}
+    for source in researched.get("sources", []):
+        if source["url"] not in known_urls:
+            business["sources"].append(source)
+            known_urls.add(source["url"])
+    business.update(contact)
+    if research["workflow"]["status"] == "published":
+        profile["workflow"] = {
+            "status": "published", "published_on": research["workflow"]["published_on"],
+        }
+
+
+def web_link(url, label):
+    if not url or urlsplit(url).scheme not in {"http", "https"} or not urlsplit(url).hostname:
+        return ""
+    return f'<a href="{escape(url, quote=True)}">{escape(label)}</a>'
+
+
+def render_contacts(business):
+    email = business.get("email")
+    email_link = f'<a href="mailto:{quote(email, safe="@")}">{escape(email)}</a>' if email else ""
+    details = {
+        "Website": web_link(business.get("website"), "Visit website"),
+        "Email": email_link,
+        "Phone": escape(business.get("phone", "")),
+        "Quotes": web_link(business.get("quote_url"), "Request a quote"),
+    }
+    fields = "".join(f"<dt>{label}</dt><dd>{value}</dd>" for label, value in details.items() if value)
+    if not fields:
+        return ""
+    sources = []
+    for source in business["sources"][1:]:
+        link = web_link(source["url"], urlsplit(source["url"]).hostname or "Source")
+        if link:
+            sources.append(f"<li>{link} · checked {escape(source['checked_on'])}</li>")
+    provenance = "<ul>" + "".join(sources) + "</ul>" if sources else ""
+    return f"<section><h2>Business contact</h2><dl>{fields}</dl>{provenance}</section>"
+
+
 def profile_href(key):
     return f"/contractors/profiles/{key}/"
 
@@ -91,6 +153,7 @@ dt {{font-weight: bold; margin-top: .75rem;}} dd {{margin: 0;}}
 </style></head>
 <body><main><nav><a href="/contractors/">Contractor directory</a></nav>
 <article><h1>{name}</h1><dl>{fields}</dl>
+{render_contacts(business)}
 <p><a href="{escape(source['url'])}">SEAI register</a> · checked {escape(source['checked_on'])}</p></article>
 </main></body></html>
 """, encoding="utf-8")
@@ -100,15 +163,26 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=Path("dist"))
     parser.add_argument("--check", action="store_true", help="Validate records without writing files")
+    parser.add_argument("--preview-research", action="store_true",
+                        help="Include draft business contacts in a local review build")
     args = parser.parse_args()
     profiles = list(records())
-    if len({row["contractor_id"] for row in profiles}) != len(profiles):
+    profile_ids = {row["contractor_id"] for row in profiles}
+    if len(profile_ids) != len(profiles):
         raise ValueError("Duplicate contractor profile ID")
+    research = research_records(profile_ids)
+    for row in profiles:
+        add_business_details(row, research.get(row["contractor_id"]), args.preview_research)
     if args.check:
-        from jsonschema import Draft202012Validator, FormatChecker
+        from jsonschema import Draft202012Validator, FormatChecker, ValidationError
         schema = read(SCHEMA)
         Draft202012Validator.check_schema(schema)
         validator = Draft202012Validator(schema, format_checker=FormatChecker())
+        for key, record in research.items():
+            try:
+                validator.validate(record)
+            except ValidationError as error:
+                raise ValueError(f"Invalid contractor research record {key}") from error
         for row in profiles:
             validator.validate(row)
     else:

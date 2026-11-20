@@ -29,3 +29,13 @@ that appears in multiple lists keeps a record for each listing.
 The generated profiles contain SEAI snapshot information. Their company match
 and review status start at `unmatched` and `to_check`. SoloCheck enrichment
 requires a confirmed company match and is a separate review step.
+
+
+Research records in `research/contractors/` are validated by `--check` and joined
+by contractor ID. The normal build adds business contact fields and source links
+from records with workflow status `published`. Register fields are taken from the
+snapshots, and company matching and review notes stay in the research files.
+
+To review contact details before publishing, run
+`python contractor_profiles.py --preview-research --output /tmp/seai-profile-review`
+and open the generated contractor pages locally.
