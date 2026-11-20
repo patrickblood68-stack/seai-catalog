@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10159",
+  "listing_reference": "SEAI contractor ID 10159",
+  "trading_name": "Energy Efficient Solutions",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-20",
+    "review_notes": "No authoritative link between the SEAI listing and a legal company or official contact source was established."
+  }
+}
