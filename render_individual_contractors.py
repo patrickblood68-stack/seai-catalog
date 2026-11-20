@@ -3,6 +3,8 @@ from html import escape
 import json
 from pathlib import Path
 
+from contractor_profiles import profile_href
+
 SNAPSHOT = Path("registers/individual-contractors.json")
 ROUTE = "/contractors/individual/"
 
@@ -24,10 +26,12 @@ def render_individual_contractors(output):
         upgrades = contractor["measures"]
         service_areas.update(areas)
         measures.update(upgrades)
-        cells = [contractor["id"], contractor["name"], contractor["locatedIn"], ", ".join(areas), ", ".join(upgrades)]
+        href = profile_href("seai-" + escape(contractor["id"]))
+        name = escape(contractor["name"])
+        cells = [escape(contractor["id"]), f'<a href="{href}">{name}</a>', escape(contractor["locatedIn"]), escape(", ".join(areas)), escape(", ".join(upgrades))]
         rows.append(
             f'<tr data-areas="{escape("|".join(areas))}" data-measures="{escape("|".join(upgrades))}">'
-            + "".join(f"<td>{escape(cell)}</td>" for cell in cells) + "</tr>"
+            + "".join(f"<td>{cell}</td>" for cell in cells) + "</tr>"
         )
     table = "\n".join(rows)
     area_filter = filter_select("Service area", service_areas, "areas")

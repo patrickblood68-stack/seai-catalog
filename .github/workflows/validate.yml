@@ -12,3 +12,5 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install -r requirements.txt
       - run: python validate.py
+      - run: python contractor_profiles.py --check
+      - run: sh build-cloudflare.sh
