@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11361",
+  "listing_reference": "SEAI contractor ID 11361",
+  "trading_name": "BCBAL Ltd T/A McGee Insulation",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Bcbal Limited",
+    "cro_number": "587220",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Bcbal-Limited-587220",
+      "checked_on": "2026-11-21"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email remains unverified."
+  }
+}

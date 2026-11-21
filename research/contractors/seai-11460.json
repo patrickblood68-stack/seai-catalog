@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11460",
+  "listing_reference": "SEAI contractor ID 11460",
+  "trading_name": "Marcoy Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Marcoy Limited",
+    "cro_number": "413221",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Marcoy-Limited-413221",
+      "checked_on": "2026-11-21"
+    },
+    "incorporated_on": "2006-01-04",
+    "other_irish_directorships": 0,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email remains unverified."
+  }
+}
