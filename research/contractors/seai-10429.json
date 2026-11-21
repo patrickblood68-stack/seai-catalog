@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10429",
+  "listing_reference": "SEAI contractor ID 10429",
+  "trading_name": "Seamus Friel & Sons Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Seamus Friel & Sons Limited",
+    "cro_number": "275339",
+    "registered_status": "Normal",
+    "incorporated_on": "1997-11-12",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 4,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Seamus-Friel-And-Sons-Limited-275339",
+      "checked_on": "2026-11-21"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}
