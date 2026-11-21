@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10364",
+  "listing_reference": "SEAI contractor ID 10364",
+  "trading_name": "Newbridge Heating Centre Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://newbridgeheating.ie/contact/",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://newbridgeheating.ie/",
+    "email": "info@newbridgeheating.ie",
+    "phone": "045 449236"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Newbridge Heating Centre Limited",
+    "cro_number": "241065",
+    "registered_status": "Normal",
+    "incorporated_on": "1995-11-20",
+    "registered_address": {
+      "text": "Kildare",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Newbridge-Heating-Centre-Limited-241065",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 3
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

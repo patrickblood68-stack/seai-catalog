@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10349",
+  "listing_reference": "SEAI contractor ID 10349",
+  "trading_name": "Alternative Heating & Cooling Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.ahac.ie/contact-us",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://www.ahac.ie/",
+    "email": "info@ahac.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Alternative Heating and Cooling Limited",
+    "cro_number": "344532",
+    "registered_status": "Normal",
+    "incorporated_on": "2001-06-18",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Alternative-Heating-And-Cooling-Limited-344532",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

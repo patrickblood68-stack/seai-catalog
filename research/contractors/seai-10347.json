@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10347",
+  "listing_reference": "SEAI contractor ID 10347",
+  "trading_name": "Breen Heating and Plumbing Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "No verified link to a SoloCheck company summary or official contact source."
+  }
+}
