@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10578",
+  "listing_reference": "SEAI contractor ID 10578",
+  "trading_name": "Frank Moore Ltd",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only",
+      "Solar Heating"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Frank Moore Limited",
+    "cro_number": "147894",
+    "registered_status": "Normal",
+    "incorporated_on": "1989-07-25",
+    "registered_address": {
+      "text": "Kildare",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Frank-Moore-Limited-147894",
+      "checked_on": "2026-11-21"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}
