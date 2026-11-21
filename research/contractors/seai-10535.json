@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10535",
+  "listing_reference": "SEAI contractor ID 10535",
+  "trading_name": "NCE Insulation T/A Secure and Fix It Enterprises",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://nceinsulation.ie/contact-us/",
+        "checked_on": "2026-11-21"
+      },
+      {
+        "url": "https://www.solocheck.ie/Irish-Business/Nce-Insulation-349043",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://nceinsulation.ie/",
+    "phone": "+353 21 422 8101"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Secure and Fix It Enterprises Company Limited By Guarantee",
+    "cro_number": "343820",
+    "registered_status": "Normal",
+    "incorporated_on": "2001-05-31",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 17,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Secure-And-Fix-It-Enterprises-Company-Limited-By-Guarantee-343820",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 4
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
