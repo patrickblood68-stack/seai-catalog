@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11230",
+  "listing_reference": "SEAI contractor ID 11230",
+  "trading_name": "Eco Home Insulation",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Longford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://ecohomeinsulation.ie/contact/",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://ecohomeinsulation.ie/",
+    "email": "info@ecohomeinsulation.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Eco Home Insulation Limited",
+    "cro_number": "467980",
+    "incorporated_on": "2009-03-02",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Longford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Eco-Home-Insulation-Limited-467980",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
