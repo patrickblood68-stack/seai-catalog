@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11513",
+  "listing_reference": "SEAI contractor ID 11513",
+  "trading_name": "Clash Plumbing & Heating LTD",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://clashheating.ie/",
+        "checked_on": "2026-11-21"
+      },
+      {
+        "url": "https://companycheck.ie/company/519490",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://clashheating.ie/",
+    "email": "info@clashheating.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "Candidate company number 519490 matches the name and county. The SoloCheck company summary could not be verified."
+  }
+}
