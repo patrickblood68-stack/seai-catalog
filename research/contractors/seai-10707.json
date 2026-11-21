@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10707",
+  "listing_reference": "SEAI contractor ID 10707",
+  "trading_name": "Hughes and Co External Insulation",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Offaly",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://hughesinsulation.ie/contact/",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://hughesinsulation.ie/",
+    "email": "declan@hughesinsulation.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Hughes Insulation Limited",
+    "cro_number": "669763",
+    "registered_status": "Normal",
+    "incorporated_on": "2020-04-17",
+    "registered_address": {
+      "text": "Offaly",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Hughes-Insulation-Limited-669763",
+      "checked_on": "2026-11-21"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

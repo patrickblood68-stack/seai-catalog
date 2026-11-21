@@ -3,14 +3,18 @@ from html import escape
 import json
 from pathlib import Path
 
+from contractor_profiles import profile_href, shop_key
 
-def provider_table(title, providers, third_column=None):
+
+def provider_table(title, providers, group, third_column=None):
     rows = []
     for provider in sorted(providers, key=lambda row: row["name"].casefold()):
-        cells = [provider["name"], provider["coverage"]]
+        href = profile_href(shop_key(group, provider["name"]))
+        name = escape(provider["name"])
+        cells = [escape(provider["coverage"])]
         if third_column:
             cells.append("Yes" if provider["individualUpgrades"] else "No")
-        rows.append("<tr>" + "".join(f"<td>{escape(cell)}</td>" for cell in cells) + "</tr>")
+        rows.append(f'<tr><td><a href="{href}">{name}</a></td>' + "".join(f"<td>{cell}</td>" for cell in cells) + "</tr>")
     extra_heading = f"<th scope='col'>{third_column}</th>" if third_column else ""
     return (
         f"<section><h2>{title}</h2><p>{len(rows)} listings</p><table>"
@@ -21,8 +25,8 @@ def provider_table(title, providers, third_column=None):
 
 def render_directory(output):
     snapshot = json.loads(Path("registers/one-stop-shops.json").read_text(encoding="utf-8"))
-    registered = provider_table("Registered One Stop Shops", snapshot["registered"], "Individual upgrades")
-    participating = provider_table("Participating One Stop Shops for Better Energy Homes", snapshot["participating"])
+    registered = provider_table("Registered One Stop Shops", snapshot["registered"], "registered", "Individual upgrades")
+    participating = provider_table("Participating One Stop Shops for Better Energy Homes", snapshot["participating"], "participating")
     directory = output / "contractors"
     directory.mkdir(parents=True, exist_ok=True)
     (directory / "index.html").write_text(f"""<!doctype html>

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10311",
+  "listing_reference": "SEAI contractor ID 10311",
+  "trading_name": "Mardoc Holdings Limited",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://mardoc.ie/",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://mardoc.ie/"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mardoc Holdings Limited",
+    "cro_number": "454590",
+    "registered_status": "Normal",
+    "incorporated_on": "2008-03-12",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 25,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mardoc-Holdings-Limited-454590",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 1,
+    "shared_eircode": {
+      "count": 8,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

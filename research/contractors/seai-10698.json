@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10698",
+  "listing_reference": "SEAI contractor ID 10698",
+  "trading_name": "Flynn Heating Services",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only",
+      "Solar Heating"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "No company summary or official business contact source was verified."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10316",
+  "listing_reference": "SEAI contractor ID 10316",
+  "trading_name": "Byrne Gas & Electrical",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Waterford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://byrnegas.ie/contact",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://byrnegas.ie/",
+    "email": "info@byrnegas.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "Business website and location match. Current legal entity remains unverified."
+  }
+}

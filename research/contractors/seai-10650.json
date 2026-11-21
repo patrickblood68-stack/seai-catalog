@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10650",
+  "listing_reference": "SEAI contractor ID 10650",
+  "trading_name": "M Fox & WM O'Rourke Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://foxandorourkeconstructionltd.ie/contact/",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://foxandorourkeconstructionltd.ie/",
+    "email": "foxorourke20@gmail.com"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "Cork business website found. The precise legal entity and SoloCheck company summary remain unverified."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10032",
+  "listing_reference": "SEAI contractor ID 10032",
+  "trading_name": "PNA insulation Ltd T/A O'Loghlen Insulation Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Munster"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://qualified.ie/contractor/pna-insulation-ltd-t-a-o-loghlen-insulation-ltd-galway-10032/",
+        "checked_on": "2026-11-20"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "PNA Insulation Limited",
+    "cro_number": "725760",
+    "registered_status": "Normal",
+    "incorporated_on": "2022-09-12",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Pna-Insulation-Limited-725760",
+      "checked_on": "2026-11-20"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-20",
+    "review_notes": "SEAI names PNA Insulation Ltd as the legal entity. A separate O Loghlen Insulation Limited record exists. Contact details appeared in a third-party directory and need an official source. Director names and shared Eircode count remain unverified. Official business contact details remain unverified."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11082",
+  "listing_reference": "SEAI contractor ID 11082",
+  "trading_name": "Patrick Byrnes Plumbing & Heating",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Limerick",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "Trade directory result uses a different spelling. A legal entity and official business contact source remain unverified."
+  }
+}

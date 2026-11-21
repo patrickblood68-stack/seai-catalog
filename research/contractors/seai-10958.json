@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10958",
+  "listing_reference": "SEAI contractor ID 10958",
+  "trading_name": "Anthony Lynch Heating & Plumbing",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 5",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "No confirmed legal entity or official business contact source."
+  }
+}
