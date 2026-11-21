@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11056",
+  "listing_reference": "SEAI contractor ID 11056",
+  "trading_name": "Michael Phelan Oil & Gas Boiler Services",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Carlow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-21",
+    "review_notes": "No verified legal entity or current official business contact source was found."
+  }
+}
