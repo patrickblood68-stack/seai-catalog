@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14432",
+  "listing_reference": "SEAI contractor ID 14432",
+  "trading_name": "Eco Smart External Insulation Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Roscommon",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://ecosmart.ie/contact",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://ecosmart.ie/",
+    "email": "admin@ecosmart.ie",
+    "phone": "090 666 5832"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Eco Smart External Insulation Limited",
+    "cro_number": "525401",
+    "incorporated_on": "2013-03-22",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Roscommon",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 7,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Eco-Smart-External-Insulation-Limited-525401",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

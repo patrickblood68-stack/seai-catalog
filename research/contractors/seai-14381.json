@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14381",
+  "listing_reference": "SEAI contractor ID 14381",
+  "trading_name": "Pat Loftus Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Munster"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.voluntaryconstructionregister.ie/register/detail/pat-loftus-construction-limited",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://www.patloftusconstruction.ie/",
+    "email": "patloftusconstruction@gmail.com",
+    "phone": "090 9684954"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Pat Loftus Construction Limited",
+    "cro_number": "468105",
+    "incorporated_on": "2009-03-03",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 5,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Pat-Loftus-Construction-Limited-468105",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
