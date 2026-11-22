@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14712",
+  "listing_reference": "SEAI contractor ID 14712",
+  "trading_name": "Joe Dunican Plumbing And Heating Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Offaly",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Joe Dunican Plumbing and Heating Limited",
+    "cro_number": "585491",
+    "incorporated_on": "2016-07-04",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Offaly",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Joe-Dunican-Plumbing-And-Heating-Limited-585491",
+      "checked_on": "2026-11-22"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. No business contact details were verified from an official source."
+  }
+}

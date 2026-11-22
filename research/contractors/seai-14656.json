@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14656",
+  "listing_reference": "SEAI contractor ID 14656",
+  "trading_name": "Weglarz Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "The separate Weglarz Windows listing shares contact details in third-party directories. The legal entity for this listing is unverified. No business contact details were verified from an official source."
+  }
+}
