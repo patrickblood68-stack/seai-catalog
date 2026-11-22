@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13905",
+  "listing_reference": "SEAI contractor ID 13905",
+  "trading_name": "Mike Kelly Plumbing & Heating Limited",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mike Kelly Plumbing & Heating Limited",
+    "cro_number": "649946",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mike-Kelly-Plumbing-And-Heating-Limited-649946",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2019-05-14",
+    "other_irish_directorships": 1,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email and phone remain unverified."
+  }
+}
