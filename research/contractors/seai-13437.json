@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13437",
+  "listing_reference": "SEAI contractor ID 13437",
+  "trading_name": "Leahy Mechanical Contractors Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Limerick",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Leahy Mechanical Contractors Limited",
+    "cro_number": "379552",
+    "incorporated_on": "2003-12-17",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Limerick",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Leahy-Mechanical-Contractors-Limited-379552",
+      "checked_on": "2026-11-22"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contact details remain unverified."
+  }
+}
