@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14474",
+  "listing_reference": "SEAI contractor ID 14474",
+  "trading_name": "Damian Grehan Plumbing & Heating",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Roscommon",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "No matching SoloCheck company summary or official business contact source was verified."
+  }
+}
