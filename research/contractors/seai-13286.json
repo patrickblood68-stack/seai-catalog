@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13286",
+  "listing_reference": "SEAI contractor ID 13286",
+  "trading_name": "O B Contractors Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ob Contractors Limited",
+    "cro_number": "409038",
+    "incorporated_on": "2005-10-05",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ob-Contractors-Limited-409038",
+      "checked_on": "2026-11-22"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contact details remain unverified."
+  }
+}

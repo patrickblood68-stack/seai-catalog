@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13266",
+  "listing_reference": "SEAI contractor ID 13266",
+  "trading_name": "Glebelands Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 13",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://cro.ie/wp-content/uploads/2025/05/28-May-2025-Annual-Returns-Received.pdf",
+        "checked_on": "2026-11-22"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "CRO Gazette identifies a same-name company, 366142. SoloCheck summary and first-party contact details remain unverified."
+  }
+}

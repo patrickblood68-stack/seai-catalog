@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13330",
+  "listing_reference": "SEAI contractor ID 13330",
+  "trading_name": "Rael And Son (Contracts) Ltd",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Limerick",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Rael & Son (Contracts) Limited",
+    "cro_number": "344999",
+    "incorporated_on": "2001-06-28",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Limerick",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 10,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Rael-And-Son-Contracts-Limited-344999",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 8,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contact details remain unverified."
+  }
+}

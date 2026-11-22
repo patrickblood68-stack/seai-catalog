@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13276",
+  "listing_reference": "SEAI contractor ID 13276",
+  "trading_name": "Ecomax Construction Services Ltd",
+  "business": {
+    "services": [
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://ecomax.ie/get-in-touch/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://ecomax.ie/",
+    "email": "denis@ecomaxfacades.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ecomax Construction Services Limited",
+    "cro_number": "604148",
+    "incorporated_on": "2017-05-12",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ecomax-Construction-Services-Limited-604148",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
