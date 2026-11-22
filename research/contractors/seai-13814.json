@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13814",
+  "listing_reference": "SEAI contractor ID 13814",
+  "trading_name": "TLI Group Ltd T/A Transmission Links Ireland Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.tli.ie/contact-us/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://www.tli.ie/",
+    "email": "info@tli.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Tli Group Limited",
+    "cro_number": "318301",
+    "incorporated_on": "2000-01-11",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 7,
+    "shareholders": 3,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Tli-Group-Limited-318301",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 5
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
