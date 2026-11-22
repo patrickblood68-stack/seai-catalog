@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13642",
+  "listing_reference": "SEAI contractor ID 13642",
+  "trading_name": "Lyons Insulations Ltd",
+  "business": {
+    "services": [
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Lyons Insulations Limited",
+    "cro_number": "541030",
+    "incorporated_on": "2014-03-13",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Wicklow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 3,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Lyons-Insulations-Limited-541030",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 2,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}
