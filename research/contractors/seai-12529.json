@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12529",
+  "listing_reference": "SEAI contractor ID 12529",
+  "trading_name": "Complete Insulations and Energy Upgrades Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.completeinsulations.ie/contact/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://www.completeinsulations.ie/",
+    "email": "admin@completeinsulations.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Complete Insulations and Energy Upgrades Limited",
+    "cro_number": "553952",
+    "incorporated_on": "2014-12-09",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Complete-Insulations-And-Energy-Upgrades-Limited-553952",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 4,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
