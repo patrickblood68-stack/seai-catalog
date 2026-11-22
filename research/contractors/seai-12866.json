@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12866",
+  "listing_reference": "SEAI contractor ID 12866",
+  "trading_name": "Moran Builders",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.moranbuilders.ie/contact/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://www.moranbuilders.ie/",
+    "email": "kevin@moranbuilders.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "First-party business contact matches the SEAI listing. A similarly named Dublin company exists, but its link to the listing is unverified."
+  }
+}

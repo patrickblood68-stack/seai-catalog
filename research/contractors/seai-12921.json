@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12921",
+  "listing_reference": "SEAI contractor ID 12921",
+  "trading_name": "Sloane Plastering LTD",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Sloane Plastering Limited",
+    "cro_number": "487963",
+    "incorporated_on": "2010-08-20",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Sloane-Plastering-Limited-487963",
+      "checked_on": "2026-11-22"
+    },
+    "shareholders": 2,
+    "shared_eircode": {
+      "count": 128,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}
