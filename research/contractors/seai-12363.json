@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12363",
+  "listing_reference": "SEAI contractor ID 12363",
+  "trading_name": "Philip Loughran Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Ulster"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Philip Loughran Construction Limited",
+    "cro_number": "380575",
+    "incorporated_on": "2004-01-16",
+    "registered_status": "Dissolved",
+    "registered_address": {
+      "text": "Dublin 2",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Philip-Loughran-Construction-Limited-380575",
+      "checked_on": "2026-11-22"
+    },
+    "shared_eircode": {
+      "count": 496,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck reports that the exact-name company closed on 5 May 2025. A similarly named company also exists. Current business contact details remain unverified."
+  }
+}
