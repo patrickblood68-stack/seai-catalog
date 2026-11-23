@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16261",
+  "listing_reference": "SEAI contractor ID 16261",
+  "trading_name": "IRD Duhallow",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.irdduhallow.com/contact/",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://www.irdduhallow.com/",
+    "email": "duhallow@irdduhallow.com",
+    "phone": "029 60633"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ird Duhallow Company Limited By Guarantee",
+    "cro_number": "176369",
+    "incorporated_on": "1991-07-11",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 35,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ird-Duhallow-Company-Limited-By-Guarantee-176369",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 10
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
