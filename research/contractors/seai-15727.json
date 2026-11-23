@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15727",
+  "listing_reference": "SEAI contractor ID 15727",
+  "trading_name": "John O Donnell Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.voluntaryconstructionregister.ie/register/detail/john-odonnell-construction-limited",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "email": "jodconstructionltd@gmail.com",
+    "phone": "074 913 1370"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "John O'Donnell Construction Limited",
+    "cro_number": "345964",
+    "incorporated_on": "2001-07-26",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/John-Odonnell-Construction-Limited-345964",
+      "checked_on": "2026-11-23"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
