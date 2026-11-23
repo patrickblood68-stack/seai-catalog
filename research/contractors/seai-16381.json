@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16381",
+  "listing_reference": "SEAI contractor ID 16381",
+  "trading_name": "Eugene Costello Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Westmeath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Eugene Costello Construction Limited",
+    "cro_number": "432172",
+    "incorporated_on": "2006-12-20",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Westmeath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Eugene-Costello-Construction-Limited-432172",
+      "checked_on": "2026-11-23"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No business contact details were verified from an official source."
+  }
+}
