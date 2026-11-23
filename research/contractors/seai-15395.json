@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15395",
+  "listing_reference": "SEAI contractor ID 15395",
+  "trading_name": "Evertherm Ltd T/A Annalee Energy Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Cavan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Evertherm Limited",
+    "cro_number": "531934",
+    "incorporated_on": "2013-08-28",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Cavan",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Evertherm-Limited-531934",
+      "checked_on": "2026-11-23"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No current business contact details were verified from an official source."
+  }
+}

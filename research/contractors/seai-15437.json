@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15437",
+  "listing_reference": "SEAI contractor ID 15437",
+  "trading_name": "Mid Kerry Plumber Limited",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mid Kerry Plumber Limited",
+    "cro_number": "721807",
+    "incorporated_on": "2022-06-29",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mid-Kerry-Plumber-Limited-721807",
+      "checked_on": "2026-11-23"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No current business contact details were verified from an official source."
+  }
+}
