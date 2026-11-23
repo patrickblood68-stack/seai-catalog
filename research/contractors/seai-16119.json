@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16119",
+  "listing_reference": "SEAI contractor ID 16119",
+  "trading_name": "K&D Developments (Sligo) Ltd.",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Sligo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://kddevelopments.ie/contact-info/",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://kddevelopments.ie/",
+    "email": "info@kddevelopments.ie",
+    "phone": "071 930 4977"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "K & D Developments (Sligo) Limited",
+    "cro_number": "313128",
+    "incorporated_on": "1999-09-29",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Sligo",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 5,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/K-And-D-Developments-Sligo-Limited-313128",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 4
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
