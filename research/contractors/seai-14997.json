@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14997",
+  "listing_reference": "SEAI contractor ID 14997",
+  "trading_name": "Task Property Contracting Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "The matching-name company numbered 397378 was located. Its SoloCheck company summary was unavailable. No business contact details were verified from an official source."
+  }
+}

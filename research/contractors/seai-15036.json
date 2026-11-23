@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15036",
+  "listing_reference": "SEAI contractor ID 15036",
+  "trading_name": "Rosehill Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.rosehillconstruction.ie/contact",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://www.rosehillconstruction.ie/",
+    "email": "info@rosehillconstruction.ie",
+    "phone": "01 901 2614"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Rosehill Construction Limited",
+    "cro_number": "237161",
+    "incorporated_on": "1995-08-18",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Rosehill-Construction-Limited-237161",
+      "checked_on": "2026-11-23"
+    },
+    "shared_eircode": {
+      "count": 60,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
