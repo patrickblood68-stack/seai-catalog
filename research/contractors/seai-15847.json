@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15847",
+  "listing_reference": "SEAI contractor ID 15847",
+  "trading_name": "Brickwell Building Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Brickwell Building Limited",
+    "cro_number": "506147",
+    "incorporated_on": "2011-11-17",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Brickwell-Building-Limited-506147",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 2,
+    "shared_eircode": {
+      "count": 104,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No business contact details were verified from an official source."
+  }
+}
