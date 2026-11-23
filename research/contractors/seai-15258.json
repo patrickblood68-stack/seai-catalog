@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15258",
+  "listing_reference": "SEAI contractor ID 15258",
+  "trading_name": "Paul O'Brien",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "The connection between the individual SEAI listing and a similarly named plumbing company was unverified. No business contact details were verified from an official source."
+  }
+}
