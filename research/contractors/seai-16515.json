@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16515",
+  "listing_reference": "SEAI contractor ID 16515",
+  "trading_name": "Colm Corrigan Builders Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 20",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://colmcorriganbuilders.ie/contact-us/",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://colmcorriganbuilders.ie/",
+    "email": "info@colmcorriganbuilders.ie",
+    "phone": "087 984 2188"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Colm Corrigan Builders Limited",
+    "cro_number": "539725",
+    "incorporated_on": "2014-02-17",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Colm-Corrigan-Builders-Limited-539725",
+      "checked_on": "2026-11-23"
+    },
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

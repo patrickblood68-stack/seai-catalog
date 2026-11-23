@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16504",
+  "listing_reference": "SEAI contractor ID 16504",
+  "trading_name": "Grangebarry Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Tipperary",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://grangebarryconstruction.ie/",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://grangebarryconstruction.ie/",
+    "email": "office@grangebarryconstruction.ie",
+    "phone": "052 915 7835"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Grangebarry Construction Limited",
+    "cro_number": "602104",
+    "incorporated_on": "2017-04-10",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Tipperary",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Grangebarry-Construction-Limited-602104",
+      "checked_on": "2026-11-23"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
