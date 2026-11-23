@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15204",
+  "listing_reference": "SEAI contractor ID 15204",
+  "trading_name": "Kelly Insulation Heating & Plumbing",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.solocheck.ie/Irish-Business/Kelly-Insulation-Heating-And-Plumbing-456254",
+        "checked_on": "2026-11-23"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Daneglade Limited",
+    "cro_number": "492850",
+    "incorporated_on": "2010-12-16",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 8,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Daneglade-Limited-492850",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 3
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. SoloCheck identifies Daneglade Limited as the owner of the registered business name. No business contact details were verified from an official source."
+  }
+}
