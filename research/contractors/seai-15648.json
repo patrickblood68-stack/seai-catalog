@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15648",
+  "listing_reference": "SEAI contractor ID 15648",
+  "trading_name": "Eirgreen",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Insulation",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Laois",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.eirgreen.com/contact.html",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://www.eirgreen.com/",
+    "email": "eirgreen@gmail.com",
+    "phone": "057 868 8877"
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "The link between the Eirgreen insulation business and Eirgreen Consultants Limited remains unverified."
+  }
+}
