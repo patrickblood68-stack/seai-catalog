@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15537",
+  "listing_reference": "SEAI contractor ID 15537",
+  "trading_name": "LDS INTERIORS LTD",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Tipperary",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Lds Interiors Limited",
+    "cro_number": "383929",
+    "incorporated_on": "2004-03-29",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Tipperary",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 3,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Lds-Interiors-Limited-383929",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 2,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No business contact details were verified from an official source."
+  }
+}

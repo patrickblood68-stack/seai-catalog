@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15519",
+  "listing_reference": "SEAI contractor ID 15519",
+  "trading_name": "Carew Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Munster"
+    ],
+    "base_location": "Tipperary",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://carewconstructionltd.weebly.com/contact-us.html",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://carewconstructionltd.weebly.com/",
+    "phone": "062 60823"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Carew Construction Limited",
+    "cro_number": "563861",
+    "incorporated_on": "2015-06-29",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Tipperary",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Carew-Construction-Limited-563861",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
