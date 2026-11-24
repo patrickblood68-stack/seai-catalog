@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16949",
+  "listing_reference": "SEAI contractor ID 16949",
+  "trading_name": "Brian Healy Carpentry Ltd T/A Healy Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.healy-construction.ie/",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://www.healy-construction.ie/",
+    "email": "info@healy-construction.ie",
+    "phone": "086 856 2574"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Brian Healy Carpentry Limited",
+    "cro_number": "396864",
+    "incorporated_on": "2005-01-26",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Brian-Healy-Carpentry-Limited-396864",
+      "checked_on": "2026-11-24"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}
