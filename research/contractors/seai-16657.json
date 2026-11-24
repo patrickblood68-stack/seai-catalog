@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16657",
+  "listing_reference": "SEAI contractor ID 16657",
+  "trading_name": "Memel Building Solutions Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Ulster"
+    ],
+    "base_location": "Cavan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Memel Building Solutions Limited",
+    "cro_number": "578375",
+    "incorporated_on": "2016-03-03",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Cavan",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Memel-Building-Solutions-Limited-578375",
+      "checked_on": "2026-11-24"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address. No public business contact details were verified from an official source."
+  }
+}
