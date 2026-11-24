@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17045",
+  "listing_reference": "SEAI contractor ID 17045",
+  "trading_name": "Greenwatt Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Insulation",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Cavan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://greenwatt.ie/contact/",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://greenwatt.ie/",
+    "email": "info@greenwatt.ie",
+    "phone": "086 849 0641"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Greenwatt Limited",
+    "cro_number": "533425",
+    "registered_status": "Normal",
+    "incorporated_on": "2013-10-01",
+    "registered_address": {
+      "text": "Cavan",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 5,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Greenwatt-Limited-533425",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "Matched by business name and location. Public contact details are from the business website."
+  }
+}
