@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17274",
+  "listing_reference": "SEAI contractor ID 17274",
+  "trading_name": "JJR Insulation Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Insulation",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Ulster"
+    ],
+    "base_location": "Cavan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.jjrinsulation.com/",
+        "checked_on": "2026-11-24"
+      },
+      {
+        "url": "https://cro.ie/wp-content/uploads/2025/10/29-October-2025-Annual-Returns-Received.pdf",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://www.jjrinsulation.com/",
+    "phone": "087 796 2904"
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "Official business contact verified. CRO lists the company name, and its SoloCheck summary could not be verified."
+  }
+}
