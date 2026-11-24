@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17430",
+  "listing_reference": "SEAI contractor ID 17430",
+  "trading_name": "PCS Ventures Ltd T/A Green Leaf Carpentry",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://greenleafprojects.ie/",
+        "checked_on": "2026-11-24"
+      },
+      {
+        "url": "https://cro.ie/wp-content/uploads/2024/04/RREG_06JUN18_E.pdf",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://greenleafprojects.ie/",
+    "phone": "0873580795",
+    "email": "paddy@greenleafprojects.ie"
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "Official business contact verified. CRO lists PCS Ventures Limited and its SoloCheck summary could not be verified."
+  }
+}

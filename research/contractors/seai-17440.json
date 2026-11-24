@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17440",
+  "listing_reference": "SEAI contractor ID 17440",
+  "trading_name": "Insulation Plastering Systems Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Down",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.nsai.ie/search/installation-companies/eyJyZXN1bHRfcGFnZSI6InNlYXJjaFwvaW5zdGFsbGF0aW9uLWNvbXBhbmllc1wvIn0/P25/",
+        "checked_on": "2026-11-24"
+      },
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/NI653618",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "email": "gerardmckevitt@hotmail.com"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "Companies House and NSAI list the business in Newry. The public business email comes from NSAI. No SoloCheck company match was verified."
+  }
+}
