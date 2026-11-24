@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17130",
+  "listing_reference": "SEAI contractor ID 17130",
+  "trading_name": "Seamus O'Reilly",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Cavan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "No SoloCheck entity match or official business contact details were verified."
+  }
+}
