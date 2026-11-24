@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16836",
+  "listing_reference": "SEAI contractor ID 16836",
+  "trading_name": "Thomas Walsh Mechanical Services Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Thomas Walsh Mechanical Services Limited",
+    "cro_number": "704378",
+    "incorporated_on": "2021-09-23",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Thomas-Walsh-Mechanical-Services-Limited-704378",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address. No public business phone or email was verified from an official source."
+  }
+}
