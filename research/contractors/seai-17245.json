@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17245",
+  "listing_reference": "SEAI contractor ID 17245",
+  "trading_name": "T & A Plant Hire",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.tabuildingandcivilengineering.com/contact-us",
+        "checked_on": "2026-11-24"
+      },
+      {
+        "url": "https://www.solocheck.ie/Irish-Business/Tanda-Civil-Engineering-And-Building-Contractors-672511",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://www.tabuildingandcivilengineering.com/",
+    "phone": "+353 (0) 58 69995"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "T & a Plant Hire Limited",
+    "cro_number": "354648",
+    "registered_status": "Normal",
+    "incorporated_on": "2002-03-19",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/T-And-A-Plant-Hire-Limited-354648",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "Matched legal entity and verified public contact details on the business website."
+  }
+}
