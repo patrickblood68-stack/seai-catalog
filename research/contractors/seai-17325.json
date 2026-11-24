@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17325",
+  "listing_reference": "SEAI contractor ID 17325",
+  "trading_name": "Walsh Heating & Cooling Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://walshheatingandcoolingltd.com/contact-us-1",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://walshheatingandcoolingltd.com/",
+    "email": "Service@walshheatingandcoolingltd.com"
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "The listed business email domain matches the official website. The similarly named SoloCheck entry lists Cork and could not be tied to the Mayo listing."
+  }
+}
