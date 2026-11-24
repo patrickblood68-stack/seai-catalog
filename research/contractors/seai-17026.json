@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17026",
+  "listing_reference": "SEAI contractor ID 17026",
+  "trading_name": "Barry Kearns T/A BK Heat Pumps",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://bkheatpumps.ie/service/plumbing-services/",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://bkheatpumps.ie/",
+    "email": "info@bkheatpumps.ie",
+    "phone": "086 828 3393"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "No matching SoloCheck company summary was verified."
+  }
+}
