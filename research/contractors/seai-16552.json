@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16552",
+  "listing_reference": "SEAI contractor ID 16552",
+  "trading_name": "Salix Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "No matching SoloCheck company summary could be verified. No business contact details were verified from an official source."
+  }
+}
