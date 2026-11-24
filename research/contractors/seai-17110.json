@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17110",
+  "listing_reference": "SEAI contractor ID 17110",
+  "trading_name": "Bluebuild Renewables Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Doors",
+      "External Insulation",
+      "External Windows",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Dublin 12",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Bluebuild Renewables Limited",
+    "cro_number": "586647",
+    "registered_status": "Normal",
+    "incorporated_on": "2016-07-27",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Bluebuild-Renewables-Limited-586647",
+      "checked_on": "2026-11-24"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "Matched by business name and county. No official business contact details were verified."
+  }
+}

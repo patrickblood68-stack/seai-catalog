@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17108",
+  "listing_reference": "SEAI contractor ID 17108",
+  "trading_name": "Mid Kerry Mechanical",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "The connection to a similarly named Kerry plumbing company could not be verified."
+  }
+}
