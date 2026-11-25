@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17683",
+  "listing_reference": "SEAI contractor ID 17683",
+  "trading_name": "Harrington Hbrs Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.hbrs.ie/services",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.hbrs.ie/",
+    "phone": "+353 87 262 3588",
+    "email": "declan@hbrs.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "Official website lists public business contact details. No SoloCheck company match was verified."
+  }
+}
