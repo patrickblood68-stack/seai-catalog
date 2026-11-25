@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17763",
+  "listing_reference": "SEAI contractor ID 17763",
+  "trading_name": "Downes Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Roscommon",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "A similarly named Roscommon company was found. Its connection to this listing could not be verified."
+  }
+}
