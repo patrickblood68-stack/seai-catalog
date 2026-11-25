@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18013",
+  "listing_reference": "SEAI contractor ID 18013",
+  "trading_name": "Mc Namee Fabrication & Building Systems Ltd T/A Mc",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "No SoloCheck company match or official business contact details were verified."
+  }
+}
