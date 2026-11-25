@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17750",
+  "listing_reference": "SEAI contractor ID 17750",
+  "trading_name": "AC Insulation",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "No SoloCheck company match or official business contact details were verified."
+  }
+}

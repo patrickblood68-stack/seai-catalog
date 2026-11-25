@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17731",
+  "listing_reference": "SEAI contractor ID 17731",
+  "trading_name": "Kieran Walsh Building & Plastering Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Kieran Walsh Building & Plastering Limited",
+    "cro_number": "589961",
+    "registered_status": "Normal",
+    "incorporated_on": "2016-09-23",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Kieran-Walsh-Building-And-Plastering-Limited-589961",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched the company. No official business contact details were verified."
+  }
+}
