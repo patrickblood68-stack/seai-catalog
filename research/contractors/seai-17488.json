@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17488",
+  "listing_reference": "SEAI contractor ID 17488",
+  "trading_name": "Crystal Complete Building Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://ccbuilding.ie/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://ccbuilding.ie/",
+    "phone": "0872219241",
+    "email": "info@ccbuilding.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Crystal Complete Building Limited",
+    "cro_number": "522350",
+    "registered_status": "Normal",
+    "incorporated_on": "2013-01-11",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 1,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Crystal-Complete-Building-Limited-522350",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched the legal entity and verified public contact details on the business website."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17486",
+  "listing_reference": "SEAI contractor ID 17486",
+  "trading_name": "McDonagh Mechanical and Plumbing Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.cro.ie/wp-content/uploads/2024/04/02-Dec-2020-Annual-Returns-Registered.pdf",
+        "checked_on": "2026-11-25"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "CRO lists a company with the same name. Its SoloCheck summary could not be verified."
+  }
+}
