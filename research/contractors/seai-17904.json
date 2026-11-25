@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17904",
+  "listing_reference": "SEAI contractor ID 17904",
+  "trading_name": "John Joe Faherty",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "A similarly named Galway company was found. Its connection to the SEAI listing could not be verified."
+  }
+}
