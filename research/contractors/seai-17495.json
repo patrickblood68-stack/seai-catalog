@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17495",
+  "listing_reference": "SEAI contractor ID 17495",
+  "trading_name": "Togala Construction Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 22",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Togala Construction Limited",
+    "cro_number": "767745",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-07-15",
+    "registered_address": {
+      "text": "Dublin 22",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Togala-Construction-Limited-767745",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. No official business contact details were verified."
+  }
+}
