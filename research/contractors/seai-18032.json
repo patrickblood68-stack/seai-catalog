@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18032",
+  "listing_reference": "SEAI contractor ID 18032",
+  "trading_name": "Clydesdale Construction Co. Ltd.",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.clydesdaleconstruction.ie/contact",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.clydesdaleconstruction.ie/",
+    "phone": "0868532293",
+    "email": "info@clydesdaleconstruction.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Clydesdale Construction Co. Limited",
+    "cro_number": "334745",
+    "registered_status": "Normal",
+    "incorporated_on": "2000-11-02",
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Clydesdale-Construction-Co-Limited-334745",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. Verified the published business contact details."
+  }
+}

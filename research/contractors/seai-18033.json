@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18033",
+  "listing_reference": "SEAI contractor ID 18033",
+  "trading_name": "Sustainable Warmth Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://killarneyoutlook.com/images/pdfs/KO02052025.pdf",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "phone": "066-9702113",
+    "email": "kevin.sustainablewarmth@gmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Sustainable Warmth Limited",
+    "cro_number": "722674",
+    "registered_status": "Normal",
+    "incorporated_on": "2022-07-15",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Sustainable-Warmth-Limited-722674",
+      "checked_on": "2026-11-25"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. Verified the published business contact details."
+  }
+}
