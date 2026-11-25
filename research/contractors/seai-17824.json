@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17824",
+  "listing_reference": "SEAI contractor ID 17824",
+  "trading_name": "Dkc Carpentry & Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://dkcconstruction.ie/contact/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://dkcconstruction.ie/",
+    "phone": "+353 86 8877161",
+    "email": "info@dkcconstruction.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Dkc Carpentry & Construction Limited",
+    "cro_number": "628828",
+    "registered_status": "Normal",
+    "incorporated_on": "2018-06-19",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Dkc-Carpentry-And-Construction-Limited-628828",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched the company and verified public business contact details."
+  }
+}

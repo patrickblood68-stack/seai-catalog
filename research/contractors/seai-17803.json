@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17803",
+  "listing_reference": "SEAI contractor ID 17803",
+  "trading_name": "Peter Nash Plumbing And Heating",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "No SoloCheck company match or official business contact details were verified."
+  }
+}
