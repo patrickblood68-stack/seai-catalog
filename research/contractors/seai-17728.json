@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17728",
+  "listing_reference": "SEAI contractor ID 17728",
+  "trading_name": "Brendan Moloney Carpentry",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Clare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "A similarly named business was found. Its connection to the SEAI listing could not be verified."
+  }
+}
