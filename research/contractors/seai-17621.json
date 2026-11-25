@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17621",
+  "listing_reference": "SEAI contractor ID 17621",
+  "trading_name": "Gorcon Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Armagh",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.gorconltd.com/contact-us/",
+        "checked_on": "2026-11-25"
+      },
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/NI672073",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.gorconltd.com/",
+    "email": "info@gorconltd.com",
+    "phone": "+44 7549 786061"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "The Armagh business website and Companies House entry match the listing. No SoloCheck company summary was verified."
+  }
+}
