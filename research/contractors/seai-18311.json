@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18311",
+  "listing_reference": "SEAI contractor ID 18311",
+  "trading_name": "Inish Stone",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Inish Stone Limited",
+    "cro_number": "377386",
+    "registered_status": "Normal",
+    "incorporated_on": "2003-10-24",
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Inish-Stone-Limited-377386",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched by name and county. Official business contact details remain unverified."
+  }
+}
