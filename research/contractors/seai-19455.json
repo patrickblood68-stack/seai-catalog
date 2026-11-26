@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19455",
+  "listing_reference": "SEAI contractor ID 19455",
+  "trading_name": "Carrowgarve Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Carrowgarve Construction Limited",
+    "cro_number": "655524",
+    "registered_status": "Normal",
+    "incorporated_on": "2019-08-21",
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Carrowgarve-Construction-Limited-655524",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}
