@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19374",
+  "listing_reference": "SEAI contractor ID 19374",
+  "trading_name": "Heatgen Installations Limited",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Monaghan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Heatgen Installations Limited",
+    "cro_number": "767010",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-06-28",
+    "other_irish_directorships": 9,
+    "shareholders": 4,
+    "registered_address": {
+      "text": "Monaghan",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Heatgen-Installations-Limited-767010",
+      "checked_on": "2026-11-26"
+    },
+    "other_irish_companies_closed": 1,
+    "shared_eircode": {
+      "count": 15,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}
