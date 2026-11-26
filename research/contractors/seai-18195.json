@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18195",
+  "listing_reference": "SEAI contractor ID 18195",
+  "trading_name": "Warmth Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Armagh",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.warmth.ie/terms-conditions",
+        "checked_on": "2026-11-26"
+      },
+      {
+        "url": "https://find-and-update.company-information.service.gov.uk/company/NI051705",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://www.warmth.ie/",
+    "phone": "041 683 2000",
+    "email": "info@warmth.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the Armagh business and its public contacts to Companies House NI051705. The profile leaves the Irish CRO and SoloCheck fields blank."
+  }
+}
