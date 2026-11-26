@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18132",
+  "listing_reference": "SEAI contractor ID 18132",
+  "trading_name": "Verde Remediation Services Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://verde.ie/contact?county=wicklow",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://verde.ie/",
+    "phone": "+353 1 201 1260",
+    "email": "info@verde.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Verde Remediation Services Limited",
+    "cro_number": "360343",
+    "registered_status": "Normal",
+    "incorporated_on": "2002-08-19",
+    "registered_address": {
+      "text": "Wicklow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 11,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Verde-Remediation-Services-Limited-360343",
+      "checked_on": "2026-11-26"
+    },
+    "other_irish_companies_closed": 5,
+    "shared_eircode": {
+      "count": 4,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and published business contacts."
+  }
+}
