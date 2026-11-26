@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19383",
+  "listing_reference": "SEAI contractor ID 19383",
+  "trading_name": "Marcalla Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Marcalla Limited",
+    "cro_number": "660222",
+    "registered_status": "Normal",
+    "incorporated_on": "2019-11-06",
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Marcalla-Limited-660222",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}

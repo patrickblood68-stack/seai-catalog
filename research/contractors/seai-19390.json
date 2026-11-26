@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19390",
+  "listing_reference": "SEAI contractor ID 19390",
+  "trading_name": "Nusolas Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Clare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://nusolas.com/contact-us/",
+        "checked_on": "2026-11-26"
+      },
+      {
+        "url": "https://ie.linkedin.com/company/nusolas",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://nusolas.com/",
+    "phone": "061 719 730",
+    "email": "contact@nusolas.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Nusolas Limited",
+    "cro_number": "672323",
+    "registered_status": "Normal",
+    "incorporated_on": "2020-06-16",
+    "other_irish_directorships": 3,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Clare",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Nusolas-Limited-672323",
+      "checked_on": "2026-11-26"
+    },
+    "shared_eircode": {
+      "count": 2,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and verified its published business contacts."
+  }
+}
