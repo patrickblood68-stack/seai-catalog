@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19405",
+  "listing_reference": "SEAI contractor ID 19405",
+  "trading_name": "Mjkhomes Galway Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Munster"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mjk Homes (Galway) Limited",
+    "cro_number": "343609",
+    "registered_status": "Normal",
+    "incorporated_on": "2001-05-25",
+    "other_irish_directorships": 1,
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mjk-Homes-Galway-Limited-343609",
+      "checked_on": "2026-11-26"
+    },
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company by name and county. Official business contacts remain unverified."
+  }
+}
