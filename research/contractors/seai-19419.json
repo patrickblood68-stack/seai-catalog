@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19419",
+  "listing_reference": "SEAI contractor ID 19419",
+  "trading_name": "Docon Developments Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Doors",
+      "External Windows",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Roof Insulation",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 24",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Docon Developments Limited",
+    "cro_number": "536156",
+    "registered_status": "Normal",
+    "incorporated_on": "2013-12-02",
+    "other_irish_directorships": 2,
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Docon-Developments-Limited-536156",
+      "checked_on": "2026-11-26"
+    },
+    "shareholders": 1,
+    "other_irish_companies_closed": 1,
+    "shared_eircode": {
+      "count": 11,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}
