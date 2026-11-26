@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18272",
+  "listing_reference": "SEAI contractor ID 18272",
+  "trading_name": "F&E Gas Services Ltd. T/A D4 Plumbing And Heating",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://d4gas.ie/request-a-job/",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://d4gas.ie/",
+    "phone": "01 908 1819",
+    "email": "info@d4gas.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "F&E Gas Services Limited",
+    "cro_number": "739855",
+    "registered_status": "Normal",
+    "incorporated_on": "2023-04-28",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Fande-Gas-Services-Limited-739855",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and official business website."
+  }
+}
