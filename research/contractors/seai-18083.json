@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18083",
+  "listing_reference": "SEAI contractor ID 18083",
+  "trading_name": "K C Joy Construction Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "K C Joy Construction Limited",
+    "cro_number": "718985",
+    "registered_status": "Normal",
+    "incorporated_on": "2022-05-12",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/K-C-Joy-Construction-Limited-718985",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}
