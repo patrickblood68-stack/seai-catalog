@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18046",
+  "listing_reference": "SEAI contractor ID 18046",
+  "trading_name": "Hugh Nevin",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.solocheck.ie/Irish-Business/Hugh-Nevin-Building-Services-666758",
+        "checked_on": "2026-11-26"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate",
+    "registered_name": "Hugh Nevin Building Services"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-26",
+    "review_notes": "A Kildare business-name entry matches the name. Its link to the SEAI listing remains unverified."
+  }
+}
