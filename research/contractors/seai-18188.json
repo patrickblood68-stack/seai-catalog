@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18188",
+  "listing_reference": "SEAI contractor ID 18188",
+  "trading_name": "Tamburah Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Offaly",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Tamburah Limited",
+    "cro_number": "709656",
+    "registered_status": "Normal",
+    "incorporated_on": "2021-12-09",
+    "registered_address": {
+      "text": "Offaly",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Tamburah-Limited-709656",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}
