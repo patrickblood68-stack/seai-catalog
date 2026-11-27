@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19685",
+  "listing_reference": "SEAI contractor ID 19685",
+  "trading_name": "Weathermaster Kerry Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://weathermasterkerry.ie/contact/",
+        "checked_on": "2026-11-27"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://weathermasterkerry.ie/",
+    "phone": "0667120126",
+    "email": "brendan@weathermasterkerry.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Weathermaster (Kerry) Limited",
+    "cro_number": "347449",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Weathermaster-Kerry-Limited-347449",
+      "checked_on": "2026-11-27"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2001-09-06",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}

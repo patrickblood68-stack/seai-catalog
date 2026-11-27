@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19680",
+  "listing_reference": "SEAI contractor ID 19680",
+  "trading_name": "Rennova Windows And Doors Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 12",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "phone": "016108622",
+    "email": "info@rennovawindowsanddoors.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Rennova Windows and Doors Limited",
+    "cro_number": "778651",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Rennova-Windows-And-Doors-Limited-778651",
+      "checked_on": "2026-11-27"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2025-01-03",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 3,
+    "shared_eircode": {
+      "count": 4,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}
