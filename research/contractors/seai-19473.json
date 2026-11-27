@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19473",
+  "listing_reference": "SEAI contractor ID 19473",
+  "trading_name": "Miax Ltd Ta Kenny Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 12",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.kennywindows.ie/contact/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.kennywindows.ie/",
+    "phone": "0833815446",
+    "email": "info@kennywindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Miax Limited",
+    "cro_number": "537329",
+    "registered_status": "Normal",
+    "incorporated_on": "2013-12-23",
+    "other_irish_directorships": 3,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Miax-Limited-537329",
+      "checked_on": "2026-11-27"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}
