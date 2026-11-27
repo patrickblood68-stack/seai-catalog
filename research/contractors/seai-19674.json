@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19674",
+  "listing_reference": "SEAI contractor ID 19674",
+  "trading_name": "Eoin Kelly And Sons",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "phone": "0852384917",
+    "email": "info@ecoview.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-27",
+    "review_notes": "No matching legal entity was verified."
+  }
+}
