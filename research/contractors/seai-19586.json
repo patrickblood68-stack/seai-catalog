@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19586",
+  "listing_reference": "SEAI contractor ID 19586",
+  "trading_name": "The White Window Company",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.thewhitewindowcompany.ie/contact-us/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.thewhitewindowcompany.ie/",
+    "email": "info@thewhitewindowcompany.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "The White Window Company Limited",
+    "cro_number": "169549",
+    "registered_status": "Normal",
+    "incorporated_on": "1991-01-31",
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Kildare",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/The-White-Window-Company-Limited-169549",
+      "checked_on": "2026-11-27"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}
