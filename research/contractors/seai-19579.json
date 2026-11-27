@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19579",
+  "listing_reference": "SEAI contractor ID 19579",
+  "trading_name": "Timoney Windows & Conservatories Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "phone": "0876504052",
+    "email": "garreth@timoneywindows.net"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Timoney Windows & Conservatories Limited",
+    "cro_number": "572961",
+    "registered_status": "Normal",
+    "incorporated_on": "2015-12-07",
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Timoney-Windows-And-Conservatories-Limited-572961",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}
