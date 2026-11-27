@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19655",
+  "listing_reference": "SEAI contractor ID 19655",
+  "trading_name": "West Windows & Doors",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.westwindows.ie/",
+        "checked_on": "2026-11-27"
+      },
+      {
+        "url": "https://www.westwindows.ie/about-us",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.westwindows.ie/",
+    "phone": "0214372929",
+    "email": "info@westwindows.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-27",
+    "review_notes": "Public business contact verified. No legal entity could be linked confidently to this trading name."
+  }
+}

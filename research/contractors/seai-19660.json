@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19660",
+  "listing_reference": "SEAI contractor ID 19660",
+  "trading_name": "Blackrock Windows Wilford Limited",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.blackrockwindows.ie/",
+        "checked_on": "2026-11-27"
+      },
+      {
+        "url": "https://www.blackrockwindows.ie/contact",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.blackrockwindows.ie/",
+    "phone": "012722722",
+    "email": "info@blackrockwindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Blackrock Windows (Wilford) Limited",
+    "cro_number": "333537",
+    "registered_status": "Normal",
+    "incorporated_on": "2000-10-05",
+    "registered_address": {
+      "text": "Wicklow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Blackrock-Windows-Wilford-Limited-333537",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}
