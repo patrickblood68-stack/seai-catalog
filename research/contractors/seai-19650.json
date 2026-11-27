@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19650",
+  "listing_reference": "SEAI contractor ID 19650",
+  "trading_name": "Munster Joinery (Ire) Unlimited Company",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.munsterjoinery.ie/",
+    "phone": "0647751737",
+    "email": "sales@munsterjoinery.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Munster Joinery (Ire) Unlimited Company",
+    "cro_number": "225521",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Munster-Joinery-Ire-Unlimited-Company-225521",
+      "checked_on": "2026-11-27"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "1994-11-30",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 104,
+    "shareholders": 1,
+    "other_irish_companies_closed": 38
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}
