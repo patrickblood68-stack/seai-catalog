@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19484",
+  "listing_reference": "SEAI contractor ID 19484",
+  "trading_name": "Logik Window Systems Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Logik Window Systems Limited",
+    "cro_number": "476625",
+    "registered_status": "Normal",
+    "incorporated_on": "2009-10-21",
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Logik-Window-Systems-Limited-476625",
+      "checked_on": "2026-11-27"
+    },
+    "other_irish_companies_closed": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company. Official business contacts remain unverified."
+  }
+}
