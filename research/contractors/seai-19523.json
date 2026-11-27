@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19523",
+  "listing_reference": "SEAI contractor ID 19523",
+  "trading_name": "Profile Systems Holdings Ltd Trading As K Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Kildare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.kwindows.ie/contact-us/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.kwindows.ie/",
+    "phone": "045 875454",
+    "email": "info@kwindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Profile Systems Holdings Limited",
+    "cro_number": "64234",
+    "registered_status": "Normal",
+    "incorporated_on": "1978-08-18",
+    "other_irish_directorships": 10,
+    "registered_address": {
+      "text": "Kildare",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Profile-Systems-Holdings-Limited-64234",
+      "checked_on": "2026-11-27"
+    },
+    "shareholders": 1,
+    "other_irish_companies_closed": 4
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and checked its published business source."
+  }
+}
