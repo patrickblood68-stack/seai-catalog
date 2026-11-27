@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19701",
+  "listing_reference": "SEAI contractor ID 19701",
+  "trading_name": "Dzone Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 12",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://dzonewindows.com/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://dzonewindows.com/",
+    "phone": "014600450",
+    "email": "dzonewindows@eircom.net"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Dzone Windows Limited",
+    "cro_number": "515898",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Dzone-Windows-Limited-515898",
+      "checked_on": "2026-11-27"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2012-07-27",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}
