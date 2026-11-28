@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17941",
+  "listing_reference": "SEAI contractor ID 17941",
+  "trading_name": "Classic Window Replacements",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.classicwindowreplacements.ie/contact-us",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.classicwindowreplacements.ie/",
+    "email": "info@classicwindowreplacements.ie",
+    "phone": "01 2840582"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Classic Window Replacements Limited",
+    "cro_number": "518937",
+    "incorporated_on": "2012-10-17",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 15,
+    "shareholders": 1,
+    "other_irish_companies_closed": 14,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Classic-Window-Replacements-Limited-518937",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. Public business contact details verified on the official website."
+  }
+}

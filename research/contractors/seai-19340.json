@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19340",
+  "listing_reference": "SEAI contractor ID 19340",
+  "trading_name": "Donegal Drylinning Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Donegal Drylining Limited",
+    "cro_number": "791686",
+    "registered_status": "Normal",
+    "incorporated_on": "2025-06-27",
+    "other_irish_directorships": 0,
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Donegal-Drylining-Limited-791686",
+      "checked_on": "2026-11-26"
+    },
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}

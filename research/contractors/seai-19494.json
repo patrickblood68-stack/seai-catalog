@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19494",
+  "listing_reference": "SEAI contractor ID 19494",
+  "trading_name": "Dillons Joinery & Engineering",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Tipperary",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://dillonsje.ie/contact/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://dillonsje.ie/",
+    "phone": "083 0242853"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Dillon's Joinery and Engineering Limited",
+    "cro_number": "769078",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-08-02",
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Tipperary",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Dillons-Joinery-And-Engineering-Limited-769078",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}

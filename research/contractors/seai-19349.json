@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19349",
+  "listing_reference": "SEAI contractor ID 19349",
+  "trading_name": "Stf Renewable Limited",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Stf Renewable Limited",
+    "cro_number": "713828",
+    "registered_status": "Normal",
+    "incorporated_on": "2022-02-17",
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Stf-Renewable-Limited-713828",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}

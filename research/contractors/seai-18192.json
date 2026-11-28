@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18192",
+  "listing_reference": "SEAI contractor ID 18192",
+  "trading_name": "Declan Cotter Plumbing Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Declan Cotter Plumbing Limited",
+    "cro_number": "734625",
+    "registered_status": "Normal",
+    "incorporated_on": "2023-02-08",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Declan-Cotter-Plumbing-Limited-734625",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}

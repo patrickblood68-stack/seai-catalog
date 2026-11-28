@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16743",
+  "listing_reference": "SEAI contractor ID 16743",
+  "trading_name": "Cormac Murphy & Sons Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Cormac Murphy & Sons Limited",
+    "cro_number": "558525",
+    "incorporated_on": "2015-03-05",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Cormac-Murphy-And-Sons-Limited-558525",
+      "checked_on": "2026-11-24"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address. No public business contact details were verified from an official source."
+  }
+}

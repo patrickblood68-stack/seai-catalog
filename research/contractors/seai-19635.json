@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19635",
+  "listing_reference": "SEAI contractor ID 19635",
+  "trading_name": "Gerry Mc Evoy Windows Limited",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://mcevoywindows.ie/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://mcevoywindows.ie/",
+    "phone": "0868339352",
+    "email": "info@mcevoywindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Gerry McEvoy Windows Limited",
+    "cro_number": "681446",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Gerry-Mcevoy-Windows-Limited-681446",
+      "checked_on": "2026-11-27"
+    },
+    "incorporated_on": "2020-11-09",
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16563",
+  "listing_reference": "SEAI contractor ID 16563",
+  "trading_name": "Kereen Building Services",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Waterford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://kereen.ie/contact-us/",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://kereen.ie/",
+    "email": "john@kereen.ie",
+    "phone": "087 224 8498"
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "The connection between Kereen Building Services and Kereen Energy Services Limited remains unverified."
+  }
+}

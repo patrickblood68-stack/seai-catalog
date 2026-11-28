@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11443",
+  "listing_reference": "SEAI contractor ID 11443",
+  "trading_name": "J&C McMahon",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Clare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "J & C McMahon Limited",
+    "cro_number": "325068",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Clare",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/J-And-C-Mcmahon-Limited-325068",
+      "checked_on": "2026-11-21"
+    },
+    "incorporated_on": "2000-04-06",
+    "other_irish_directorships": 2,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email remains unverified."
+  }
+}

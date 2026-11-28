@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17566",
+  "listing_reference": "SEAI contractor ID 17566",
+  "trading_name": "P.F Plumbing Heating & Maintenance Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Laois",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "P.F Plumbing Heating & Maintenance Limited",
+    "cro_number": "749836",
+    "registered_status": "Normal",
+    "incorporated_on": "2023-10-04",
+    "registered_address": {
+      "text": "Laois",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Pf-Plumbing-Heating-And-Maintenance-Limited-749836",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. No official business contact details were verified."
+  }
+}

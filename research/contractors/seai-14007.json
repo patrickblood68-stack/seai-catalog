@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14007",
+  "listing_reference": "SEAI contractor ID 14007",
+  "trading_name": "John Skehan Services Ltd",
+  "business": {
+    "services": [
+      "External Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Waterford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "John Skehan Services Limited",
+    "cro_number": "462123",
+    "incorporated_on": "2008-09-12",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Waterford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/John-Skehan-Services-Limited-462123",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contact details remain unverified."
+  }
+}

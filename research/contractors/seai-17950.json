@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17950",
+  "listing_reference": "SEAI contractor ID 17950",
+  "trading_name": "Kirrane Engineering Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Kirrane Engineering Limited",
+    "cro_number": "586919",
+    "incorporated_on": "2016-08-02",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Kirrane-Engineering-Limited-586919",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and location. No official business contact details were verified."
+  }
+}

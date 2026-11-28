@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10409",
+  "listing_reference": "SEAI contractor ID 10409",
+  "trading_name": "Fahy Insulations Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Fahy Insulation Limited",
+    "cro_number": "398355",
+    "registered_status": "Normal",
+    "incorporated_on": "2005-02-28",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Fahy-Insulation-Limited-398355",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}

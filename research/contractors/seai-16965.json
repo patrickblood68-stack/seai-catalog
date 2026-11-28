@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16965",
+  "listing_reference": "SEAI contractor ID 16965",
+  "trading_name": "Alan Fox Plumbing And Heating",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Alan Fox Heating and Plumbing Contractor Limited",
+    "cro_number": "676089",
+    "incorporated_on": "2020-08-20",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Alan-Fox-Heating-And-Plumbing-Contractor-Limited-676089",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address. No public business contacts were verified from an official source."
+  }
+}

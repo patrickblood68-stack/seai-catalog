@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16953",
+  "listing_reference": "SEAI contractor ID 16953",
+  "trading_name": "Shepherd Contracting Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Shepherd Contracting Limited",
+    "cro_number": "488802",
+    "incorporated_on": "2010-09-08",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Shepherd-Contracting-Limited-488802",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address. No public business contacts were verified from an official source."
+  }
+}

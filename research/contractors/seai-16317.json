@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16317",
+  "listing_reference": "SEAI contractor ID 16317",
+  "trading_name": "Stillorgan Gas & Plumbing Ltd",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.stillorgangas.ie/contact-us",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://www.stillorgangas.ie/",
+    "email": "info@stillorgangas.ie",
+    "phone": "087 460 8501"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Stillorgan Gas Heating and Plumbing Limited",
+    "cro_number": "533527",
+    "incorporated_on": "2013-10-02",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 16,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Stillorgan-Gas-Heating-And-Plumbing-Limited-533527",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 12,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

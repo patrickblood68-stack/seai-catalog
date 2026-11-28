@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18029",
+  "listing_reference": "SEAI contractor ID 18029",
+  "trading_name": "Killincarrig Developments Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Killincarrig Developments Limited",
+    "cro_number": "399982",
+    "registered_status": "Normal",
+    "incorporated_on": "2005-04-04",
+    "registered_address": {
+      "text": "Wicklow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 7,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Killincarrig-Developments-Limited-399982",
+      "checked_on": "2026-11-25"
+    },
+    "other_irish_companies_closed": 5,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. No official business contact details were verified."
+  }
+}

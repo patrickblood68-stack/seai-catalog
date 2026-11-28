@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17132",
+  "listing_reference": "SEAI contractor ID 17132",
+  "trading_name": "JCPS Mechanical Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.jcps.ie/contact",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://www.jcps.ie/",
+    "phone": "(01) 685 4665",
+    "email": "info@jcps.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Jcps Mechanical Limited",
+    "cro_number": "546281",
+    "registered_status": "Normal",
+    "incorporated_on": "2014-07-04",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Jcps-Mechanical-Limited-546281",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "Matched by business name and county. Public business contact details verified on the company website."
+  }
+}

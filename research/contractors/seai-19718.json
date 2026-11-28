@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19718",
+  "listing_reference": "SEAI contractor ID 19718",
+  "trading_name": "Niall O Shea Windows Limited",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Offaly",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.etenders.gov.ie/epps/notices/downloadNoticeForES.do?noticeType=prompt.notice.name.29.national&resourceId=5986028",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "phone": "0868627000",
+    "email": "noswindows@yahoo.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Niall O Shea Windows Limited",
+    "cro_number": "597423",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Niall-O-Shea-Windows-Limited-597423",
+      "checked_on": "2026-11-28"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28",
+    "review_notes": "Legal entity matched via the public eTenders award notice. The SoloCheck company summary was unavailable."
+  }
+}

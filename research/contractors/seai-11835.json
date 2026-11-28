@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11835",
+  "listing_reference": "SEAI contractor ID 11835",
+  "trading_name": "B Dolan Mechanical Mechanical Services Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Westmeath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "B. Dolan Mechanical Services Limited",
+    "cro_number": "331563",
+    "incorporated_on": "2000-08-22",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Westmeath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/B-Dolan-Mechanical-Services-Limited-331563",
+      "checked_on": "2026-11-21"
+    },
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contact details remain unverified."
+  }
+}

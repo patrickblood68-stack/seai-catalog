@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16071",
+  "listing_reference": "SEAI contractor ID 16071",
+  "trading_name": "Brian Heffernan Heating & Plumbing Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "No matching SoloCheck company summary could be verified. No business contact details were verified from an official source."
+  }
+}

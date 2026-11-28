@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12414",
+  "listing_reference": "SEAI contractor ID 12414",
+  "trading_name": "Kapa Management Services Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 24",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://cro.ie/wp-content/uploads/2024/04/RREG_30OCT13_E.pdf.pdf",
+        "checked_on": "2026-11-22"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "CRO Gazette identifies a same-name company, 354406. The SoloCheck summary and first-party business contacts remain unverified."
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12688",
+  "listing_reference": "SEAI contractor ID 12688",
+  "trading_name": "Smyth Ecostruct Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Smyth Ecostruct Limited",
+    "cro_number": "512863",
+    "incorporated_on": "2012-05-08",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Smyth-Ecostruct-Limited-512863",
+      "checked_on": "2026-11-22"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}

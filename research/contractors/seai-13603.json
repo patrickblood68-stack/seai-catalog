@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13603",
+  "listing_reference": "SEAI contractor ID 13603",
+  "trading_name": "Brian Scally Plumbing Services",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Roscommon",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.roscommoncoco.ie/coco/en/services/housing/grants/housing-grant-schemes/17042026-list-of-contractors-for-publication-on-website-issue-to-grant-applicants.pdf",
+        "checked_on": "2026-11-22"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Brian Scally Plumbing Services Limited",
+    "cro_number": "645444",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Roscommon",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Brian-Scally-Plumbing-Services-Limited-645444",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2019-03-08",
+    "other_irish_directorships": 0,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}

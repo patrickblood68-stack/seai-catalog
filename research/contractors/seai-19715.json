@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19715",
+  "listing_reference": "SEAI contractor ID 19715",
+  "trading_name": "Walsh Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Limerick",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.walshwindows.ie/contact/",
+        "checked_on": "2026-11-27"
+      },
+      {
+        "url": "https://www.solocheck.ie/Irish-Business/Walsh-Windows-520166",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.walshwindows.ie/",
+    "phone": "061412823",
+    "email": "info@walshwindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Craftside Limited",
+    "cro_number": "394684",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Craftside-Limited-394684",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "SoloCheck links the trading name to this company. The company summary could not be accessed."
+  }
+}

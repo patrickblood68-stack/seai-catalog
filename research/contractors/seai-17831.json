@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17831",
+  "listing_reference": "SEAI contractor ID 17831",
+  "trading_name": "RS Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Tipperary",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "A similarly named Tipperary company was found. Its connection to this listing could not be verified."
+  }
+}

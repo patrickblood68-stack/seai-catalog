@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18137",
+  "listing_reference": "SEAI contractor ID 18137",
+  "trading_name": "Dt Gorman Developments Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Longford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.dtgormandevelopments.ie/contactus",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://www.dtgormandevelopments.ie/",
+    "email": "dtgormandevelopments@gmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "D.T. Gorman Developments Limited",
+    "cro_number": "666418",
+    "registered_status": "Normal",
+    "incorporated_on": "2020-02-13",
+    "registered_address": {
+      "text": "Longford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Dt-Gorman-Developments-Limited-666418",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and published business contacts."
+  }
+}

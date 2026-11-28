@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17782",
+  "listing_reference": "SEAI contractor ID 17782",
+  "trading_name": "Orielview Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.orielviewconstruction.ie/contact-us",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.orielviewconstruction.ie/",
+    "email": "Orielviewconstruction@gmail.com",
+    "phone": "086 8507930"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Oriel View Construction Limited",
+    "cro_number": "701888",
+    "registered_status": "Normal",
+    "incorporated_on": "2021-08-18",
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Oriel-View-Construction-Limited-701888",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched the company name and county and verified public contact details on the official website."
+  }
+}

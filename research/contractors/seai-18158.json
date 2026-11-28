@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18158",
+  "listing_reference": "SEAI contractor ID 18158",
+  "trading_name": "Kesel Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Munster"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://kesel.ie/contact/",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://kesel.ie/",
+    "phone": "+353 91 395724",
+    "email": "info@kesel.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Kesel Construction Limited",
+    "cro_number": "442550",
+    "registered_status": "Normal",
+    "incorporated_on": "2007-07-02",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 11,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Kesel-Construction-Limited-442550",
+      "checked_on": "2026-11-26"
+    },
+    "other_irish_companies_closed": 6,
+    "shared_eircode": {
+      "count": 4,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and published business contacts."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17875",
+  "listing_reference": "SEAI contractor ID 17875",
+  "trading_name": "Athlone Windows",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Westmeath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "A similarly named Westmeath company was found. Its connection to the listing could not be verified."
+  }
+}

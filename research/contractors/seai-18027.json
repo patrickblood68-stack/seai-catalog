@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18027",
+  "listing_reference": "SEAI contractor ID 18027",
+  "trading_name": "Jager Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Jager Construction Limited",
+    "cro_number": "658704",
+    "registered_status": "Normal",
+    "incorporated_on": "2019-10-11",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Jager-Construction-Limited-658704",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. No official business contact details were verified."
+  }
+}

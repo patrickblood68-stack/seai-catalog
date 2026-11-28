@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10530",
+  "listing_reference": "SEAI contractor ID 10530",
+  "trading_name": "Ecosy Better Homes Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Tipperary",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ecosy Better Homes Limited",
+    "cro_number": "573251",
+    "registered_status": "Normal",
+    "incorporated_on": "2015-12-09",
+    "registered_address": {
+      "text": "Tipperary",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ecosy-Better-Homes-Limited-573251",
+      "checked_on": "2026-11-21"
+    },
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}

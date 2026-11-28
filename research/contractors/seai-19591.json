@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19591",
+  "listing_reference": "SEAI contractor ID 19591",
+  "trading_name": "Orion Windows Limited",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.orionwindows.ie/windows-baldoyle/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.orionwindows.ie/",
+    "phone": "01 8464 111",
+    "email": "info@orionwindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Orion Windows Limited",
+    "cro_number": "390358",
+    "registered_status": "Normal",
+    "incorporated_on": "2004-08-27",
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Orion-Windows-Limited-390358",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}

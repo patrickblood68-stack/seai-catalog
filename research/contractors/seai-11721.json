@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11721",
+  "listing_reference": "SEAI contractor ID 11721",
+  "trading_name": "Hometherm Insulation Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Insulation",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Hometherm Insulation Limited",
+    "cro_number": "474066",
+    "incorporated_on": "2009-08-12",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 25,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Hometherm-Insulation-Limited-474066",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email remains unverified."
+  }
+}

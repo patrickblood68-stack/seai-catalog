@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17453",
+  "listing_reference": "SEAI contractor ID 17453",
+  "trading_name": "J.E.M. Heating And Plumbing",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "No SoloCheck entity match or official business contact details were verified."
+  }
+}

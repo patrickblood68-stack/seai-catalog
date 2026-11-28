@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17622",
+  "listing_reference": "SEAI contractor ID 17622",
+  "trading_name": "Michael Walsh Plumbing And Heating",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Munster"
+    ],
+    "base_location": "Clare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "A similarly named business was found. Its connection to the listing could not be verified."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19544",
+  "listing_reference": "SEAI contractor ID 19544",
+  "trading_name": "Top Spec Windows Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "phone": "091773514",
+    "email": "info@topspec.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Top Spec Windows Limited",
+    "cro_number": "760885",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-03-28",
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Top-Spec-Windows-Limited-760885",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}

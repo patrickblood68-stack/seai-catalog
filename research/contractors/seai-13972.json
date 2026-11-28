@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13972",
+  "listing_reference": "SEAI contractor ID 13972",
+  "trading_name": "Five Counties Home Insulation Limited",
+  "business": {
+    "services": [
+      "Cavity",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.fivecountiesinsulation.ie/contact",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://www.fivecountiesinsulation.ie/",
+    "email": "info@fivecountiesinsulation.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Five Counties Home Insulation Limited",
+    "cro_number": "495406",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Five-Counties-Home-Insulation-Limited-495406",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2011-02-24",
+    "other_irish_directorships": 0,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

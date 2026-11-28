@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17998",
+  "listing_reference": "SEAI contractor ID 17998",
+  "trading_name": "D.P.H Plumbing Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.dphplumbing.ie/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.dphplumbing.ie/",
+    "phone": "087 2545939",
+    "email": "shanedunnewx@gmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "D.P.H Plumbing Limited",
+    "cro_number": "732358",
+    "registered_status": "Normal",
+    "incorporated_on": "2022-12-22",
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Dph-Plumbing-Limited-732358",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched the legal entity and verified public business contact details on the official website."
+  }
+}

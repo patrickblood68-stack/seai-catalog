@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12387",
+  "listing_reference": "SEAI contractor ID 12387",
+  "trading_name": "Ashgrove Mechanical Services Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Dublin 11",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.ashgroveireland.ie/contact-us",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://www.ashgroveireland.ie/",
+    "email": "info@ashgroveireland.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ashgrove Mechanical Services Limited",
+    "cro_number": "467893",
+    "incorporated_on": "2009-02-27",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin 11",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ashgrove-Mechanical-Services-Limited-467893",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

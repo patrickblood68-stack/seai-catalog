@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16303",
+  "listing_reference": "SEAI contractor ID 16303",
+  "trading_name": "K K Home & Building Services Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://cro.ie/wp-content/uploads/2024/04/29-December-2021-Annual-Returns-Received.pdf",
+        "checked_on": "2026-11-23"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "The CRO Gazette lists the matching company name under number 649960. Its SoloCheck summary was unavailable. No business contact details were verified from an official source."
+  }
+}

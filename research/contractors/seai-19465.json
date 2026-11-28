@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19465",
+  "listing_reference": "SEAI contractor ID 19465",
+  "trading_name": "Kingdom Window Systems",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://theadvertiser.ie/wp-content/uploads/2025/11/Volume-18-Issue-11.pdf",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "phone": "087 3942075",
+    "email": "kingdomwindowsystems@gmail.com"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-26",
+    "review_notes": "Found public business contacts in a trade advertisement. The registered entity remains unverified."
+  }
+}

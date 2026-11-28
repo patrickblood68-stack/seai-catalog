@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13564",
+  "listing_reference": "SEAI contractor ID 13564",
+  "trading_name": "Dan O'Sullivan Heating & Plumbing",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Dan O'Sullivan Heating & Plumbing Limited",
+    "cro_number": "594270",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Dan-Osullivan-Heating-And-Plumbing-Limited-594270",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2016-12-08",
+    "other_irish_directorships": 1,
+    "shareholders": 3,
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}

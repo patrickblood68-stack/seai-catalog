@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18191",
+  "listing_reference": "SEAI contractor ID 18191",
+  "trading_name": "Declan Murphy Heating And Plumbing",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-26",
+    "review_notes": "No legal entity match or official business contacts were verified."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15033",
+  "listing_reference": "SEAI contractor ID 15033",
+  "trading_name": "Vincent Bergin & Sons Limited",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Offaly",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Vincent Bergin & Sons Limited",
+    "cro_number": "555999",
+    "incorporated_on": "2015-01-16",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Offaly",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Vincent-Bergin-And-Sons-Limited-555999",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 3
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No business contact details were verified from an official source."
+  }
+}

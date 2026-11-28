@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17864",
+  "listing_reference": "SEAI contractor ID 17864",
+  "trading_name": "William Walsh Plumbing Contractors Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Waterford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "William Walsh Plumbing Contractors Limited",
+    "cro_number": "702951",
+    "registered_status": "Normal",
+    "incorporated_on": "2021-09-02",
+    "registered_address": {
+      "text": "Waterford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/William-Walsh-Plumbing-Contractors-Limited-702951",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by full legal name and county. The similarly named plumbing website could not be linked to the registered company."
+  }
+}

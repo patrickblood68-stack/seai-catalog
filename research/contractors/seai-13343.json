@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13343",
+  "listing_reference": "SEAI contractor ID 13343",
+  "trading_name": "Ecospec Limited",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://ecospec.ie/contact-us/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://ecospec.ie/",
+    "email": "info@ecospec.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ecospec Limited",
+    "cro_number": "505029",
+    "incorporated_on": "2011-10-20",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ecospec-Limited-505029",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

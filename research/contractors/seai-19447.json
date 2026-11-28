@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19447",
+  "listing_reference": "SEAI contractor ID 19447",
+  "trading_name": "S Browne Properties Ltd Ta S Browne Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Limerick",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "S Browne Properties Limited",
+    "cro_number": "574646",
+    "registered_status": "Normal",
+    "incorporated_on": "2016-01-04",
+    "other_irish_directorships": 5,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Limerick",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/S-Browne-Properties-Limited-574646",
+      "checked_on": "2026-11-26"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}

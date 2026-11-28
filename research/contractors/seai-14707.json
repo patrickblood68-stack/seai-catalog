@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14707",
+  "listing_reference": "SEAI contractor ID 14707",
+  "trading_name": "Multi Corp Construction Services Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://multicorpconstruction.ie/contact-multicorp-construction/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://multicorpconstruction.ie/",
+    "phone": "01 827 8980",
+    "email": "info@multicorpconstruction.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Multi Corp Construction Services Limited",
+    "cro_number": "442525",
+    "incorporated_on": "2007-07-02",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Multi-Corp-Construction-Services-Limited-442525",
+      "checked_on": "2026-11-22"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

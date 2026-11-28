@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17882",
+  "listing_reference": "SEAI contractor ID 17882",
+  "trading_name": "Smyth Project Management Ltd. T/A Teknabuild",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Offaly",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://teknabuild.ie/contact/",
+        "checked_on": "2026-11-25"
+      },
+      {
+        "url": "https://www.nsai.ie/search/etics/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://teknabuild.ie/",
+    "phone": "+353 87 134 7886",
+    "email": "info@teknabuild.com"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "NSAI links the legal name to the business email domain. The official website lists public contact details. No matched SoloCheck summary was verified."
+  }
+}

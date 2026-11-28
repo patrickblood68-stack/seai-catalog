@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17692",
+  "listing_reference": "SEAI contractor ID 17692",
+  "trading_name": "MJD Plumbing & Heating Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.mjdplumbing.ie/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.mjdplumbing.ie/",
+    "phone": "087 642 6746"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mjd Plumbing & Heating Limited",
+    "cro_number": "666485",
+    "registered_status": "Normal",
+    "incorporated_on": "2020-02-13",
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mjd-Plumbing-And-Heating-Limited-666485",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county and verified contact details on the business website."
+  }
+}

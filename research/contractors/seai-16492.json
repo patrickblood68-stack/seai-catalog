@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16492",
+  "listing_reference": "SEAI contractor ID 16492",
+  "trading_name": "Orbital Welding Solutions T/A O'Connor Heating",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 24",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Orbital Welding Solutions Limited",
+    "cro_number": "543463",
+    "incorporated_on": "2014-05-06",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin 2",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 26,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Orbital-Welding-Solutions-Limited-543463",
+      "checked_on": "2026-11-23"
+    },
+    "other_irish_companies_closed": 4,
+    "shared_eircode": {
+      "count": 284,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No business contact details were verified from an official source."
+  }
+}

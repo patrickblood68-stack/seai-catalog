@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17928",
+  "listing_reference": "SEAI contractor ID 17928",
+  "trading_name": "John Doherty Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.donegalcoco.ie/media/frrlqj3b/contractors-housing-grants-for-older-people-and-for-people-with-disabilities-24-march-2026.pdf",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "email": "johndohertyconstruction@gmail.com",
+    "phone": "087 6688516"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "John Doherty Construction Limited",
+    "cro_number": "593415",
+    "incorporated_on": "2016-11-23",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/John-Doherty-Construction-Limited-593415",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. Donegal County Council lists the public business phone and email."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15464",
+  "listing_reference": "SEAI contractor ID 15464",
+  "trading_name": "Nodaat Plumbing Ltd T/A DNA Partners",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Nodaat Plumbing Limited",
+    "cro_number": "500723",
+    "incorporated_on": "2011-07-01",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 3,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Nodaat-Plumbing-Limited-500723",
+      "checked_on": "2026-11-23"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address. No current business contact details were verified from an official source."
+  }
+}

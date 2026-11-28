@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17385",
+  "listing_reference": "SEAI contractor ID 17385",
+  "trading_name": "Paddy Monagle Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Paddy Monagle Construction Limited",
+    "cro_number": "764444",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-05-21",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 5,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Paddy-Monagle-Construction-Limited-764444",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "Matched by company name and county. No official business contact details were verified."
+  }
+}

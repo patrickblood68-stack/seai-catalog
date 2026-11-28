@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12508",
+  "listing_reference": "SEAI contractor ID 12508",
+  "trading_name": "John Carty & Sons Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Roscommon",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "A third-party source matches the name and county. SoloCheck summary and first-party contacts remain unverified."
+  }
+}

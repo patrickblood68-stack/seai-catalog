@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18337",
+  "listing_reference": "SEAI contractor ID 18337",
+  "trading_name": "Pro Walls Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.prowalls.ie/",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://www.prowalls.ie/",
+    "phone": "087 063 4312",
+    "email": "johnprowalls@gmail.com"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-26",
+    "review_notes": "Verified the published business contacts. The registered entity remains unverified."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19675",
+  "listing_reference": "SEAI contractor ID 19675",
+  "trading_name": "Lakeland Interiors",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Westmeath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.lakelandinteriors.ie/contact/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.lakelandinteriors.ie/",
+    "phone": "0449343455",
+    "email": "info@lakelandinteriors.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Lakeland Interiors Limited",
+    "cro_number": "381771",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Lakeland-Interiors-Limited-381771",
+      "checked_on": "2026-11-27"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2004-02-13",
+    "registered_address": {
+      "text": "Westmeath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}

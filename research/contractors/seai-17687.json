@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17687",
+  "listing_reference": "SEAI contractor ID 17687",
+  "trading_name": "J&S Priority Electrical Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "J&S Priority Electrical Limited",
+    "cro_number": "619277",
+    "registered_status": "Normal",
+    "incorporated_on": "2018-01-23",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "shared_eircode": {
+      "count": 2,
+      "qualifier": "at_least"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Jands-Priority-Electrical-Limited-619277",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. No official business contact details were verified."
+  }
+}

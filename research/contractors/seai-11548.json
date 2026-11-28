@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11548",
+  "listing_reference": "SEAI contractor ID 11548",
+  "trading_name": "Donal Broderick Plumbing & Heating Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Donal Broderick Plumbing & Heating Contractors Limited",
+    "cro_number": "410787",
+    "incorporated_on": "2005-11-14",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Donal-Broderick-Plumbing-And-Heating-Contractors-Limited-410787",
+      "checked_on": "2026-11-21"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email remains unverified."
+  }
+}

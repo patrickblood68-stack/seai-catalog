@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10948",
+  "listing_reference": "SEAI contractor ID 10948",
+  "trading_name": "Fitzpatrick Plumbing & Heating Contractors Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Munster"
+    ],
+    "base_location": "Clare",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.fitzplumbingandheating.com/index.php/contact",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://www.fitzplumbingandheating.com/",
+    "email": "olliefitzp@hotmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Fitzpatrick Plumbing & Heating Contractors Limited",
+    "cro_number": "423769",
+    "registered_status": "Normal",
+    "incorporated_on": "2006-07-19",
+    "registered_address": {
+      "text": "Clare",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 3,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Fitzpatrick-Plumbing-And-Heating-Contractors-Limited-423769",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 3
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

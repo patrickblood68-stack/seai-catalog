@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13471",
+  "listing_reference": "SEAI contractor ID 13471",
+  "trading_name": "Hollypark Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Laois",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "No reliable company summary or first-party business contact source was verified."
+  }
+}

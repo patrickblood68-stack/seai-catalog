@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19785",
+  "listing_reference": "SEAI contractor ID 19785",
+  "trading_name": "Nicolae Rus",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 7",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.nsai.ie/search/installation-companies/eyJyZXN1bHRfcGFnZSI6InNlYXJjaFwvaW5zdGFsbGF0aW9uLWNvbXBhbmllc1wvIn0/1000/P150/",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "email": "rusrodika25@gmail.com"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-28",
+    "review_notes": "NSAI publishes a business contact. No matching legal entity was verified."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12677",
+  "listing_reference": "SEAI contractor ID 12677",
+  "trading_name": "Peter Fallon & Sons Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Peter Fallon & Sons Limited",
+    "cro_number": "93260",
+    "incorporated_on": "1983-02-15",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Sligo",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Peter-Fallon-And-Sons-Limited-93260",
+      "checked_on": "2026-11-22"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SEAI lists a Mayo base. SoloCheck gives a partial registered address in Sligo. Official contact details remain unverified."
+  }
+}

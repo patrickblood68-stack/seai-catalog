@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17497",
+  "listing_reference": "SEAI contractor ID 17497",
+  "trading_name": "Iclever Construction",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://icleverconstruction.my.canva.site/contact-us",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://icleverconstruction.my.canva.site/",
+    "email": "icleverconstruction@yahoo.com",
+    "phone": "087 961 4451"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Iclever Construction Limited",
+    "cro_number": "706331",
+    "registered_status": "Normal",
+    "incorporated_on": "2021-10-19",
+    "registered_address": {
+      "text": "Dublin 15",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Iclever-Construction-Limited-706331",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched the legal entity and verified public contact details on the business website."
+  }
+}

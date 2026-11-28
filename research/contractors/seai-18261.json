@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18261",
+  "listing_reference": "SEAI contractor ID 18261",
+  "trading_name": "Hi-Line Energy Solutions Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.hilineenergysolutions.ie/",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://www.hilineenergysolutions.ie/"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Hi-Line Energy Solutions Limited",
+    "cro_number": "500582",
+    "registered_status": "Normal",
+    "incorporated_on": "2011-06-28",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Hi-Line-Energy-Solutions-Limited-500582",
+      "checked_on": "2026-11-26"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and official business website."
+  }
+}

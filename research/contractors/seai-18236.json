@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18236",
+  "listing_reference": "SEAI contractor ID 18236",
+  "trading_name": "Sean Paul Construction Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Doors",
+      "External Insulation",
+      "External Windows",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/publications/SEAI-Registered-Technical-Advisors.pdf",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "phone": "089 4505435",
+    "email": "paul@seanpaul.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Sean Paul Construction Limited",
+    "cro_number": "763361",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-05-02",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 6,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Sean-Paul-Construction-Limited-763361",
+      "checked_on": "2026-11-26"
+    },
+    "other_irish_companies_closed": 1,
+    "shared_eircode": {
+      "count": 10,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and public business source."
+  }
+}

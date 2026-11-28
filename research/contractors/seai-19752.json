@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19752",
+  "listing_reference": "SEAI contractor ID 19752",
+  "trading_name": "Gp Renovation",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-28",
+    "review_notes": "No matching legal entity or official business contact was verified."
+  }
+}

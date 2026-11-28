@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16033",
+  "listing_reference": "SEAI contractor ID 16033",
+  "trading_name": "Retrofit Design Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Insulation",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://retrofitdesign.ie/contact-retrofit-specialists-ireland/",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://retrofitdesign.ie/",
+    "email": "info@retrofitdesignltd.ie",
+    "phone": "066 976 2746"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "No matching SoloCheck company summary could be verified."
+  }
+}

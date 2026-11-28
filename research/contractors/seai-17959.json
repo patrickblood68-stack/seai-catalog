@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17959",
+  "listing_reference": "SEAI contractor ID 17959",
+  "trading_name": "Laghey Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.donegalcoco.ie/media/2yfgefej/contractors-available-to-do-works-under-housing-grants-schemes-updated-march-2025.pdf",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "email": "lagheyconstruction@gmail.com",
+    "phone": "074 9723589"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Laghey Construction Limited",
+    "cro_number": "399202",
+    "incorporated_on": "2005-03-15",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Laghey-Construction-Limited-399202",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county. Donegal County Council lists public business contact details."
+  }
+}

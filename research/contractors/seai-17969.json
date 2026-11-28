@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17969",
+  "listing_reference": "SEAI contractor ID 17969",
+  "trading_name": "Broomhall Estates",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wicklow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.broomhallestates.com/contact",
+        "checked_on": "2026-11-25"
+      },
+      {
+        "url": "https://www.revenue.ie/en/property/documents/htb-qualifying-contractors.pdf",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://www.broomhallestates.com/"
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "Revenue identifies two companies using this trading name. A single legal entity could not be established for the listing."
+  }
+}

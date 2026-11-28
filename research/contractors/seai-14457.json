@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-14457",
+  "listing_reference": "SEAI contractor ID 14457",
+  "trading_name": "Gavin Design & Build Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 18",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://gavindesignbuild.ie/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://gavindesignbuild.ie/",
+    "email": "brian@gavindesignbuild.ie",
+    "phone": "086 3537911"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Gavin Design & Build Limited",
+    "cro_number": "485686",
+    "incorporated_on": "2010-06-17",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Wicklow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Gavin-Design-And-Build-Limited-485686",
+      "checked_on": "2026-11-22"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "The business publishes a Dublin 18 contact address and SoloCheck gives Wicklow as the partial registered address."
+  }
+}

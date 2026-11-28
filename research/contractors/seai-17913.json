@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17913",
+  "listing_reference": "SEAI contractor ID 17913",
+  "trading_name": "Ap Renewables Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://aprenewables.ie/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://aprenewables.ie/"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ap Renewables Limited",
+    "cro_number": "705732",
+    "registered_status": "Normal",
+    "incorporated_on": "2021-10-11",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 6,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ap-Renewables-Limited-705732",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county and verified the business website."
+  }
+}

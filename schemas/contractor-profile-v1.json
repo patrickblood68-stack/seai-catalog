@@ -1,0 +1,489 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Contractor profile v1",
+  "description": "One record per contractor listing. Omit unknown values. Use zero only for a confirmed count. The company registry status is transcribed as shown in SoloCheck's company summary.",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "contractor_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "trading_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "listing_reference": {
+      "type": "string",
+      "minLength": 1
+    },
+    "business": {
+      "type": "object",
+      "properties": {
+        "overview": {
+          "type": "string",
+          "minLength": 1
+        },
+        "services": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "customer_types": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "base_location": {
+          "type": "string",
+          "minLength": 1
+        },
+        "service_areas": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "website": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "phone": {
+          "type": "string",
+          "minLength": 1
+        },
+        "email": {
+          "type": "string",
+          "format": "email"
+        },
+        "quote_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "logo_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "checked_on": {
+                "type": "string",
+                "format": "date"
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "url",
+              "checked_on"
+            ]
+          }
+        }
+      },
+      "additionalProperties": false
+    },
+    "company": {
+      "type": "object",
+      "properties": {
+        "match_status": {
+          "enum": [
+            "unmatched",
+            "candidate",
+            "confirmed"
+          ]
+        },
+        "registered_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "cro_number": {
+          "type": "string",
+          "pattern": "^[0-9]+$"
+        },
+        "registered_status": {
+          "type": "string",
+          "minLength": 1
+        },
+        "incorporated_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "registered_address": {
+          "type": "object",
+          "properties": {
+            "text": {
+              "type": "string",
+              "minLength": 1
+            },
+            "completeness": {
+              "enum": [
+                "full",
+                "partial"
+              ]
+            },
+            "eircode": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "text",
+            "completeness"
+          ]
+        },
+        "directors": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "other_irish_directorships": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "other_irish_companies_closed": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "shareholders": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "shared_eircode": {
+          "type": "object",
+          "properties": {
+            "count": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "qualifier": {
+              "enum": [
+                "exact",
+                "at_least"
+              ]
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "count",
+            "qualifier"
+          ]
+        },
+        "summary_source": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https?://"
+            },
+            "checked_on": {
+              "type": "string",
+              "format": "date"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "url",
+            "checked_on"
+          ]
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "match_status"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "match_status": {
+                "const": "confirmed"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "registered_name",
+              "cro_number",
+              "summary_source"
+            ]
+          }
+        }
+      ]
+    },
+    "credentials": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "issuer": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reference": {
+            "type": "string",
+            "minLength": 1
+          },
+          "verification": {
+            "enum": [
+              "contractor_reported",
+              "verified"
+            ]
+          },
+          "source": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "checked_on": {
+                "type": "string",
+                "format": "date"
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "url",
+              "checked_on"
+            ]
+          }
+        },
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "verification"
+        ]
+      }
+    },
+    "projects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source": {
+            "type": "object",
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://"
+              },
+              "checked_on": {
+                "type": "string",
+                "format": "date"
+              }
+            },
+            "additionalProperties": false,
+            "required": [
+              "url",
+              "checked_on"
+            ]
+          },
+          "media": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https?://"
+                },
+                "permission_to_display": {
+                  "type": "boolean"
+                }
+              },
+              "additionalProperties": false,
+              "required": [
+                "url",
+                "permission_to_display"
+              ]
+            }
+          }
+        },
+        "additionalProperties": false,
+        "required": [
+          "title"
+        ]
+      }
+    },
+    "environment": {
+      "type": "object",
+      "properties": {
+        "electric_fleet": {
+          "enum": [
+            "none_reported",
+            "some_electric",
+            "all_electric"
+          ]
+        },
+        "practices": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "evidence_type": {
+          "enum": [
+            "contractor_reported",
+            "verified"
+          ]
+        },
+        "checked_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "source": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^https?://"
+            },
+            "checked_on": {
+              "type": "string",
+              "format": "date"
+            }
+          },
+          "additionalProperties": false,
+          "required": [
+            "url",
+            "checked_on"
+          ]
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "evidence_type",
+        "checked_on"
+      ]
+    },
+    "perspectives": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "topic": {
+            "type": "string",
+            "minLength": 1
+          },
+          "quote": {
+            "type": "string",
+            "minLength": 1
+          },
+          "attribution": {
+            "type": "string",
+            "minLength": 1
+          },
+          "permission_to_publish": {
+            "type": "boolean"
+          },
+          "received_on": {
+            "type": "string",
+            "format": "date"
+          }
+        },
+        "additionalProperties": false,
+        "required": [
+          "topic",
+          "quote",
+          "permission_to_publish",
+          "received_on"
+        ]
+      }
+    },
+    "workflow": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "enum": [
+            "to_check",
+            "needs_a_match",
+            "ready_for_review",
+            "published"
+          ]
+        },
+        "checked_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "minutes": {
+          "type": "number",
+          "minimum": 0
+        },
+        "review_notes": {
+          "type": "string",
+          "minLength": 1
+        },
+        "published_on": {
+          "type": "string",
+          "format": "date"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "status"
+      ],
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "status": {
+                "const": "published"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "published_on"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "contractor_id",
+    "trading_name",
+    "company",
+    "workflow"
+  ]
+}

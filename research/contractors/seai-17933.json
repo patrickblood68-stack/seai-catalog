@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17933",
+  "listing_reference": "SEAI contractor ID 17933",
+  "trading_name": "Miller And McGovern Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 14",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Miller and McGovern Construction Limited",
+    "cro_number": "695853",
+    "incorporated_on": "2021-05-19",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin 14",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Miller-And-Mcgovern-Construction-Limited-695853",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and location. No official business contact details were verified."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-11624",
+  "listing_reference": "SEAI contractor ID 11624",
+  "trading_name": "Derchil Limited t/a CosiHomes",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "External Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Derchil Limited",
+    "cro_number": "371808",
+    "incorporated_on": "2003-06-04",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 25,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Derchil-Limited-371808",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 7,
+    "shared_eircode": {
+      "count": 9,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email remains unverified."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16936",
+  "listing_reference": "SEAI contractor ID 16936",
+  "trading_name": "Ian Clarke",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Ulster"
+    ],
+    "base_location": "Monaghan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-24",
+    "review_notes": "The connection between the individual listing and the similarly named Monaghan company remains unverified. No public business contact details were verified from an official source."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19716",
+  "listing_reference": "SEAI contractor ID 19716",
+  "trading_name": "Porchways Irl Ltd, Sky Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.skywindows.ie/contact-us/",
+        "checked_on": "2026-11-28"
+      },
+      {
+        "url": "https://www.skywindows.ie/test-footer-page/",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://www.skywindows.ie/",
+    "phone": "0214354844",
+    "email": "reception@skywindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Porchways Ireland Limited",
+    "cro_number": "155274",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Porchways-Ireland-Limited-155274",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "1990-02-20",
+    "registered_address": {
+      "text": "Cork",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}

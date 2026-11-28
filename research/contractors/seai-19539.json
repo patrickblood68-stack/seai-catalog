@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19539",
+  "listing_reference": "SEAI contractor ID 19539",
+  "trading_name": "Senator Windows Drogheda",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-27"
+      },
+      {
+        "url": "https://www.senatorwindows.ie/dealer/drogheda/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.senatorwindows.ie/dealer/drogheda/",
+    "phone": "0419809417",
+    "email": "gary.moran@senatorwindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "North East Energy Windows Limited",
+    "cro_number": "486686",
+    "registered_status": "Normal",
+    "incorporated_on": "2010-07-15",
+    "other_irish_directorships": 4,
+    "shareholders": 2,
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/North-East-Energy-Windows-Limited-486686",
+      "checked_on": "2026-11-27"
+    },
+    "other_irish_companies_closed": 4
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}

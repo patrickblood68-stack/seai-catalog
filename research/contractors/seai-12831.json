@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-12831",
+  "listing_reference": "SEAI contractor ID 12831",
+  "trading_name": "Oriel Insulations",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Monaghan",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://oriel-insulations.ie/",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://oriel-insulations.ie/",
+    "email": "info@oriel-insulations.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-22",
+    "review_notes": "First-party website matches the Monaghan listing. Incorporated entity remains unverified."
+  }
+}

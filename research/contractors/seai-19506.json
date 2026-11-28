@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19506",
+  "listing_reference": "SEAI contractor ID 19506",
+  "trading_name": "New Frame Windows And Doors Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 1",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://newframewindowsanddoorsltd.com/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://newframewindowsanddoorsltd.com/",
+    "phone": "089 409 9591"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "New Frame Windows and Doors Limited",
+    "cro_number": "767309",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-07-04",
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Dublin 22",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/New-Frame-Windows-And-Doors-Limited-767309",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified its published business contacts."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10217",
+  "listing_reference": "SEAI contractor ID 10217",
+  "trading_name": "CCB Building Company Ltd T/A Oak Ridge Builders",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 24",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Ccb Building Company Limited",
+    "cro_number": "549334",
+    "registered_status": "Normal",
+    "incorporated_on": "2014-09-09",
+    "registered_address": {
+      "text": "Wicklow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 2,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Ccb-Building-Company-Limited-549334",
+      "checked_on": "2026-11-20"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-20",
+    "review_notes": "The SEAI listing names CCB Building Company Ltd as the legal entity. SoloCheck gives a partial registered address in Wicklow, distinct from the Dublin business base. Official contact details remain unverified."
+  }
+}

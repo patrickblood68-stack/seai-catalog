@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13882",
+  "listing_reference": "SEAI contractor ID 13882",
+  "trading_name": "Homergy Ltd T/AComfort Solutions Retrofit",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Dry-Lining Insulation",
+      "Exhaust Air to Water Heat Pump",
+      "External Doors",
+      "External Insulation",
+      "External Windows",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Heating Controls Upgrade only",
+      "Roof Insulation",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://comfortsolutions.ie/contact/",
+        "checked_on": "2026-11-22"
+      },
+      {
+        "url": "https://www.solocheck.ie/Irish-Business/Comfort-Solutions-Retrofit-696824",
+        "checked_on": "2026-11-22"
+      }
+    ],
+    "website": "https://comfortsolutions.ie/",
+    "email": "info@comfortsolutions.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Homergy Limited",
+    "cro_number": "612628",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Homergy-Limited-612628",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2017-10-02",
+    "other_irish_directorships": 1,
+    "shareholders": 3
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

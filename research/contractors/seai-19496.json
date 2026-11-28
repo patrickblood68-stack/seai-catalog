@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19496",
+  "listing_reference": "SEAI contractor ID 19496",
+  "trading_name": "Anthony Birmingham Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.anthonybirminghamwindowsanddoors.com/",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.anthonybirminghamwindowsanddoors.com/",
+    "phone": "0469431931",
+    "email": "abirminghamltd@gmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Anthony Birmingham Limited",
+    "cro_number": "73064",
+    "registered_status": "Normal",
+    "incorporated_on": "1980-01-10",
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Anthony-Birmingham-Limited-73064",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company and verified published business contacts."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17723",
+  "listing_reference": "SEAI contractor ID 17723",
+  "trading_name": "MC Heat Pumps & Ventilation",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Air to air Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.fgasregistration.ie/certifiedcompanies?letter=M&page=3",
+        "checked_on": "2026-11-25"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-25",
+    "review_notes": "The certification directory confirms the trading name and county. A SoloCheck company match and official phone or email could not be verified."
+  }
+}

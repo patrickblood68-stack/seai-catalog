@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-15787",
+  "listing_reference": "SEAI contractor ID 15787",
+  "trading_name": "Brendave Developments",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Westmeath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "candidate"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-23",
+    "review_notes": "A similarly named limited company surfaced, but its identity and SoloCheck company summary could not be verified. No business contact details were verified from an official source."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-18224",
+  "listing_reference": "SEAI contractor ID 18224",
+  "trading_name": "Mark Mckenna Carpentry & Building Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://markmckennabuilding.ie/",
+        "checked_on": "2026-11-26"
+      }
+    ],
+    "website": "https://markmckennabuilding.ie/"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mark McKenna Carpentry & Building Limited",
+    "cro_number": "759705",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-03-11",
+    "registered_address": {
+      "text": "Dublin 3",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mark-Mckenna-Carpentry-And-Building-Limited-759705",
+      "checked_on": "2026-11-26"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary and official business website."
+  }
+}

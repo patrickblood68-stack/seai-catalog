@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19482",
+  "listing_reference": "SEAI contractor ID 19482",
+  "trading_name": "Countrywide Windows Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Cork",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.countrywidewindows.ie/porches-old",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://countrywidewindows.ie/",
+    "phone": "087 851 5960",
+    "email": "sales@countrywidewindows.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-27",
+    "review_notes": "Verified published business contacts. The registered entity remains unverified."
+  }
+}

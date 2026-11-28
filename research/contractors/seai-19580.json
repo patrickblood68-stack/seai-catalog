@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19580",
+  "listing_reference": "SEAI contractor ID 19580",
+  "trading_name": "Glenham Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Glenham Limited",
+    "cro_number": "117425",
+    "registered_status": "Normal",
+    "incorporated_on": "1986-10-14",
+    "other_irish_directorships": 1,
+    "shareholders": 1,
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Glenham-Limited-117425",
+      "checked_on": "2026-11-27"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27",
+    "review_notes": "Matched the company. Official business contacts remain unverified."
+  }
+}

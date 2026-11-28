@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19727",
+  "listing_reference": "SEAI contractor ID 19727",
+  "trading_name": "Windows Direct",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.windowsdirect.ie/contact/",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://www.windowsdirect.ie/",
+    "phone": "0897018153",
+    "email": "info@windowsdirect.ie"
+  },
+  "company": {
+    "match_status": "unmatched"
+  },
+  "workflow": {
+    "status": "needs_a_match",
+    "checked_on": "2026-11-28",
+    "review_notes": "Public business contact verified. No matching legal entity was verified."
+  }
+}

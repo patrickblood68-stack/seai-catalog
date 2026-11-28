@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17903",
+  "listing_reference": "SEAI contractor ID 17903",
+  "trading_name": "Airsol Renewable Solutions Ltd",
+  "business": {
+    "services": [
+      "Air to Water Heat Pump",
+      "Exhaust Air to Water Heat Pump",
+      "Ground to Water Heat Pump (Horizontal)",
+      "Ground to Water Heat Pump (Vertical)",
+      "Solar Heating",
+      "Water to Water Heat Pump"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://airsol.ie/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://airsol.ie/"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Airsol Renewable Solutions Limited",
+    "cro_number": "732308",
+    "registered_status": "Normal",
+    "incorporated_on": "2022-12-21",
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 3,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Airsol-Renewable-Solutions-Limited-732308",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "Matched by company name and county and verified the official business website."
+  }
+}

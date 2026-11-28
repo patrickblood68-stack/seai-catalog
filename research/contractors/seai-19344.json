@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19344",
+  "listing_reference": "SEAI contractor ID 19344",
+  "trading_name": "Amdg Construction Services Limited",
+  "business": {
+    "services": [
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 9",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Amdg Construction Services Limited",
+    "cro_number": "768369",
+    "registered_status": "Normal",
+    "incorporated_on": "2024-07-24",
+    "other_irish_directorships": 0,
+    "registered_address": {
+      "text": "Dublin 9",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Amdg-Construction-Services-Limited-768369",
+      "checked_on": "2026-11-26"
+    },
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-26",
+    "review_notes": "Matched the company and checked its SoloCheck summary. Official business contacts remain unverified."
+  }
+}

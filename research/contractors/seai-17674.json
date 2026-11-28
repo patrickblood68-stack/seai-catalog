@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-17674",
+  "listing_reference": "SEAI contractor ID 17674",
+  "trading_name": "Lough Projects",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://lough.ie/",
+        "checked_on": "2026-11-25"
+      }
+    ],
+    "website": "https://lough.ie/",
+    "email": "info@lough.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Jspm Propono Limited",
+    "cro_number": "672844",
+    "registered_status": "Normal",
+    "incorporated_on": "2020-06-23",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 3,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Jspm-Propono-Limited-672844",
+      "checked_on": "2026-11-25"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-25",
+    "review_notes": "SoloCheck lists Lough Projects as a trading name of the company. The public email is from the official website."
+  }
+}

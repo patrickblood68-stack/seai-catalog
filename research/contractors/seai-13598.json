@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13598",
+  "listing_reference": "SEAI contractor ID 13598",
+  "trading_name": "Brendan Maher & Sons Construction Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Heating Controls Upgrade only",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Kilkenny",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Brendan Maher & Sons Construction Limited",
+    "cro_number": "463919",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Kilkenny",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Brendan-Maher-And-Sons-Construction-Limited-463919",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2008-11-04",
+    "other_irish_directorships": 0,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business contacts remain unverified."
+  }
+}

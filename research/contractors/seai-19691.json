@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19691",
+  "listing_reference": "SEAI contractor ID 19691",
+  "trading_name": "Sunshine Windows And Doors Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.sunshinewindows.ie/contact-us",
+        "checked_on": "2026-11-27"
+      }
+    ],
+    "website": "https://www.sunshinewindows.ie/",
+    "phone": "091795295",
+    "email": "info@sunshinewindows.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Sunshine Windows & Doors Limited",
+    "cro_number": "503983",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Sunshine-Windows-And-Doors-Limited-503983",
+      "checked_on": "2026-11-27"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2011-09-22",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 2,
+    "shareholders": 1,
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-27"
+  }
+}

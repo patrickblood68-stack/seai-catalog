@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-10719",
+  "listing_reference": "SEAI contractor ID 10719",
+  "trading_name": "Usher Insulations Ltd",
+  "business": {
+    "services": [
+      "Cavity",
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.usherinsulations.com/contact/",
+        "checked_on": "2026-11-21"
+      }
+    ],
+    "website": "https://www.usherinsulations.com/",
+    "email": "sales@usherinsulations.com",
+    "phone": "01 820 1921"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Usher Insulations Limited",
+    "cro_number": "133931",
+    "registered_status": "Normal",
+    "incorporated_on": "1988-07-18",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 4,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Usher-Insulations-Limited-133931",
+      "checked_on": "2026-11-21"
+    },
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-21",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

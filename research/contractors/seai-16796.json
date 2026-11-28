@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16796",
+  "listing_reference": "SEAI contractor ID 16796",
+  "trading_name": "NewSpace Building Services Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "External Doors",
+      "External Windows",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Dublin"
+    ],
+    "base_location": "Dublin 15",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://newspace.ie/contact-us/",
+        "checked_on": "2026-11-24"
+      }
+    ],
+    "website": "https://newspace.ie/",
+    "email": "info@newspace.ie",
+    "phone": "01 537 6161"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Sala Building Services Limited",
+    "cro_number": "528027",
+    "incorporated_on": "2013-05-27",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Dublin",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Sala-Building-Services-Limited-528027",
+      "checked_on": "2026-11-24"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-24",
+    "review_notes": "SoloCheck supplied a partial registered address. SoloCheck lists Newspace Building Services as a trading name."
+  }
+}

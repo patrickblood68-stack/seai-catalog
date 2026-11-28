@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-16267",
+  "listing_reference": "SEAI contractor ID 16267",
+  "trading_name": "Leinster Gas Heating Ltd",
+  "business": {
+    "services": [
+      "Heating Controls Upgrade only"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://leinstergas.ie/contact-us/",
+        "checked_on": "2026-11-23"
+      }
+    ],
+    "website": "https://leinstergas.ie/",
+    "email": "info@leinstergas.ie",
+    "phone": "041 984 8774"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Leinster Gas Heating Limited",
+    "cro_number": "643206",
+    "incorporated_on": "2019-02-07",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Leinster-Gas-Heating-Limited-643206",
+      "checked_on": "2026-11-23"
+    },
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-23",
+    "review_notes": "SoloCheck supplied a partial registered address."
+  }
+}

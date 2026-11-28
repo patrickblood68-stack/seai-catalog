@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-13913",
+  "listing_reference": "SEAI contractor ID 13913",
+  "trading_name": "MRM Building and Development Ltd",
+  "business": {
+    "services": [
+      "Dry-Lining Insulation",
+      "Roof Insulation"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Louth",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Mrm Building and Development Limited",
+    "cro_number": "671004",
+    "registered_status": "Normal",
+    "registered_address": {
+      "text": "Louth",
+      "completeness": "partial"
+    },
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Mrm-Building-And-Development-Limited-671004",
+      "checked_on": "2026-11-22"
+    },
+    "incorporated_on": "2020-05-22",
+    "other_irish_directorships": 1,
+    "shareholders": 3
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-22",
+    "review_notes": "SoloCheck supplied a partial registered address. Official business email and phone remain unverified."
+  }
+}

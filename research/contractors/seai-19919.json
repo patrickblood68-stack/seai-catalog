@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19919",
+  "listing_reference": "SEAI contractor ID 19919",
+  "trading_name": "John Spillane Glazing Ltd.",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Munster"
+    ],
+    "base_location": "Kerry",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.spillaneglazing.com/about",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://www.spillaneglazing.com/",
+    "phone": "0667147000",
+    "email": "info@spillaneglazing.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "John Spillane Glass & Glazing Limited",
+    "cro_number": "364976",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/John-Spillane-Glass-And-Glazing-Limited-364976",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2002-12-11",
+    "registered_address": {
+      "text": "Kerry",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}
