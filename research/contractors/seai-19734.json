@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19734",
+  "listing_reference": "SEAI contractor ID 19734",
+  "trading_name": "Tudor Windows Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Meath",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://tudorwindows.com/contact-us/",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://tudorwindows.com/",
+    "phone": "0862406728",
+    "email": "tudorwindowsdave@gmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Tudor Windows Limited",
+    "cro_number": "532694",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Tudor-Windows-Limited-532694",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2013-09-12",
+    "registered_address": {
+      "text": "Meath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 2
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}

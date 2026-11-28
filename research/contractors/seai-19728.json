@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19728",
+  "listing_reference": "SEAI contractor ID 19728",
+  "trading_name": "Enerfit Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Limerick",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://enerfit.ie/",
+        "checked_on": "2026-11-28"
+      },
+      {
+        "url": "https://www.seai.ie/sites/default/files/2026-02/Windows-and-Doors-Contractors.pdf",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://enerfit.ie/",
+    "phone": "0872573892",
+    "email": "design@enerfit.ie"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Enerfit Limited",
+    "cro_number": "762420",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Enerfit-Limited-762420",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2024-04-22",
+    "registered_address": {
+      "text": "Limerick",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}

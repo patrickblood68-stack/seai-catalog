@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19735",
+  "listing_reference": "SEAI contractor ID 19735",
+  "trading_name": "Roscommon Windows Ltd",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Roscommon",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://roscommonwindowsanddoors.com/",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://roscommonwindowsanddoors.com/",
+    "phone": "0906633026",
+    "email": "info@roscommonwindowsanddoors.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Roscommon Windows Limited",
+    "cro_number": "745069",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Roscommon-Windows-Limited-745069",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2023-07-14",
+    "registered_address": {
+      "text": "Westmeath",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 5,
+    "shareholders": 2,
+    "other_irish_companies_closed": 1,
+    "shared_eircode": {
+      "count": 2,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}
