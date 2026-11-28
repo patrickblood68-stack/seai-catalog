@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19880",
+  "listing_reference": "SEAI contractor ID 19880",
+  "trading_name": "Oakwood Glazing Ltd Ta Grady Joinery",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Mayo",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Oakwood Glazing Limited",
+    "cro_number": "515431",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Oakwood-Glazing-Limited-515431",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2012-07-13",
+    "registered_address": {
+      "text": "Mayo",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 15,
+    "shareholders": 1,
+    "other_irish_companies_closed": 1,
+    "shared_eircode": {
+      "count": 1,
+      "qualifier": "at_least"
+    }
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28",
+    "review_notes": "Company matched. Official business contacts remain unverified."
+  }
+}
