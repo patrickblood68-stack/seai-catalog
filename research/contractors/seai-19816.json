@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19816",
+  "listing_reference": "SEAI contractor ID 19816",
+  "trading_name": "Old Manor Windows Ltd.",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Carlow",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Old Manor Windows Limited",
+    "cro_number": "185467",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Old-Manor-Windows-Limited-185467",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "1992-03-06",
+    "registered_address": {
+      "text": "Carlow",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28",
+    "review_notes": "Company matched. Official business contacts remain unverified."
+  }
+}
