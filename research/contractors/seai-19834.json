@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19834",
+  "listing_reference": "SEAI contractor ID 19834",
+  "trading_name": "Odin Doors And Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster",
+      "Ulster"
+    ],
+    "base_location": "Co Dublin",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://www.odindoorsandwindows.ie/about",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://www.odindoorsandwindows.ie/",
+    "phone": "0896061708"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Odin Doors & Windows Limited",
+    "cro_number": "723338",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Odin-Doors-And-Windows-Limited-723338",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2022-07-27",
+    "registered_address": {
+      "text": "Dublin 24",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}
