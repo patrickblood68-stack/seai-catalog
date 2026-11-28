@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19935",
+  "listing_reference": "SEAI contractor ID 19935",
+  "trading_name": "FranMac Windows and Joinery Limited",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Ulster"
+    ],
+    "base_location": "Donegal",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Franmac Windows & Joinery Limited",
+    "cro_number": "825438",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Franmac-Windows-And-Joinery-Limited-825438",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2026-09-09",
+    "registered_address": {
+      "text": "Donegal",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28",
+    "review_notes": "Company matched. Official business contacts remain unverified."
+  }
+}
