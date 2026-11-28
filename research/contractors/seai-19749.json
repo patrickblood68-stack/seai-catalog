@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19749",
+  "listing_reference": "SEAI contractor ID 19749",
+  "trading_name": "Am.Wincon",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Leinster (Excluding Dublin)"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Am Wincon Limited",
+    "cro_number": "742626",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Am-Wincon-Limited-742626",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2023-06-06",
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28",
+    "review_notes": "Company matched. Official business contacts remain unverified."
+  }
+}

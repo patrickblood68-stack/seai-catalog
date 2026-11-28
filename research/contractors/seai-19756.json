@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19756",
+  "listing_reference": "SEAI contractor ID 19756",
+  "trading_name": "Finestra Ltd.",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht",
+      "Dublin",
+      "Leinster (Excluding Dublin)",
+      "Munster"
+    ],
+    "base_location": "Wexford",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      }
+    ]
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Finestra Limited",
+    "cro_number": "496973",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Finestra-Limited-496973",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2011-03-31",
+    "registered_address": {
+      "text": "Wexford",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 0,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28",
+    "review_notes": "Company matched. Official business contacts remain unverified."
+  }
+}
