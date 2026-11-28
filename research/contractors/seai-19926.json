@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "contractor_id": "seai-19926",
+  "listing_reference": "SEAI contractor ID 19926",
+  "trading_name": "Krb Windows",
+  "business": {
+    "services": [
+      "External Doors",
+      "External Windows"
+    ],
+    "service_areas": [
+      "Connacht"
+    ],
+    "base_location": "Galway",
+    "sources": [
+      {
+        "url": "https://hes.seai.ie/GrantProcess/ContractorSearch.aspx",
+        "checked_on": "2026-11-16"
+      },
+      {
+        "url": "https://krbconstructionandwindows.ie/contact",
+        "checked_on": "2026-11-28"
+      }
+    ],
+    "website": "https://krbconstructionandwindows.ie/",
+    "phone": "0858008231",
+    "email": "krb.bc@hotmail.com"
+  },
+  "company": {
+    "match_status": "confirmed",
+    "registered_name": "Krb Building Construction and Windows Limited",
+    "cro_number": "674522",
+    "summary_source": {
+      "url": "https://www.solocheck.ie/Irish-Company/Krb-Building-Construction-And-Windows-Limited-674522",
+      "checked_on": "2026-11-28"
+    },
+    "registered_status": "Normal",
+    "incorporated_on": "2020-07-24",
+    "registered_address": {
+      "text": "Galway",
+      "completeness": "partial"
+    },
+    "other_irish_directorships": 1,
+    "shareholders": 1
+  },
+  "workflow": {
+    "status": "ready_for_review",
+    "checked_on": "2026-11-28"
+  }
+}
